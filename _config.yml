@@ -3,7 +3,7 @@ subtitle: "Introduction to Programming for the Web"
 email: vanwars@unca.edu
 baseurl: "/fall2023"
 term_start_date: "2023-08-21"
-term_end_date: "2023-12-05"
+term_end_date: "2023-12-17"
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

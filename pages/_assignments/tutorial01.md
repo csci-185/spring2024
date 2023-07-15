@@ -2,7 +2,7 @@
 layout: assignment-two-column
 title: Analyze an Internet Platform
 type: tutorial
-draft: 1
+draft: 0
 points: 6
 abbreviation: Tutorial 1
 show_schedule: 1

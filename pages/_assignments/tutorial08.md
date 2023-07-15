@@ -24,13 +24,13 @@ Today you are going to create a drawing program as a means to help you practice:
 
 When you're done, you will have created something that looks like the video shown below:
 
-<img class="medium frame" src="/spring2023/assets/images/tutorials/tutorial08/drawing.gif"/>
+<img class="medium frame" src="/fall2023/assets/images/tutorials/tutorial08/drawing.gif"/>
 
 
 ## Set Up
 Please download the `tutorial08.zip` zip file, extract it, and move the `tutorial08` folder inside of your `csci185/tutorials` folder.
 
-<a href="/spring2023/course-files/tutorials/tutorial08.zip" class="nu-button">Download Tutorial 8 <i class="fas fa-download"></i></a> 
+<a href="/fall2023/course-files/tutorials/tutorial08.zip" class="nu-button">Download Tutorial 8 <i class="fas fa-download"></i></a> 
 
 When you're done, please examine the starter files before beginning the assignment.
 

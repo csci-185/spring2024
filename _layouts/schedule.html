@@ -5,15 +5,15 @@ layout: default
 
 {% assign dateStart = site.term_start_date | date: '%s' | times: 1 %}
 {% assign dateEnd = site.term_end_date | date: '%s' | times: 1 %}
-{% assign secondsPerDay = 86400 %}
+<!-- had to increase secondsPerDay from 86400 to 86500 to get this to work. So weird.-->
+{% assign secondsPerDay = 86500 %}
 {% assign num_weeks = dateEnd | minus: dateStart | divided_by: secondsPerDay | divided_by: 7 %}
-
 <!-- This for loop is a hack. It generates MWF dates between a date range -->
 {% assign dates = "" | split: ',' %}
 {% for i in (0..num_weeks) %} 
     {% assign multiplier = i | times: 7 %}
+
     {% assign diff = secondsPerDay | times: multiplier %}
-    
     {% assign mon = dateStart | plus: diff | date: "%Y-%m-%d" %}
 
     {% assign multiplier = multiplier | plus: 2 %}
@@ -24,7 +24,10 @@ layout: default
     {% assign diff = secondsPerDay | times: multiplier %}
     {% assign fri = dateStart | plus: diff | date: "%Y-%m-%d" %}
     {% assign dates = dates | push: mon  | push: wed | push: fri %}
+   
 {% endfor %}
+
+
 
 {% assign everything = site.assignments | concat: site.lectures | concat: site.quizzes %}
 {% assign labs = site.assignments | where: 'type', 'tutorial' %}
@@ -79,11 +82,11 @@ layout: default
                 <th>
                 {% assign mod = diffDays | modulo: 7 %}
 
-                {% if mod == 1 or mod == 0 %}
+                {% if mod == 1 %}
                     Week {{week}}
                 {% endif %}
                 <span class="due-date">
-                    {{ date | date: "%m/%d/%y" }}
+                    {{ date | date: "%m/%d/%y" }} - {{diffDays}}
                 </span>
                 </th>
                 {% if lecture %}

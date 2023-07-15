@@ -3,7 +3,7 @@ layout: two-column
 title: Intro to the Internet
 type: module
 num: 1
-draft: 1
+draft: 0
 due_date: 2023-08-21
 ---
 
@@ -30,11 +30,13 @@ Before we start building websites, let's take some time to understand how the In
 ## Slides
 Slides will be posted before class.
 
-1. [Intro to the course](https://docs.google.com/presentation/d/1lBGszqVO9RNqOPKeLstZ0tfVS_-b46ON8lqeuDTowhA/edit?usp=sharing)
-2. [Intro to the Internet](https://docs.google.com/presentation/d/14wLlDdn-Q65tVWn1er_iYIS1DTNVhOJ5qco-sU6qyzc/edit?usp=sharing)
+<!-- 1. [Intro to the course](https://docs.google.com/presentation/d/1lBGszqVO9RNqOPKeLstZ0tfVS_-b46ON8lqeuDTowhA/edit?usp=sharing)
+2. [Intro to the Internet](https://docs.google.com/presentation/d/14wLlDdn-Q65tVWn1er_iYIS1DTNVhOJ5qco-sU6qyzc/edit?usp=sharing) -->
 
 
 ## Activities
-* <a href="https://forms.gle/vvAE4EDhHiBL8hLv5" target="_blank">Pre-Course Questionnaire</a>
+Activities will be published before class.
+
+<!-- * <a href="https://forms.gle/vvAE4EDhHiBL8hLv5" target="_blank">Pre-Course Questionnaire</a>
 * Human Bingo (analog activity)
-{:.compact}
+{:.compact} -->

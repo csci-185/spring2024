@@ -102,11 +102,11 @@ This software is also installed on all of the classroom computers.
 I have compiled a list of web-based reference materials on the course website:
 
 {:.compact}
-* [HTML Resources](/spring2023/html-reference)
-* [CSS Resources](/spring2023/css-reference)
-* [JavaScript Resources](/spring2023/javascript-reference)
-* [Design Resources](/spring2023/design-reference)
-* [Accessibility Resources](/spring2023/accessibility-reference)
+* [HTML Resources](/fall2023/html-reference)
+* [CSS Resources](/fall2023/css-reference)
+* [JavaScript Resources](/fall2023/javascript-reference)
+* [Design Resources](/fall2023/design-reference)
+* [Accessibility Resources](/fall2023/accessibility-reference)
 
 Before each class, you may be assigned some pre-recorded videos, readings, or tutorial links from this resource guide, which will cover specific concepts and ideas that we will be practicing during lecture. Please set aside time to review these materials, as they will make the assignments and projects easier!
 

@@ -1,7 +1,7 @@
 ---
 layout: two-column
 title: Final Exam (JavaScript)
-draft: 0
+draft: 1
 points: 20
 due_date: 2023-02-10
 ---
@@ -14,13 +14,13 @@ due_date: 2023-02-10
 </style>
 
 
-<a href="/spring2023/course-files/exams/final-exam.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/exams/final-exam.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
 
 ## Required: DOM Manipulation
 Open the `exercise01` folder and add click event handlers to all of the div tags. When a div element is clicked, its background should change color (pick any color you like). When you’re done, your page should look like the demo shown below:
 
 
-<img class="medium frame" src="/spring2023/assets/images/quizzes/quiz03/exercise01.gif" />
+<img class="medium frame" src="/fall2023/assets/images/quizzes/quiz03/exercise01.gif" />
 
 
 ## Optional: Functions & Loops
@@ -40,7 +40,7 @@ Open the `exercise02` folder and examine all of the files. Inside of `main.js`, 
     * Days (i.e., which days does the course meet?)
 3. Location and Days may be `null`. That's OK for this exercise (though in real life, you'd probably want to output a friendlier message).
 
-<img class="large frame" src="/spring2023/assets/images/quizzes/quiz03/exercise03.png" />
+<img class="large frame" src="/fall2023/assets/images/quizzes/quiz03/exercise03.png" />
 
 **Hints**
 * Loop through the `courses` array.

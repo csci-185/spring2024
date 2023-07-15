@@ -2,12 +2,12 @@
 layout: module
 title: "Activity: Keyframes"
 type: activity
-draft: 0
+draft: 1
 ---
 
 Please download the exercise files (below) and attempt one or more of the following exercises.
 
-<a href="/spring2023/course-files/activities/keyframes.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/activities/keyframes.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
 
 ## Cheatsheet
 
@@ -95,7 +95,7 @@ See what happens.
 ### Add more clouds
 See if you can add more clouds that move in different directions and at different speeds.
 
-<img src="/spring2023/assets/images/activities/keyframes/landscape-animation.gif" alt="image of the animation" />
+<img src="/fall2023/assets/images/activities/keyframes/landscape-animation.gif" alt="image of the animation" />
 
 ## Exercise 2: Experimenting with keyframes on your homepage
 See if you can add a keyframe hover effect (like the ones) in `sample-files/02-heart-infinite` or `sample-files/03-spin-activate-on-hover` in your homepage.

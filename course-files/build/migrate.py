@@ -73,6 +73,6 @@ if __name__ == '__main__':
     file_paths += get_files('../../_includes') 
     for file_path in file_paths:
         # do_replacement('CSCI XXX', 'CSCI 185', file_path)
-        do_replacement('draft: 0', 'draft: 1', file_path)
+        do_replacement('draft: 1', 'draft: 1', file_path)
         # do_replacement('Northwestern University', 'UNCA', file_path)
         # do_replacement('Northwestern', 'UNCA', file_path)

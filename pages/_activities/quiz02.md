@@ -2,7 +2,7 @@
 layout: two-column
 title: "Quiz 2: Taco Temple Part II"
 type: tutorial
-draft: 0
+draft: 1
 points: 6
 num: 4
 due_date: 2023-02-10
@@ -43,7 +43,7 @@ due_date: 2023-02-10
 
 ## Set-Up
 
-<a href="/spring2023/course-files/quizzes/quiz02.zip" class="nu-button">Quiz 2 Starter Files <i class="fas fa-download"></i></a>  <a href="/spring2023/course-files/quizzes/quiz02_answers.zip" class="button">Quiz 2 Solutions <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/quizzes/quiz02.zip" class="nu-button">Quiz 2 Starter Files <i class="fas fa-download"></i></a>  <a href="/fall2023/course-files/quizzes/quiz02_answers.zip" class="button">Quiz 2 Solutions <i class="fas fa-download"></i></a>
 
 * Download the starter files and unzip them. They should be unzipped in a folder called `quiz02`.
 * Move your `quiz02` folder into your `csci185/quizzes` folder.
@@ -85,7 +85,7 @@ Make the header section look like the picture below, following the guidelines pr
 * [5pts] Don't forget the spacing surrounding the image and navigation
 {:.compact}
 
-<img class="large" src="/spring2023/assets/images/quizzes/quiz02/header.png" />
+<img class="large" src="/fall2023/assets/images/quizzes/quiz02/header.png" />
 
 
 {:#part2}
@@ -111,7 +111,7 @@ Within the `main` section of your HTML page, create layout shown below by follow
     * Make sure you apply some padding within each card
 {:.compact}
 
-<a style="text-decoration: none; border: none;" href="/spring2023/assets/images/quizzes/quiz02/main.png" target="_blank"><img class="frame large" src="/spring2023/assets/images/quizzes/quiz02/main.png" /></a>
+<a style="text-decoration: none; border: none;" href="/fall2023/assets/images/quizzes/quiz02/main.png" target="_blank"><img class="frame large" src="/fall2023/assets/images/quizzes/quiz02/main.png" /></a>
 
 
 {:#part4}
@@ -120,7 +120,7 @@ Use the WAVE browser extension to fix any accessibility errors. When you're done
 * You **do NOT** have to submit a screenshot of your accessibility report.
 * You **do** have to correct all the errors.
 
-<img class="medium" src="/spring2023/assets/images/quizzes/quiz02/wave.png" />
+<img class="medium" src="/fall2023/assets/images/quizzes/quiz02/wave.png" />
 
 {:#part5}
 ### Part 5: Pseudo-classes & Transitions [10pts]
@@ -132,7 +132,7 @@ Create a rule for all of the "card" sections so when you hover over them:
 
 [5pts] Ensure that the transition is smooth:
 
-<img class="frame large" src="/spring2023/assets/images/quizzes/quiz02/transitions.gif" />
+<img class="frame large" src="/fall2023/assets/images/quizzes/quiz02/transitions.gif" />
 
 
 {:#part6}
@@ -158,11 +158,11 @@ Verify that you've completed **all 7 tasks** and that you're final Taco Temple m
 <div class="verify">
     <section>
         <h4>Desktop Layout</h4>
-        <img src="/spring2023/assets/images/quizzes/quiz02/desktop-ui.gif" alt="Animation of Desktop layout" />
+        <img src="/fall2023/assets/images/quizzes/quiz02/desktop-ui.gif" alt="Animation of Desktop layout" />
     </section>
     <section>
         <h4>Tablet / Mobile</h4>
-        <img src="/spring2023/assets/images/quizzes/quiz02/tablet-ui.gif" alt="Animation of Tablet / Mobile layout" />
+        <img src="/fall2023/assets/images/quizzes/quiz02/tablet-ui.gif" alt="Animation of Tablet / Mobile layout" />
     </section>
 </div>
 

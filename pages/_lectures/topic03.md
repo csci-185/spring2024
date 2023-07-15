@@ -3,7 +3,7 @@ layout: module
 title: Intro to HTML
 type: module
 num: 3
-draft: 1
+draft: 0
 due_date: 2023-08-30
 readings:
    - url: ../html-reference/
@@ -43,12 +43,16 @@ readings:
 ---
 
 ## Slides
-* Lecture 3: <a href="https://docs.google.com/presentation/d/1wDQpzogOqFGcVjbMIsDtVtj3FJdQ15st3OgzM_fJgbQ/edit?usp=sharing" target="_blank">Intro to HTML</a> (Wednesday, 01/18)
-* Lecture 4: <a href="https://docs.google.com/presentation/d/1umPwjLPPaiSTv2tRYc4FxXDmc3UEJZxMPDCRAKhcio4/edit?usp=sharing" target="_blank">Semantic tags and relative links</a> (Monday, 01/23)
+Slides will be published before class.
+
+<!-- * Lecture 3: <a href="https://docs.google.com/presentation/d/1wDQpzogOqFGcVjbMIsDtVtj3FJdQ15st3OgzM_fJgbQ/edit?usp=sharing" target="_blank">Intro to HTML</a>
+* Lecture 4: <a href="https://docs.google.com/presentation/d/1umPwjLPPaiSTv2tRYc4FxXDmc3UEJZxMPDCRAKhcio4/edit?usp=sharing" target="_blank">Semantic tags and relative links</a> -->
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1O7exzeo0Wg-RmAN7W20R10SSHdEt75Mx" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Activities
-1. Lecture 3: <a href="https://docs.google.com/document/d/1KIRFND9Xi2WikDE9Ry89hOsZZgyD0bIkSzaqGP8J4i4/edit?usp=sharing" target="_blank">Write your first HTML page</a> (Wednesday, 01/18)
-2. Lecture 4: Linking Activity. [Download the exercise files](../course-files/lectures/lecture04.zip) and follow <a href="https://docs.google.com/document/d/14_YEXKr4z2Hb_r-ZHgbhIVgzBlNR_Dc2YB47kTOwa4U/edit?usp=sharing" target="_blank">the instructions</a> (Monday, 01/23)
+Activities will be published before class.
+
+<!-- 1. Lecture 3: <a href="https://docs.google.com/document/d/1KIRFND9Xi2WikDE9Ry89hOsZZgyD0bIkSzaqGP8J4i4/edit?usp=sharing" target="_blank">Write your first HTML page</a> (Wednesday, 01/18)
+2. Lecture 4: Linking Activity. [Download the exercise files](../course-files/lectures/lecture04.zip) and follow <a href="https://docs.google.com/document/d/14_YEXKr4z2Hb_r-ZHgbhIVgzBlNR_Dc2YB47kTOwa4U/edit?usp=sharing" target="_blank">the instructions</a> (Monday, 01/23) -->

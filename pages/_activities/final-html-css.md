@@ -1,7 +1,7 @@
 ---
 layout: two-column
 title: Final Exam (HTML + CSS)
-draft: 0
+draft: 1
 points: 20
 due_date: 2023-02-10
 ---
@@ -35,17 +35,17 @@ due_date: 2023-02-10
 You are going to build the webpage pictured below:
 
 ### Desktop
-<img class="medium" src="/spring2023/assets/images/final-exam/ss-desktop.png" />
+<img class="medium" src="/fall2023/assets/images/final-exam/ss-desktop.png" />
 
 <table class="layout">
 <tr>
     <td>
         <h3>Tablet</h3>
-        <img class="small" src="/spring2023/assets/images/final-exam/ss-tablet.png" />
+        <img class="small" src="/fall2023/assets/images/final-exam/ss-tablet.png" />
     </td>
     <td>
         <h3>Mobile</h3>
-        <img class="x-small" src="/spring2023/assets/images/final-exam/ss-mobile.png" />
+        <img class="x-small" src="/fall2023/assets/images/final-exam/ss-mobile.png" />
     </td>
 </tr>
 </table>
@@ -55,7 +55,7 @@ You are going to build the webpage pictured below:
 ## Part 1: Setup
 Please download the starter files below (if you haven't already):
 
-<a href="/spring2023/course-files/exams/final-exam.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/exams/final-exam.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
 
 Then, inside of the `html-css-exercises` folder, create a brand new HTML file called `index.html` that is in **the root** of the `html-css-exercises` folder. If you did it correctly, your file structure should look like this:
 
@@ -111,7 +111,7 @@ Edit the `index.html` pages as follows:
 
 **Note:** you may not move the `contact.html` or `about.html` files outside of the `pages` folder. 
 
-<img class="medium" src="/spring2023/assets/images/final-exam/header.png" />
+<img class="medium" src="/fall2023/assets/images/final-exam/header.png" />
 
 ### 2.3. Main Section (6 Points)
 1. Below the `header` tag, create a `main` tag. 
@@ -120,7 +120,7 @@ Edit the `index.html` pages as follows:
     * A section that has a class of "photo-container".
     {:.compact}
 
-<img class="medium" src="/spring2023/assets/images/final-exam/main.png" />
+<img class="medium" src="/fall2023/assets/images/final-exam/main.png" />
 
 
 ### 2.4. Photo Container (16 Points)
@@ -132,7 +132,7 @@ Inside of the "photo-container" section you will make 9 div tags.
     * Don’t forget to use the `alt` attribute to give each image a description (for people who use a screen reader).
     {:.compact}
 
-<img class="medium" src="/spring2023/assets/images/final-exam/photo-container.png" />
+<img class="medium" src="/fall2023/assets/images/final-exam/photo-container.png" />
 
 <center>...</center>
 
@@ -140,7 +140,7 @@ Inside of the "photo-container" section you will make 9 div tags.
 ### 2.5. Footer (4 Points)
 Create a footer section below your `main` section using the `footer` tag. Within the footer, create a paragraph tag that says “Copyright Your Name, 2023.”
 
-<img class="medium" src="/spring2023/assets/images/final-exam/footer.png" />
+<img class="medium" src="/fall2023/assets/images/final-exam/footer.png" />
 
 
 ## Part 3: CSS Tasks (56 Points)

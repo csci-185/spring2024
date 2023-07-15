@@ -17,7 +17,7 @@ This final project option asks you to apply what you've learned to create an ani
 
 Most of these samples shown above have gone above and beyond the assignment specifications (and thus earned extra credit), but please know that meeting the assignment's minimum requirements is sufficient for earning all the available points. Please calibrate your implementation according to your experience level with programming (i.e. do more if you’re more experienced): you’ll get out of it what you put into it. See the rubric below to get a sense of how you will be evaluated on this assignment.
 
-<img class="frame center med-lg" src="/spring2023/assets/images/project01/animation.gif" />
+<img class="frame center med-lg" src="/fall2023/assets/images/project01/animation.gif" />
 
 {:.caption}
 Created by Rachel Smith (Berkeley City College)

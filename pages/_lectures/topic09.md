@@ -34,7 +34,7 @@ To round out our HTML & CSS instruction, we'll be going over some advanced CSS t
 * Lecture 14: <a href="https://docs.google.com/presentation/d/1QVVe19BuRSgqnzOt3cAsjMJ2NprHp3ijKGDAKpOyIU4/edit?usp=sharing" target="_blank">Keyframes</a>
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1O7exzeo0Wg-RmAN7W20R10SSHdEt75Mx" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Activities
 * Lecture 12: [Background Images & Media Activity](../activities/background-images)

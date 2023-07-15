@@ -23,9 +23,9 @@ Don’t be afraid to take a risk and explore something you do not yet know how t
 
 {:.medium}
 |--|--|--|
-04/03 | 10pts | Project proposal | 
-04/17 | 15pts | Midpoint project deliverable | 
-04/19 | 5pts | Share your progress with a few of your classmates | 
+11/06 | 10pts | Project proposal | 
+11/19 | 15pts | Midpoint project deliverable | 
+11/20 | 5pts | Share your progress with a few of your classmates | 
 05/02 | 30pts | Final project + write-up due | 
 |  | **60pts** | **Total Points** |
 

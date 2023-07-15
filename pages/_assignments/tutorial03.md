@@ -117,14 +117,14 @@ Once you've set up your two new files, go ahead and commit everything and push y
 
 #### 1. Staging
 
-<img class="large" src="/spring2023/assets/images/tutorials/tutorial03/ss1.png" />
+<img class="large" src="/fall2023/assets/images/tutorials/tutorial03/ss1.png" />
 
 #### 2. Committing
 
-<img class="large" src="/spring2023/assets/images/tutorials/tutorial03/ss2.png" />
+<img class="large" src="/fall2023/assets/images/tutorials/tutorial03/ss2.png" />
 
 #### 3. Syncing
-<img class="large" src="/spring2023/assets/images/tutorials/tutorial03/ss3.png" />
+<img class="large" src="/fall2023/assets/images/tutorials/tutorial03/ss3.png" />
 
 
 ## Step 2: Link to your work
@@ -144,7 +144,7 @@ To get some additional linking practice, please create an unordered list inside 
 ## Step 3: Plan your homepage design
 Eventually, you'll want to style your homepage to give it your own unique aesthetic. We'll start digging into some of the CSS principles needed to effectively style web pages next week. That said, it's never to early to start thinking about the look-and-feel of your website, and coming up with good ideas often starts by examining websites that inspire you. 
 
-To gather inspiration, you are going to go out to the Internet and find 5-10 web pages, images, advertisements, banners, etc. that you think look great! You can look at the [Design Resources page](/spring2023/design-reference/) to find some inspiring websites, or revisit websites that you already like.
+To gather inspiration, you are going to go out to the Internet and find 5-10 web pages, images, advertisements, banners, etc. that you think look great! You can look at the [Design Resources page](/fall2023/design-reference/) to find some inspiring websites, or revisit websites that you already like.
 
 When you have your list of websites, create an unordered list to the "inspiration" section of your homepage (like Sarah's <a href="https://vanwars.github.io/csci185-coursework" target="_blank">example</a>). Each list item should contain a link to one of the websites you found.
 

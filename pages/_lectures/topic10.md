@@ -30,9 +30,9 @@ This week, we're going to learn about some of the building blocks of programming
 
 ## Videos
 
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1O7exzeo0Wg-RmAN7W20R10SSHdEt75Mx" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Lecture Files
-* Lecture 15: <a href="/spring2023/course-files/lectures/lecture15.zip">Sample Files: Intro to JavaScript</a> (Monday, 03/13)
-* Lecture 16: <a href="/spring2023/course-files/lectures/lecture16.zip">Sample Files: Building Blocks of Programming</a> (Wednesday, 03/15)
+* Lecture 15: <a href="/fall2023/course-files/lectures/lecture15.zip">Sample Files: Intro to JavaScript</a> (Monday, 03/13)
+* Lecture 16: <a href="/fall2023/course-files/lectures/lecture16.zip">Sample Files: Building Blocks of Programming</a> (Wednesday, 03/15)
 

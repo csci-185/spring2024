@@ -1,7 +1,7 @@
 ---
 layout: two-column
 title: Final Exam
-draft: 0
+draft: 1
 points: 20
 due_date: 2023-02-10
 ---

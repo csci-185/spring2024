@@ -2,7 +2,7 @@
 layout: two-column
 title: Practice for Quiz 1
 type: tutorial
-draft: 0
+draft: 1
 points: 6
 num: 4
 due_date: 2023-02-03
@@ -16,12 +16,12 @@ due_date: 2023-02-03
 
 To study for Quiz 1, please complete the practice quiz by downloading the starter files and following the instructions (below). If you have questions, please ask during class time or in office hours. 
 
-<a href="/spring2023/course-files/activities/practice-quiz01.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/activities/practice-quiz01.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
 
 ## Part 1: Setup
 You are going to build the webpage pictured below:
 
-<img src="/spring2023/assets/images/quizzes/practice_quiz01/exercise01.png" />
+<img src="/fall2023/assets/images/quizzes/practice_quiz01/exercise01.png" />
 
 Inside of the `practice-quiz01` folder, create a brand new HTML file called `index.html` that is a ***direct child*** of the `practice-quiz01` folder. If you did it correctly, your file structure should look like this:
 

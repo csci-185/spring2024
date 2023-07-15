@@ -22,7 +22,7 @@ In this unit, we are going to be learning about data, and how websites use it to
 * <a href="https://docs.google.com/presentation/d/1F0ojlVeOYbFGuphOgWsg1FKMloY-5t82Hxg4eb3vGaY/edit?usp=sharing" target="_blank">Lecture 24: Midpoint Deliverables & Quiz review</a>
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1O7exzeo0Wg-RmAN7W20R10SSHdEt75Mx" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Lecture Files
-* Lecture 22: <a href="/spring2023/course-files/lectures/lecture22.zip">Sample Files: Course Lookup</a> (Wednesday, 04/12)
+* Lecture 22: <a href="/fall2023/course-files/lectures/lecture22.zip">Sample Files: Course Lookup</a> (Wednesday, 04/12)

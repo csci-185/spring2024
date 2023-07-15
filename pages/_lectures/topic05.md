@@ -14,7 +14,7 @@ due_date: 2023-09-11
 * [Selectors](../css-reference/selectors/)
     * [CSS Diner](https://flukeout.github.io/)
 * [Color](../css-reference/color/)
-* [CSS Units](/spring2023/css-reference/units/)
+* [CSS Units](/fall2023/css-reference/units/)
 * [Text &amp; Fonts](../css-reference/fonts/)
 * [The Box Model](../css-reference/box-model/) 
 
@@ -27,8 +27,8 @@ due_date: 2023-09-11
 * Lecture 7: <a href="https://docs.google.com/presentation/d/11IFLBOvm1-LjCDZQvtmh5db9M-PNsv0ZqR6Gao0912E/edit?usp=sharing" target="_blank">Pseudo-classes, transitions, external fonts, and HTML Forms</a> (Wednesday, 02/01)
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1O7exzeo0Wg-RmAN7W20R10SSHdEt75Mx" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Activities & Lecture Files
-1. Lecture 6: <a href="/spring2023/activities/intro-css">Photo Gallery Activity</a> (Monday, 01/30)
-1. Lecture 7: <a href="/spring2023/course-files/lectures/lecture07.zip">Demo Files</a> (Wednesday, 02/01)
+1. Lecture 6: <a href="/fall2023/activities/intro-css">Photo Gallery Activity</a> (Monday, 01/30)
+1. Lecture 7: <a href="/fall2023/course-files/lectures/lecture07.zip">Demo Files</a> (Wednesday, 02/01)

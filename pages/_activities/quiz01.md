@@ -2,7 +2,7 @@
 layout: two-column
 title: Quiz 1
 type: tutorial
-draft: 0
+draft: 1
 points: 6
 num: 4
 due_date: 2023-02-10
@@ -15,7 +15,7 @@ due_date: 2023-02-10
     }
 </style>
 
-<a href="/spring2023/course-files/quizzes/quiz01.zip" class="nu-button">Quiz 1 Starter Files <i class="fas fa-download"></i></a> <a href="/spring2023/course-files/quizzes/quiz01_answers.zip" class="button">Quiz 1 Solutions <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/quizzes/quiz01.zip" class="nu-button">Quiz 1 Starter Files <i class="fas fa-download"></i></a> <a href="/fall2023/course-files/quizzes/quiz01_answers.zip" class="button">Quiz 1 Solutions <i class="fas fa-download"></i></a>
 
 ## Set Up
 * Inside your `csci185` folder, create a folder called `quizzes`. 
@@ -57,7 +57,7 @@ When you're done with that, complete the Parts 1-4 as described below:
 ## Part 1. HTML Tasks (index.html) [30pts]
 For this section, you will be editing the `index.html` file in order to create the following structure inside of your `body` tag:
 
-<img class="preview" src="/spring2023/assets/images/quizzes/quiz01/schematic.png" />
+<img class="preview" src="/fall2023/assets/images/quizzes/quiz01/schematic.png" />
 
 ### 1. Stylesheet Link
 1. Inside of the `head` tag in your `index.html` file, add a link to the `styles.css` stylesheet (located in the `assets` > `css` folder).
@@ -79,7 +79,7 @@ For this section, you will be editing the `index.html` file in order to create t
 
 Note that `menu.html`, `contact.html` , and `location-hours.html` are all located inside of the `site-pages` folder.
 
-<img class="preview" src="/spring2023/assets/images/quizzes/quiz01/ss01.png" />
+<img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss01.png" />
 
 ### 4. Main Section
 1. Give the `main` tag a class called `"landing"`.
@@ -89,12 +89,12 @@ Note that `menu.html`, `contact.html` , and `location-hours.html` are all locate
     * An `h1` that says: "Call 828-255-8098<br> for take-out or click below to order online!"
     * A hyperlink that links to the Taco Temple order online page here: <a href="https://www.mamacitastacotemple.com/s/order" target="_blank">https://www.mamacitastacotemple.com/s/order</a>. The link text should say "Order now".
 
-<img class="preview" src="/spring2023/assets/images/quizzes/quiz01/ss02.png" />
+<img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss02.png" />
 
 ### 5. Footer
 Within the `footer` tag, create a paragraph tag that says “Copyright 2023, Taco Temple.”
 
-<img class="preview" src="/spring2023/assets/images/quizzes/quiz01/ss03.png" />
+<img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss03.png" />
 
 
 {:#part2}
@@ -257,7 +257,7 @@ form button {
 ### Verify that you're done with the styling
 When you're done, the homepage should look like this:
 
-<img class="large frame" src="/spring2023/assets/images/quizzes/quiz01/ss04.png" />
+<img class="large frame" src="/fall2023/assets/images/quizzes/quiz01/ss04.png" />
 
 
 {:#part3}
@@ -296,14 +296,14 @@ When you're done with Parts 1-4, double-check that you're done:
 
 #### A. HTML structure
 All 4 of the HTML pages you just edited should have the  semantic structure (pictured below)
-<img class="preview" src="/spring2023/assets/images/quizzes/quiz01/ss05.png" />
+<img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss05.png" />
 
 #### B. Links all work
 Every page should link to every other page (no broken links).
 * Note that linking from the detail pages to the index.html page is optional.
 
 #### C. The website should look like this animation
-<img class="preview" src="/spring2023/assets/images/quizzes/quiz01/tt-final.gif" />
+<img class="preview" src="/fall2023/assets/images/quizzes/quiz01/tt-final.gif" />
 
 #### D. Your homepage should link to the quiz.
 

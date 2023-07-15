@@ -3,7 +3,7 @@ layout: module
 title: Intro to CSS
 type: activity
 abbreviation: Activity 3
-draft: 0
+draft: 1
 num: 3
 include_pages: 
     - extras/css_cheatsheet.md
@@ -17,11 +17,11 @@ include_pages:
 
 Please download the exercise files (below).
 
-<a href="/spring2023/course-files/activities/intro-css-gallery.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/activities/intro-css-gallery.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
 
 Then, use the CSS Property Cheatsheet (below) and what you've learned about selectors to make the following drawing:
 
-<img class="large" src="/spring2023/assets/images/activities/intro-css/gallery.png" />
+<img class="large" src="/fall2023/assets/images/activities/intro-css/gallery.png" />
 
 ### Tips
 

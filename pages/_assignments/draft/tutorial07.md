@@ -25,11 +25,11 @@ due_date: 2023-02-24
 
 {:.update}
 > ## Solutions & Video Walkthrough
-> * [Solutions](/spring2023/course-files/tutorials/tutorial07_answers.zip)
+> * [Solutions](/fall2023/course-files/tutorials/tutorial07_answers.zip)
 > * <a href="https://drive.google.com/file/d/1l0D-_S1C3l37LHR0SVbH3QYMhZ4sl8Ft/view?usp=sharing" target="_blank">Video Walkthrough</a>
 
 
-<a href="/spring2023/course-files/tutorials/tutorial07.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/tutorials/tutorial07.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
 
 {: .blockquote-no-margin}
@@ -46,12 +46,12 @@ In this assignment, you are going to use a third-party JavaScript library called
 To draw your shapes, you will be using an (x, y) coordinate space that has a different origin from the one you use in math class. For computer graphics, the origin is typically in the top left-hand corner (pictured below). To help you debug, I have created a function, make_grid, in the helpers.py file, that will draw gridlines for you.
 
 
-<img class="med-lg center" src="/spring2023/assets/images/tutorials/tutorial07/grid.svg" /><br>Source: <a href="https://processing.org/tutorials/coordinatesystemandshapes" target="_blank">https://processing.org/tutorials/coordinatesystemandshapes</a>
+<img class="med-lg center" src="/fall2023/assets/images/tutorials/tutorial07/grid.svg" /><br>Source: <a href="https://processing.org/tutorials/coordinatesystemandshapes" target="_blank">https://processing.org/tutorials/coordinatesystemandshapes</a>
 
 ### p5.js sample code
 To get you started, I have created a file of samples, located in the `samples` folder, that you can use as a reference as you learn how to draw shapes using `p5.js`. Please feel free to copy and adapt code from this file to complete your assignment. When you open `samples/index.html` in your web browser, you should see a screen that looks like this:
 
-<img class="med-lg center" src="/spring2023/assets/images/tutorials/tutorial07/samples.png" />
+<img class="med-lg center" src="/fall2023/assets/images/tutorials/tutorial07/samples.png" />
 
 ### sketch.js (file you will be editing)
 In this assignment, you will be editing the `sketch.js` file. Inside of it, you will see a function called `setup()`. In `p5.js`, the `setup()` function is a special function that runs when the page loads. 
@@ -172,7 +172,7 @@ The job of the **drawFace** function is to draw a face (i.e. a circle) with two 
 ### Testing
 When you’re done, your program should draw this image that looks similar to this one (feel free to use whatever colors you want for the bullseye):
 
-<img class="medium" src="/spring2023/assets/images/tutorials/tutorial07/final-image.png" />
+<img class="medium" src="/fall2023/assets/images/tutorials/tutorial07/final-image.png" />
 
 Here is how your function calls should look (from within the `draw()` function):
 

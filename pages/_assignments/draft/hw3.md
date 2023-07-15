@@ -6,10 +6,10 @@ type: homework
 due_date: 2023-03-03
 ordering: 3
 points: 16
-draft: 0
+draft: 1
 ---
 
-<a class="nu-button" href="/spring2023/course-files/homework/hw03.zip">
+<a class="nu-button" href="/fall2023/course-files/homework/hw03.zip">
     download starter files 
     <i class="fas fa-download"></i>
 </a>
@@ -19,7 +19,7 @@ draft: 0
 > 1. Practice writing your own functions
 > 1. The opportunity to get creative!
 
-<img class="creature" src="/spring2023/assets/images/homework/hw03/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own choosing using p5.js. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (this can be a very confusing concept for people just learning to program), ask Sarah during class or come to tuturing / office hours.
+<img class="creature" src="/fall2023/assets/images/homework/hw03/creature.png" /> In this assignment, you are going to write a program to draw a creature of your own choosing using p5.js. At the end of this assignment, someone should be able to use your function to draw your creature: anywhere on the screen at any size or color. In other words, your function needs to honor the parameters that are passed into it. If you don't quite know what this means (this can be a very confusing concept for people just learning to program), ask Sarah during class or come to tuturing / office hours.
 
 ## Part 1: Design your creature
 On paper, sketch out some VERY SIMPLE creature ideas (shoot for using between 4-8 shapes). You can just draw the head of your creature (similar to the bear at the top) or the whole thing — the choice is up to you. Here are some links to ideas...
@@ -73,7 +73,7 @@ drawCreature(199, 469, 122, '#3f5364', '#bfdc65');
 drawGrid(canvas, screen_width, screen_height)
 ```
 
-<img class="medium frame center" src="/spring2023/assets/images/homework/hw03/creatures.png" />
+<img class="medium frame center" src="/fall2023/assets/images/homework/hw03/creatures.png" />
 
 
 ## What to Submit

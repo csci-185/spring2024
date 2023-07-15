@@ -10,11 +10,11 @@ due_date: 2023-03-10
 ---
 
 
-<a class="nu-button" href="/spring2023/course-files/tutorials/tutorial09.zip" target="_blank">
+<a class="nu-button" href="/fall2023/course-files/tutorials/tutorial09.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
-</a>  <a href="/spring2023/course-files/tutorials/tutorial09_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
+</a>  <a href="/fall2023/course-files/tutorials/tutorial09_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
 
-<img class="module-image" src="/spring2023/assets/images/tutorials/tutorial09/heart.png" />In this tutorial, you are going to design a customizable function that creates an image of **any** pixel art that can be represented as rows and columns of integers. The data structure that we will use to store these rows and columns of integers will be a "list of list" (see below). The purpose of this exercise is to help you feel a little bit more comfortable with list, iteration, and functions. In addition to pixel art, many different kinds of entities can also be expressed using similar data formats (JPEG images, songs, DNA sequences, whatever).
+<img class="module-image" src="/fall2023/assets/images/tutorials/tutorial09/heart.png" />In this tutorial, you are going to design a customizable function that creates an image of **any** pixel art that can be represented as rows and columns of integers. The data structure that we will use to store these rows and columns of integers will be a "list of list" (see below). The purpose of this exercise is to help you feel a little bit more comfortable with list, iteration, and functions. In addition to pixel art, many different kinds of entities can also be expressed using similar data formats (JPEG images, songs, DNA sequences, whatever).
 
 * <a href="https://docs.google.com/presentation/d/1eeo5pdP1l1gP_UyzfaMfWSO8visTGLXw-XgNwW08srU/edit?usp=sharing" target="_blank">Introductory Slides</a>
 
@@ -62,11 +62,11 @@ Open `pixel-art/sketch.js` and take a look at it. Then preview `index.html` in t
 pixel art object (Frank and the heart). However, everything is being drawn
 as a grey square. In other words, the color distinctions aren't being honored (see image below).
 
-<img class="small frame" src="/spring2023/assets/images/tutorials/tutorial09/before.png" />
+<img class="small frame" src="/fall2023/assets/images/tutorials/tutorial09/before.png" />
 
 For your first task, you will modify the `drawRow` function -- in any way you can think of -- so that the function honors the color distinctions. Remember: a zero means that you shouldn't draw anything in that cell, but the 1, 2, and 3 can be any color that you choose (see image below).
 
-<img class="small frame" src="/spring2023/assets/images/tutorials/tutorial09/partial.png" />
+<img class="small frame" src="/fall2023/assets/images/tutorials/tutorial09/partial.png" />
 
 {:.blockquote-no-margin}
 > **If you get stuck**: After you've given it a shot, take a look at `hints/hint1.js` to consider a few approaches that you might have tried (but of course, there are others).
@@ -90,7 +90,7 @@ drawRow(heart[2], 450, 380, 15);
 
 You will use 2 "for loops" -- one for `frank` and one for the `heart`. When you're done, the entirety of Frank and the heart should be drawn (see image below).
 
-<img class="small frame" src="/spring2023/assets/images/tutorials/tutorial09/step2.png" />
+<img class="small frame" src="/fall2023/assets/images/tutorials/tutorial09/step2.png" />
 
 {:.blockquote-no-margin}
 > **If you get stuck**: After you've given it a shot, take a look at `hints/hint2.js` to get a sense of how you might use a for loop to complete this task. Frank has been done for you. You try doing the heart.
@@ -118,7 +118,7 @@ drawPixelArt(frank, 420, 10, 10);
 
 ...it will generate the image pictured below.
 
-<img class="medium frame" src="/spring2023/assets/images/tutorials/tutorial09/step3.png" />
+<img class="medium frame" src="/fall2023/assets/images/tutorials/tutorial09/step3.png" />
 
 Note that the topX and topY parameters refer to the top-left corner of where the pixel art will be drawn.
 
@@ -130,7 +130,7 @@ If you have time, please complete the following enhancements:
 1. Modify your function in a way that allows you to customize the color palette. In other words, the user should be able to choose which three colors to use for 1, 2, and 3 (see image below w/different hearts).
 2. Create a third "list of lists" to represent a new pixel art drawing. To get ideas, Google "pixel art simple."
 
-<img class="medium frame" src="/spring2023/assets/images/tutorials/tutorial09/final.png" />
+<img class="medium frame" src="/fall2023/assets/images/tutorials/tutorial09/final.png" />
 
 
 ## What to turn in (same deal as always)

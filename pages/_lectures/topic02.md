@@ -3,7 +3,7 @@ layout: two-column
 title: The Internet & Society
 num: 2
 type: module
-draft: 1
+draft: 0
 due_date: 2023-08-23
 ---
 
@@ -16,7 +16,8 @@ Why did the Internet take off so quickly? Why does it look the way it does? How 
 2. If you do not want to watch Nosedive, please read Ahmed, Shazeda (May, 2019). <a href="https://logicmag.io/china/the-messy-truth-about-social-credit/" target="_blank">The Messy Truth About Social Credit (China)</a>. Logic Magazine.
 
 ## Slides
-* <a href="https://docs.google.com/presentation/d/1Oep-1p8Je7oCZMkyAHWg9mwtCOX4VmBI34Fau0Glqc0/edit?usp=sharing" target="_blank">The Internet & Society</a>
+Slides will be published before class.
+<!-- * <a href="https://docs.google.com/presentation/d/1Oep-1p8Je7oCZMkyAHWg9mwtCOX4VmBI34Fau0Glqc0/edit?usp=sharing" target="_blank">The Internet & Society</a> -->
 
 ## Discussion Questions
 
