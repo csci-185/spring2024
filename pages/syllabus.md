@@ -3,15 +3,12 @@ layout: syllabus
 title: Syllabus
 permalink: /syllabus/
 course: "CSCI 185: Intro to Computer Programming for the Web"
-term: "Spring 2023"
+term: "Fall 2023"
 prerequisites: "None"
-office_hours: "MWF 3:30pm - 4:30pm (in person), Rhoades Robinson Hall, Rm. 220 or by appointment."
+office_hours: "WF 5pm - 6pm (in person), Rhoades Robinson Hall, Rm. 220 or by appointment."
 professor: "Dr. Sarah Van Wart (she / her)"
 professor_email: svanwart@unca.edu
-section1: "MWF 9:30-10:45PM, Zeis Hall, Rm. 203"
-section2: "MWF 11:00-12:15PM, Zeis Hall, Rm. 203"
-ta: "Nova Holland (they / them)"
-ta_email: ahollan3@unca.edu
+time_location: "MWF 3:30-4:45PM, Zeis Hall, Rm. 203"
 notes: "Students may receive credit for ONLY ONE of the following courses: CSCI 182, 183 or 185."
 ---
 
