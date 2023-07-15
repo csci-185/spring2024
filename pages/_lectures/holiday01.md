@@ -1,14 +1,7 @@
 ---
 layout: module
-title: Dr. Martin Luther King Jr. Day (No Class)
+title: Labor Day
 type: holiday
 draft: 1
-due_date: 2023-08-28
+due_date: 2023-09-04
 ---
-
-
-## Essential Questions
-
-## Lecture
-
-## Activities

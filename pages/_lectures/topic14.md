@@ -4,7 +4,7 @@ title: "Web APIs"
 type: module
 num: 14
 draft: 1
-due_date: 2023-11-22
+due_date: 2023-11-27
 ---
 
 In this unit, we are going to be learning about data, and how websites use it to generate web pages using JavaScript.
