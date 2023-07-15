@@ -110,10 +110,7 @@ Before each class, you may be assigned some pre-recorded videos, readings, or tu
 ## Getting Questions Answered
 
 ### Office Hours
-Sarah's office hours are every Monday, Wednesday, and Friday from 4-5PM. 
-
-### Nova's Office Hours
-Nova will also be hosting weekly office hours / study sessions. Time TBD.
+Sarah's office hours are every Wednesday and Friday from 4-5PM. If you cannot make this time, please email me to schedule a time to meet.
 
 ### What questions can I ask?
 During our office hours, all questions are welcomed, including (but are not limited to):
