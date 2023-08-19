@@ -6,7 +6,8 @@ abbreviation: Tutorial 7
 draft: 1
 points: 6
 num: 7
-due_date: 2023-11-03
+start_date: 2023-11-03
+due_date: 2023-11-05
 ---
 
 ## Readings / References

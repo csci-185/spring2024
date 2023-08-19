@@ -6,7 +6,8 @@ abbreviation: Tutorial 4
 draft: 1
 points: 6
 num: 4
-due_date: 2023-09-15
+start_date: 2023-09-15
+due_date: 2023-09-17
 ---
 
 In today's tutorial, you are going to make a website for a bakery, which will involve:

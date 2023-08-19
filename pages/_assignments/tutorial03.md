@@ -6,7 +6,8 @@ abbreviation: Tutorial 3
 draft: 1
 points: 6
 num: 3
-due_date: 2023-09-08
+start_date: 2023-09-08
+due_date: 2023-09-10
 ---
 
 <style>
