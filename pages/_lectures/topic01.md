@@ -20,23 +20,13 @@ Before we start building websites, let's take some time to understand how the In
 * How has it evolved over time?
 * How is it organized and who is in charge of it?
 * How can organizations and governments censor Internet content, and why might they do this?
-{:.compact}
-<!-- 
-* Does the Internet amplify all voices equally?
-* Why is privacy such a huge concern for the Web / Internet?
-* How does life online shape life offline (and vice versa)? 
--->
+
 
 ## Slides
-Slides will be posted before class.
-
-<!-- 1. [Intro to the course](https://docs.google.com/presentation/d/1lBGszqVO9RNqOPKeLstZ0tfVS_-b46ON8lqeuDTowhA/edit?usp=sharing)
-2. [Intro to the Internet](https://docs.google.com/presentation/d/14wLlDdn-Q65tVWn1er_iYIS1DTNVhOJ5qco-sU6qyzc/edit?usp=sharing) -->
+1. [Intro to the course](https://docs.google.com/presentation/d/1wPTU3q2CqEQEaF_hXgJwXYJnqNvreaV00GMR9fTRJFE/edit?usp=sharing)
+2. [Intro to the Internet](https://docs.google.com/presentation/d/1OP418VchDy1yrgKsZ6rsxfQ1voTzgeFaL4uWao9iUCc/edit?usp=sharing)
 
 
 ## Activities
-Activities will be published before class.
-
-<!-- * <a href="https://forms.gle/vvAE4EDhHiBL8hLv5" target="_blank">Pre-Course Questionnaire</a>
-* Human Bingo (analog activity)
-{:.compact} -->
+* <a href="https://t.ly/jDfdr" target="_blank">Pre-Course Questionnaire</a>
+* Human Bingo (together in class)
