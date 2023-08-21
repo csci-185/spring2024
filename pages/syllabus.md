@@ -170,7 +170,7 @@ Tutorials will be graded according to the following scale (from 0-3 points):
 | 2pts | Check | Most of the assignment was completed; works as expected. |
 | 3pts | Check Plus | assignment completed. Works as expected. |
 
-Tutorials are due by 11:59PM on Friday (but I recommend that you just submit them at the end of class). I **do not accept late tutorials** because I post the solutions right away.
+Tutorials are designed to be completed during class every Friday. That said, you may have until Sunday at 11:59PM to turn them in (i.e., an extra two days). I **do not accept late tutorials** because I post the solutions right away.
 
 ### Quizzes & Final Exam
 There will be 2 quizzes and one final exam over the course of the semester. The purpose of these assessments is to ensure that you understand the programming and design concepts that we have been studying.
@@ -184,12 +184,6 @@ I have been known to make the occasional grading error. If you have any grading 
 * No food, no drinks, and no water inside the classroom. If you need to eat or drink, please step outside the classroom (away from the computers) to do so.
 * Be respectful of others during classroom discussions and presentations.
 * We may have the occasional remote class session.
-
-### COVID Policies
-* **Masking.** Currently, there is no masking mandate at UNCA with the exception of healthcare settings and University shuttles. Please respect individuals’ personal decisions to either wear or not wear a mask in any given circumstance.
-    * ***Note:*** I may require masks in my office. I may also request that students voluntarily continue wearing masks in class, with the understanding that masking cannot be required.
-* **Social distancing.** There is no official policy regarding social distancing in the classroom. Please be sensitive to the fact that everyone’s comfort level will vary. Whenever possible, please keep several feet between yourself and a classmate. If a classmate requests more space, please do so kindly and without judgment or question. 
-* **Illness policy.** Please stay home if you are ill, and email me -- I will let you know how you can catch up / participate remotely.
 
 ### Academic Honesty
 In the past, there have been a few unfortunate instances in which students have presented work other than their own. Here are some guidelines to help you understand what is and is not appropriate"

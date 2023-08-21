@@ -19,11 +19,11 @@ These resources (video and podcast) are for your reference (recommended, but not
 * Podcast (26 minutes): [The history and future of the cookie](https://www.npr.org/2022/11/18/1137657496/third-party-cookie-data-tracking-internet-user-privacy)
 
 ## Slides
-* <a href="https://docs.google.com/presentation/d/17Tu_MjVQp1qqEzFZYwEJS49bFH2rE2b7B_68rzxP8yQ/edit?usp=sharing" target="_blank">Tutorial 1: Background Information</a>
+* <a href="https://docs.google.com/presentation/d/1ZJ-DD1bpOe8KFd6iiCa0DVDNwcHavm3-usFEG2xWDsg/edit?usp=sharing" target="_blank">Tutorial 1: Background Information</a>
 
 ## Activities 
-1. [Analyze a website](https://docs.google.com/document/d/1l-Qni8hDy0Msze8vUu5w6lHZeqAoQSoPdxtVf-T_oFM/edit?usp=sharing)
-2. [How do platforms understand who you are?](https://docs.google.com/document/d/1r8ncteo8U3nw0wGNXqgTqnwIrBG_HFdi0ux9oNYbGok/edit#)
+1. [Analyze a website](https://docs.google.com/document/d/1BmZV0xUNpiIR-2VytSqvuVDaHwhbEviScnYwxf8WfWM/edit)
+2. [How do platforms understand who you are?](https://docs.google.com/document/d/1jy65OIM2TrDkyndk_0PHCMKzPjPxSGnDSKtlFmg2rA4/edit)
 
 ## What to turn in
-* Please submit your answers from [Activity 2](https://docs.google.com/document/d/1r8ncteo8U3nw0wGNXqgTqnwIrBG_HFdi0ux9oNYbGok/edit#) to the Moodle. To do this, make a copy of the Google Doc and answer the questions listed on page 2.
+* Please submit your answers from [Activity 2](https://docs.google.com/document/d/1jy65OIM2TrDkyndk_0PHCMKzPjPxSGnDSKtlFmg2rA4/edit) to the Moodle. To do this, make a copy of the Google Doc and answer the questions listed on page 2.
