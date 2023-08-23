@@ -16,8 +16,8 @@ Why did the Internet take off so quickly? Why does it look the way it does? How 
 2. If you do not want to watch Nosedive, please read Ahmed, Shazeda (May, 2019). <a href="https://logicmag.io/china/the-messy-truth-about-social-credit/" target="_blank">The Messy Truth About Social Credit (China)</a>. Logic Magazine.
 
 ## Slides
-Slides will be published before class.
-<!-- * <a href="https://docs.google.com/presentation/d/1Oep-1p8Je7oCZMkyAHWg9mwtCOX4VmBI34Fau0Glqc0/edit?usp=sharing" target="_blank">The Internet & Society</a> -->
+* <a href="https://docs.google.com/presentation/d/1OP418VchDy1yrgKsZ6rsxfQ1voTzgeFaL4uWao9iUCc/edit">Intro to the Internet Continued</a>
+* <a href="https://docs.google.com/presentation/d/1LTErG90_n7DHuwjnVR0qMAADv18rzqjfvwzbkvIKY1g/edit?usp=sharing" target="_blank">The Internet & Society</a>
 
 ## Discussion Questions
 
@@ -32,13 +32,4 @@ Slides will be published before class.
 * Why is privacy such a huge concern for the Web / Internet?
 * How does life online shape life offline (and vice versa)? 
 
-<!-- ### Friday: Societal Considerations
-While there are *many* societal considerations associated with the Internet, for your first tutorial, you will consider 3: privacy, censorship, and representation. Please read the following short articles: 
-
-* Data Privacy: <a href="https://teachprivacy.com/10-reasons-privacy-matters/">10 Reasons Why Data Privacy Matters</a>. Daniel Solove, 2014.
-* Censorship: <a href="https://www.security.org/vpn/internet-censorship/">Internet Censorship in 2022: The Impact of Internet Restrictions</a>. Aliza Vigderman & Gabe Turner. 
-* Censorship: https://cyber.harvard.edu/pubrelease/internet-control/
-* Representation: Wikipedia?
-{:.compact}
- -->
 
