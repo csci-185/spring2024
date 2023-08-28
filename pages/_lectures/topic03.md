@@ -46,7 +46,7 @@ readings:
 Slides will be published before class.
 
 * Lecture 3: <a href="https://docs.google.com/presentation/d/1geaex9aORbHIu64NEizfEox_4NfVQnIE6K16ktNSSYw/edit?usp=sharing" target="_blank">Intro to HTML</a>
-<!-- * Lecture 4: <a href="#" target="_blank">Semantic tags and relative links</a> -->
+* Lecture 4: <a href="https://docs.google.com/presentation/d/1G_frhDAXppT8whNGo-04ybFUlVu2LM1LQ_OgZPSMyrc/edit?usp=sharing" target="_blank">Semantic tags and relative links</a>
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
@@ -55,4 +55,4 @@ Videos will be published after class on <a href="https://drive.google.com/drive/
 Activities will be published before class.
 
 1. Lecture 3: <a href="https://docs.google.com/document/d/1EUuEcehgRmQX5l1isz4a5Hn6uVPIkwzQVIkvbiM-NZA/edit?usp=sharing" target="_blank">Write your first HTML page</a> (Monday, 08/28)
-<!-- 2. Lecture 4: Linking Activity. [Download the exercise files](../course-files/lectures/lecture04.zip) and follow <a href="https://docs.google.com/document/d/13VTtBt0rEWxt0Z-NzZtyNw6pggBx6F8GFwVVIb9ElQ8/edit?usp=sharing" target="_blank">the instructions</a> (Wednesday, 08/31) -->
+2. Lecture 4: Linking Activity. [Download the exercise files](../course-files/lectures/lecture04.zip) and follow <a href="https://docs.google.com/document/d/13VTtBt0rEWxt0Z-NzZtyNw6pggBx6F8GFwVVIb9ElQ8/edit?usp=sharing" target="_blank">the instructions</a> (Wednesday, 08/31)
