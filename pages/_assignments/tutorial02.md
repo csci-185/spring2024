@@ -30,17 +30,12 @@ File management and organization are an essential part of programming and web de
 
 ```
 csci185
-    |-- tutorials
-    │   |-- tutorial02
-    |   ...
-    |
-    |-- homework
-    │   |-- hw01
-    │   |-- hw02
-    |   ...
     |
     |-- lectures
-        |-- lecture03
+    │   |-- lecture03
+    │   ...
+    |-- tutorials
+        |-- tutorial02
         ...
 ```
 
