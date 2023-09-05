@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Create a Homepage
 type: tutorial
 abbreviation: Tutorial 3
-draft: 1
+draft: 0
 points: 6
 num: 3
 start_date: 2023-09-08
@@ -22,6 +22,8 @@ due_date: 2023-09-10
         border: solid 1px #000;
     }
 </style>
+
+If you haven't already, please configure git and GitHub using [these instructions](../activities/github-activity).
 
 In this tutorial, you are going to make a homepage to showcase the work you have done in this class. You will create your homepage at the root of your `csci185` directory (the folder where you made your git repository). Please complete the following steps:
 

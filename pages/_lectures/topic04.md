@@ -3,7 +3,7 @@ layout: module
 title: Intro to GitHub
 type: module
 num: 4
-draft: 1
+draft: 0
 due_date: 2023-09-06
 ---
 
@@ -15,7 +15,8 @@ Please complete the following readings / videos:
 2. [Using GitHub with Visual Studio Code](https://youtu.be/i_23KUAEtUM). How we will be using GitHub in this class.
 
 ## Slides
-* Lecture 5: <a href="https://docs.google.com/presentation/d/1cG7TiEBd71x0SosnN0vdC4gtC4y2dQVeIX20WkSW3R8/edit?usp=sharing" target="_blank">Intro to git & GitHub</a>
+Slides will be posted before class.
+<!-- * Lecture 5: <a href="https://docs.google.com/presentation/d/1cG7TiEBd71x0SosnN0vdC4gtC4y2dQVeIX20WkSW3R8/edit?usp=sharing" target="_blank">Intro to git & GitHub</a> -->
 
 
 ## Videos
