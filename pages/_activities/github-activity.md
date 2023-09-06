@@ -64,22 +64,13 @@ Please complete the following readings / videos:
 
 {:#part2}
 ## 2. Install Git
-In order to interact with GitHub, you need to install git. Before you install it, check and make sure it’s not already installed by:
-
-1. Windows: search for the software program "GitBash." If you find it, git is already installed. 
-2. Mac:
-    1. Opening your Terminal and type the word `git` at the command prompt. 
-    2. If you get a message that says "not recognized" or something along those lines, then you need to install it.
-
-If you need to install it, follow these instructions:   <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</a>.
+Follow these instructions:   <a href="https://git-scm.com/book/en/v2/Getting-Started-Installing-Git" target="_blank">https://git-scm.com/book/en/v2/Getting-Started-Installing-Git</a>.
 
 {:#part3}
 ## 3. Register for an account on GitHub
-If you don’t already have a GitHub account, register for one: <a href="https://github.com/" target="_blank">https://github.com/join</a>. Some notes:
+If you don’t already have a GitHub account, register for one: <a href="https://github.com/" target="_blank">https://github.com/join</a>.
 
-1. Please have your password close at hand. Particularly if you are using the computer lab computers, you will keep being prompted for your password.
-2. Mac users may also need to create a **"Personal Access Token"**. The process is described <a href="https://docs.github.com/en/github/authenticating-to-github/creating-a-personal-access-token" target="_blank">here</a>.
-
+Please **remember your password** -- particularly if you are using the computer lab computers (as you will continually be prompted to enter it).
 
 {:#part4}
 ## 4. Configure the Git / Visual Studio Code Plugin
@@ -88,8 +79,8 @@ If you don’t already have a GitHub account, register for one: <a href="https:/
 Tell your computer who you are on Git by running the following commands in GitBash (Windows) or in the Terminal (Mac):
 
 ```bash
-git config --global user.name "Sarah"
-git config --global user.email "my_email@gmail.com"
+git config --global user.name "<Your Name>"
+git config --global user.email "<your_username>@unca.edu"
 ```
 
 Please use **your name**, and the **email you used when registering with GitHub**.
@@ -99,7 +90,7 @@ Please use **your name**, and the **email you used when registering with GitHub*
 
 ### 2. Verify your file structure
 
-Please ensure that your `csci185` folder looks like this:
+Please ensure that your `csci185` folder looks kind of like this:
 
 ```shell
 csci185
@@ -109,7 +100,7 @@ csci185
 │       ├── index.html
 │       └── styles.css
 └── tutorials
-    └── tutorial01
+    └── tutorial02
         ├── images
         ├── index.html
         ├── music.html
@@ -117,7 +108,7 @@ csci185
         └── videos.html
 ```
 
-It's OK if your lectures folder isn't set up yet, but make sure your tutorials folder looks like the one shown above. This is very important. Ask Sarah if you're unsure whether your folder nesting is correct (`tutorial02` should be contained within `tutorials` which should contained within `csci185`).
+Make sure your `csci185` folder, `tutorials` folder, and `lectures` folder looks exactly like the one shown above. This is very important. Ask Sarah if you're unsure whether your folder nesting is correct (`tutorial02` should be contained within `tutorials` which should contained within `csci185`).
 
 ### 3. Initialize a Git Repository
 After you've doublechecked your file structure, open your entire `csci185` folder in VS Code. Your file list should look like this (click on the icon that looks like two pieces of paper in the upper left-hand corner of your screen):
@@ -167,7 +158,7 @@ GitHub also allows you to host pages. To enable GitHub pages:
 1. Go to your repository and click on the settings tab. 
 2. Click the "GitHub Pages" link in the left-hand menu
 3. Click the dropdown menu that asks you to select a branch.
-4. Select the "master" branch
+4. Select the "master" or "main" branch (depending on which one you see -- either is fine)
 5. Click "Save"
 
 <img class="large" src="/fall2023/assets/images/activities/github-activity/ss9.png" />
