@@ -1,6 +1,6 @@
 ---
 layout: module
-title: "CSS Layouts"
+title: "Principles of Design"
 type: module
 num: 6
 draft: 1
@@ -8,38 +8,27 @@ due_date: 2023-09-18
 ---
 
 ## Readings
-In this unit, we will explore three different techniques for creating responsive layouts: CSS Grid, Flex, and Media Queries. As you complete the in-class activities and tutorials that accompany this topic, please refer to these readings.
 
-### 1. CSS Grid
+* Williams, Robin (2015). <a href="https://drive.google.com/file/d/1lyeEZlnfo7QJ_SE059TrCgw8JUBiX6rV/view?usp=sharing" target="_blank">The Non-Designer's Design Book, Chapter 1</a>.
+* Williams, Robin (2015). <a href="https://drive.google.com/file/d/1Ps9kGmRrj7Uw2B38KM_SoTKHtPhY-a3L/view?usp=sharing" target="_blank">The Non-Designer's Design Book, Chapter 2</a>.
 
-{:.compact}
-* [CSS Grid](../css-reference/css-grid/)  
-* <a href="https://cssgridgarden.com/" target="_blank">CSS Grid Garden</a> <br>Please try to complete at least the first 10 levels 
-* <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">CSS Tricks: A Complete Guide to Grid</a>
-* <a href="https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/" target="_blank">Learn CSS Grid by Building 5 Layouts in 17 minutes</a>
+## Overview
+Today we will be discussing a few different visual design and usability principles:
 
-### 2. Flex
+* Selecting [colors](../css-reference/color/)
+* Communicating <a href="https://docs.google.com/document/d/1Vv5tPZ8UjqJNYO9pCp_PQhxHT8qoGY09deKX6uygUFA/edit?usp=sharing" target="_blank">values</a> through visual design
+* Examples of [style guides](../css-reference/style-guides/)
 
-{:.compact}
-* <a href="https://flexboxfroggy.com/" target="_blank">Flexbox Froggy</a>.<br>Please try to complete at least the first 10 levels
-* <a href="https://university.webflow.com/lesson/flexbox-vs-grid" target="_blank">When to use Flex versus CSS Grid?</a>      
-* <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">CSS Tricks: A Complete Guide to Flexbox</a>
-* <a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">W3 Schools Flexbox Guide</a>   
-
-
-### 3. Media Queries
-* [Media Queries](../css-reference/media-queries/) 
+<img style="width:600px;" src="{{site.baseurl}}/assets/images/lectures/composition.png" />
 
 ## Slides
+Slides will be published before class.
 
-{:.compact}
-* Lecture 8: <a href="https://docs.google.com/presentation/d/1MUx4wudYNNZHcCgcpt8vsac_CM0fWOiJRyTDhmrckcQ/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Grid</a> (Monday & Wednesday, 02/06 - 02/08)
-* Lecture 9: <a href="https://docs.google.com/presentation/d/1hd-oHjrl1OGmWhUzTJz8LN4KJhpo9IoHqMGNctfYCHg/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Flexbox</a> (Monday, 02/13)
+<!-- * Lecture 8: <a href="#" target="_blank">Visual Design & Composition</a> (Monday, 09/18) -->
 
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
-## Activities
-* Lecture 8: <a href="/fall2023/course-files/lectures/lecture08.zip">Sample Files: Creating Page Layouts w CSS Grid</a> (Monday, 02/06 - 02/08)
-* Lecture 9: <a href="/fall2023/course-files/lectures/lecture09.zip">Sample Files: Creating Page Layouts w CSS Flexbox</a> (Monday, 02/15)
+<!-- ## Activities -->
+

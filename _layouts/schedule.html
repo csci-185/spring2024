@@ -76,7 +76,10 @@ layout: default
             {% if topic %}
                 {% assign rowClass = "section" %}
                 {% assign num = num | plus : 1 %}
-                {% assign prefix = "Topic " | append: num %}
+                {% assign prefix = topic.abbreviation %}
+                {% if prefix == null %}
+                    {% assign prefix = "Topic " | append: num %}
+                {% endif %}
             {% endif %}
             {% if holiday %}
                 {% assign rowClass = "holiday" %}

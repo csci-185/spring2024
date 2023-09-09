@@ -4,7 +4,7 @@ title: "Quiz 2: CSS Techniques"
 type: quiz
 draft: 1
 num: 2
-due_date: 2023-10-27
+due_date: 2023-10-16
 ---
 
 <style>

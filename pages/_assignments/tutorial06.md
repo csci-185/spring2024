@@ -7,7 +7,7 @@ draft: 1
 points: 6
 num: 6
 start_date: 2023-10-06
-due_date: 2023-10-08
+due_date: 2023-10-11
 ---
 
 ## Introduction

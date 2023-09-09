@@ -1,32 +1,54 @@
 ---
 layout: module
-title: "Principles of Design"
+title: "Web Accessibility"
 type: module
 num: 7
 draft: 1
-due_date: 2023-09-27
+due_date: 2023-09-20
+readings:
+   - url: https://www.toptal.com/designers/ui/importance-web-accessibility
+     title: UX and the Importance of Web Accessibility
+     author: Laura Geley
+     date: 2018
+   - url: https://ukhomeoffice.github.io/accessibility-posters/
+     title: Designing accessible services
+     reference: 1
+   - url: https://karlgroves.com/2013/09/05/the-6-simplest-web-accessibility-tests-anyone-can-do
+     title: The 6 Simplest Web Accessibility Tests Anyone Can Do
+     author: Groves, Karl
+     date: Sept., 2013
+     reference: 1
+   - url: https://www.youtube.com/watch?v=cOmehxAU_4s
+     title: "Watch: How I do an accessibility check -- A11ycasts #11"
+     author: Dodson, Rob
+     date: 2018
+     reference: 1
+   - url: https://www.latimes.com/politics/story/2019-10-07/blind-person-dominos-ada-supreme-court-disabled
+     title: "Supreme Court allows blind people to sue retailers if their websites are not accessible"
+     source: LA Times
+     date: Oct., 2019
+     optional: 1
+   - url: https://onezero.medium.com/researchers-are-making-memes-accessible-to-the-blind-46b9ef0550da
+     title: "Researchers are making memes accessible to the blind"
+     author: Stokel-Walker, Chris 
+     date: Oct., 2019
+     source: Medium
+     optional: 1
+   - url: http://www.nixdell.com/classes/HCI-and-Design-Spring-2017/p24-ladner.pdf
+     title: Design for User Empowerment
+     author: Ladner, Richard
+     source: Interactions (ACM)
+     date: Mar-Apr, 2015
+     optional: 1
 ---
 
-## Readings
-
-* Williams, Robin (2015). <a href="https://drive.google.com/file/d/1lyeEZlnfo7QJ_SE059TrCgw8JUBiX6rV/view?usp=sharing" target="_blank">The Non-Designer's Design Book, Chapter 1</a>.
-* Williams, Robin (2015). <a href="https://drive.google.com/file/d/1Ps9kGmRrj7Uw2B38KM_SoTKHtPhY-a3L/view?usp=sharing" target="_blank">The Non-Designer's Design Book, Chapter 2</a>.
-
-## Overview
-Today we will be discussing a few different visual design and usability principles:
-
-* Selecting [colors](../css-reference/color/)
-* Communicating <a href="https://docs.google.com/document/d/1Vv5tPZ8UjqJNYO9pCp_PQhxHT8qoGY09deKX6uygUFA/edit?usp=sharing" target="_blank">values</a> through visual design
-* Examples of [style guides](../css-reference/style-guides/)
-
-<img style="width:600px;" src="{{site.baseurl}}/assets/images/lectures/composition.png" />
+Today we will be talking about web accessibility
 
 ## Slides
-* Lecture 10: <a href="https://docs.google.com/presentation/d/1CLs-lbkaSKwcQiwaIYcOQg5G8hrbQsn3bZPaNQnBo-Y/edit?usp=sharing" target="_blank">Visual Design & Composition</a> (Wednesday, 02/15)
+Slides will be posted before class.
+
+<!-- * Lecture 9: <a href="#" target="_blank">Design with Accessibility in Mind</a> (Wed, 09/20) -->
 
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
-
-<!-- ## Activities -->
-
