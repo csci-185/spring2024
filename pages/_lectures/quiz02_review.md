@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Quiz 2
+title: Quiz 2 Q&A
 abbreviation: Review Session
 type: module
 draft: 1

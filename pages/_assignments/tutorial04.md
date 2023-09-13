@@ -21,7 +21,7 @@ In today's tutorial, you are going to make a website for a bakery, which will in
 When you're done, your bakery homepage should look like the image shown below:
 
 <img class="large frame" src="/fall2023/assets/images/tutorials/tutorial04/bakery.png" />
-* <a href="https://drive.google.com/file/d/1aqucLyog0FDIEjgPPel33V049xu3aOuq/view?usp=sharing">video demo here</a>
+* <a href="https://drive.google.com/file/d/1aqucLyog0FDIEjgPPel33V049xu3aOuq/view?usp=sharing" target="_blank">video demo here</a>
 
 Please download the starter files, unzip them, and save them inside of your `csci185/tutorials` folder. 
 
