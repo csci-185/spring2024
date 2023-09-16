@@ -3,7 +3,7 @@ layout: module
 title: "Principles of Design"
 type: module
 num: 6
-draft: 1
+draft: 0
 due_date: 2023-09-18
 ---
 

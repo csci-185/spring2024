@@ -14,12 +14,10 @@ Style guides help developers to create useable, well-designed pages. They specif
 | Organization | Name of Design Brand |
 |--|--|
 | Salesforce | [Lightning Design System](https://www.lightningdesignsystem.com) |
-| Lonely Planet | [Style Guide](https://rizzo.lonelyplanet.com/styleguide/design-elements/) |
 | Alibaba | [Ant Design](https://ant.design) |
 | Atlassian | [Design Guidelines](https://atlassian.design/) |
 | Firefox | [Photon Design](https://design.firefox.com/photon/welcome.html) |
 | IBM | [Carbon Design](http://carbondesignsystem.com) |
-| Intuit | [Harmony Design](http://harmony.intuit.com) |
 | Shopify | [Polaris](https://polaris.shopify.com) |
 | US Federal Government | [Web Design Standards](https://designsystem.digital.gov/) |
 | Accessibility Resources | [Web Accessibility](https://turretcss.com/) |

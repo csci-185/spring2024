@@ -3,7 +3,7 @@ layout: module
 title: "Web Accessibility"
 type: module
 num: 7
-draft: 1
+draft: 0
 due_date: 2023-09-20
 readings:
    - url: https://www.toptal.com/designers/ui/importance-web-accessibility
