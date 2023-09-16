@@ -22,9 +22,7 @@ Today we will be discussing a few different visual design and usability principl
 <img style="width:600px;" src="{{site.baseurl}}/assets/images/lectures/composition.png" />
 
 ## Slides
-Slides will be published before class.
-
-<!-- * Lecture 8: <a href="#" target="_blank">Visual Design & Composition</a> (Monday, 09/18) -->
+* Lecture 8: <a href="https://docs.google.com/presentation/d/1jqXiRvtzN67mzEACNZ884Oj33BKJilzWa95WLjHlCyU/edit?usp=sharing" target="_blank">Visual Design & Composition</a> (Monday, 09/18)
 
 
 ## Videos
