@@ -18,4 +18,4 @@ due_date: 2023-09-25
 2. Take the [practice quiz](../activities/practice-quiz01) <br>(and ask any questions that you have about it during class time or in office hours).
 
 ## 3. Quiz
-A link to the quiz will be posted on this page on the morning of the quiz.
+A link to the quiz will be posted on this page on the day of the quiz (Friday) during class (3:30PM-4:45PM).

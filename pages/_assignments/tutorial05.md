@@ -22,25 +22,15 @@ due_date: 2023-10-02
 </style>
 
 ## Overview
-The goal of this week's homework is to give you practice with CSS Grid and Flexbox. To do this, you will complete 7 exercises, which you will have time to work on during Tutorial 5 this week. 
-
-Homework 4 can be completed individually or in pairs. If you decide to work in pairs, you can discuss solutions and share code with your partner. That said, both people should still complete all of the exercises, commit their own files to GitHub, and and submit to the Moodle separately. If you collaborated with someone, you will just make a note of who you worked with in the comments section.
+The goal of this week's homework is to give you practice with CSS Grid and Flexbox. To do this, you will complete 3 exercises, which you will have time to work on during Tutorial 5 this week. 
 
 ### References
-To complete this homework, you will likely need to consult some CSS references (or Google for information). Below, I have provided a link to the mes relevant reference:
+To complete this homework, you will likely need to consult some CSS references (or Google for information). Below, I have provided a link to some of the references that I believe will be most helpful to you:
 
 #### Media Queries
 
 {:.compact}
 * <a href="../css-reference/media-queries/">Media Queries</a>    
-
-#### CSS Grid
-
-{:.compact}
-* <a href="../css-reference/css-grid/">CSS Grid</a>  
-* <a href="https://cssgridgarden.com/" target="_blank">CSS Grid Garden</a> <br>Please try to complete at least the first 10 levels 
-* <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">CSS Tricks: A Complete Guide to Grid</a>
-* <a href="https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/" target="_blank">Learn CSS Grid by Building 5 Layouts in 17 minutes</a>
 
 #### Flex
 
@@ -63,14 +53,14 @@ Download the `hw04.zip` file, unzip it and move the unzipped `hw04` folder into 
 Please complete **levels 1-13** of <a href="https://flexboxfroggy.com/" target="_blank">Flexbox Froggy</a> and take a screenshot of your completed levels (like the screenshot shown below, but with the first thirteen levels completed). When you're done, save your screenshot in the `hw04/01-flexbox-froggy` folder. 
 * You can earn **2 points extra credit** if you complete all 24 levels.
 
-<img class="frame medium" src="/fall2023/assets/images/homework/hw04/exercise01.png" />
+<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial05/exercise01.png" />
 
 
 ### 2. Center-align elements within a container
 
 Open `02-flex` and create the layout shown below by editing the CSS file. You should not need to edit the HTML.
 
-<img src="/fall2023/assets/images/homework/hw04/exercise02.gif" />
+<img src="/fall2023/assets/images/tutorials/tutorial05/exercise02.gif" />
 
 Please ensure that the following criteria are met:
 
@@ -83,7 +73,7 @@ Please ensure that the following criteria are met:
 ### 3. Create a Navigation Bar
 Open `03-navbar`, and try to make the following layout using flex. The navigation bar should also be anchored to the top so when you scroll, the nav bar stays fixed.
 
-<img class="frame large" src="/fall2023/assets/images/homework/hw04/exercise03.png" />
+<img class="frame large" src="/fall2023/assets/images/tutorials/tutorial05/exercise03.png" />
 
 Hints:
 
@@ -92,3 +82,13 @@ Hints:
 * Use the Chrome inspector to adjust the alignment properties.
 * To turn the bullets off, set the `list-style-type` property to `none`.
 * To create a fixed menu, see <a href="https://codepen.io/vanwars/pen/LYBdyzJ?editors=0100" target="_blank">this code sample</a>: 
+
+
+## What to turn in
+Please read carefully: To turn in Tutorial 5, please link to all 3 tasks on your homepage. See Sarah's homepage to see an example of what your homepage should look like:
+* <a href="https://vanwars.github.io/csci185-coursework/" target="_blank">https://vanwars.github.io/csci185-coursework/</a>
+
+When you're done, paste the following links into the Moodle under the Tutorial 5 submission section:
+
+1. A link to your **homepage** on GitHub pages, which should link to all 3 parts of this tutorial.
+2. A link to your GitHub **code repository** (where your code files are stored).
