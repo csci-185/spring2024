@@ -45,9 +45,7 @@ readings:
 Today we will be talking about web accessibility
 
 ## Slides
-Slides will be posted before class.
-
-<!-- * Lecture 9: <a href="#" target="_blank">Design with Accessibility in Mind</a> (Wed, 09/20) -->
+* Lecture 9: <a href="#" target="_blank">Design with Accessibility in Mind</a> (Wed, 09/20)
 
 
 ## Videos
