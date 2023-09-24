@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: CSS Flexbox Practice
 type: tutorial
 abbreviation: Tutorial 5
-draft: 1
+draft: 0
 points: 6
 num: 5
 start_date: 2023-09-29
@@ -22,15 +22,10 @@ due_date: 2023-10-02
 </style>
 
 ## Overview
-The goal of this week's homework is to give you practice with CSS Grid and Flexbox. To do this, you will complete 3 exercises, which you will have time to work on during Tutorial 5 this week. 
+The goal of this week's tutorial is to give you practice with CSS Flex. To do this, you will complete 3 exercises, which you will have time to work on during class on Friday. 
 
 ### References
-To complete this homework, you will likely need to consult some CSS references (or Google for information). Below, I have provided a link to some of the references that I believe will be most helpful to you:
-
-#### Media Queries
-
-{:.compact}
-* <a href="../css-reference/media-queries/">Media Queries</a>    
+To complete this tutorial, you will likely need to consult some CSS references (or Google for information). Below, I have provided a link to some of the references that I believe will be most helpful to you:
 
 #### Flex
 
@@ -42,15 +37,14 @@ To complete this homework, you will likely need to consult some CSS references (
 * <a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">W3 Schools Flexbox Guide</a>    
 
 
-
 ## Your Tasks
-<a href="/fall2023/course-files/homework/hw04.zip" class="nu-button">HW04 Starter Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/tutorials/tutorial05.zip" class="nu-button">Tutorial 5 Starter Files <i class="fas fa-download"></i></a>
 
-Download the `hw04.zip` file, unzip it and move the unzipped `hw04` folder into the `csci185/homework` folder.
+Download the `tutorial05.zip` file, unzip it and move the unzipped `tutorial05` folder into the `csci185/tutorials` folder.
 
 
 ### 1. Flexbox Froggy
-Please complete **levels 1-13** of <a href="https://flexboxfroggy.com/" target="_blank">Flexbox Froggy</a> and take a screenshot of your completed levels (like the screenshot shown below, but with the first thirteen levels completed). When you're done, save your screenshot in the `hw04/01-flexbox-froggy` folder. 
+Please complete **levels 1-13** of <a href="https://flexboxfroggy.com/" target="_blank">Flexbox Froggy</a> and take a screenshot of your completed levels (like the screenshot shown below, but with the first thirteen levels completed). When you're done, save your screenshot in the `tutorial05/01-flexbox-froggy` folder. 
 * You can earn **2 points extra credit** if you complete all 24 levels.
 
 <img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial05/exercise01.png" />

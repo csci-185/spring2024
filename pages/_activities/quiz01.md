@@ -15,7 +15,7 @@ due_date: 2023-02-10
     }
 </style>
 
-<a href="/fall2023/course-files/quizzes/quiz01.zip" class="nu-button">Quiz 1 Starter Files <i class="fas fa-download"></i></a> <a href="/fall2023/course-files/quizzes/quiz01_answers.zip" class="button">Quiz 1 Solutions <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/quizzes/quiz01.zip" class="nu-button">Quiz 1 Starter Files <i class="fas fa-download"></i></a>
 
 ## Set Up
 * Inside your `csci185` folder, create a folder called `quizzes`. 
@@ -62,6 +62,7 @@ For this section, you will be editing the `index.html` file in order to create t
 ### 1. Stylesheet Link
 1. Inside of the `head` tag in your `index.html` file, add a link to the `styles.css` stylesheet (located in the `assets` > `css` folder).
     * If you did it correctly, the background of your web page should turn dark blue.
+    * Note that the files is named **style<u>s</u>.css** (plural).
 
 ### 2. Semantic Structure
 1. Add three empty semantic tags inside the body tag:
@@ -273,7 +274,7 @@ Please complete the following tasks for each of the three HTML files:
 
 ### 2. Header Section
 1. Copy the entire `header` tag (and everything inside of it) from `index.html` and paste it into each of the HTML pages **above** the `main` tag, but still within the `body` tag.
-2. Adjust the file paths for the relative links so that the relative paths don't break (now that you're editing a file in the `site-pages` folder).
+2. Adjust the file paths for the logo image and hyperlinks so that the relative paths don't break (now that you're editing a file in the `site-pages` folder).
 3. **[Optional -- 2pts Extra Credit]** Make the Taco Temple logo into a link by wrapping a hyperlink (`a` tag) around the `img` tag. This link should point to `index.html` in the parent directory.
 
 When you're done, `menu.html`, `contact.html`, and `location-hours.html` should all link to one another.
