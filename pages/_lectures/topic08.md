@@ -31,19 +31,20 @@ In this unit, we will explore three different techniques for creating responsive
 * [Media Queries](../css-reference/media-queries/) 
 
 ## Slides
-Slides will be posted before class.
-
-<!-- 
 {:.compact}
-* Lecture 8: <a href="https://docs.google.com/presentation/d/1MUx4wudYNNZHcCgcpt8vsac_CM0fWOiJRyTDhmrckcQ/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Grid</a> (Monday & Wednesday, 02/06 - 02/08)
-* Lecture 9: <a href="https://docs.google.com/presentation/d/1hd-oHjrl1OGmWhUzTJz8LN4KJhpo9IoHqMGNctfYCHg/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Flexbox</a> (Monday, 02/13) -->
+* Lecture 8: <a href="https://docs.google.com/presentation/d/16o4ZmWwn3Mjfh2t-af98FUgQ5hbhn8zzzg3sjFHPrQY/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Flexbox</a> (Wednesday, 09/27)
+
+<!-- * Lecture 8: <a href="https://docs.google.com/presentation/d/1MUx4wudYNNZHcCgcpt8vsac_CM0fWOiJRyTDhmrckcQ/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Grid</a> (Wednesday, 09/27) -->
+<!-- 
+
+* (Monday, 02/13) -->
 
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Activities
-Activities will be posted before class.
+Lecture 10: <a href="/fall2023/course-files/lectures/lecture10.zip">Sample Files: Creating Page Layouts w CSS Flexbox</a> (Monday, 02/15)
 
 <!-- * Lecture 8: <a href="/fall2023/course-files/lectures/lecture08.zip">Sample Files: Creating Page Layouts w CSS Grid</a> (Monday, 02/06 - 02/08)
-* Lecture 9: <a href="/fall2023/course-files/lectures/lecture09.zip">Sample Files: Creating Page Layouts w CSS Flexbox</a> (Monday, 02/15) -->
+*  -->
