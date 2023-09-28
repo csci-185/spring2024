@@ -59,21 +59,21 @@ For this section, you will be editing the `index.html` file in order to create t
 
 <img class="preview" src="/fall2023/assets/images/quizzes/quiz01/schematic.png" />
 
-### 1. Stylesheet Link
+### 1. [5pts] Stylesheet Link
 1. Inside of the `head` tag in your `index.html` file, add a link to the `styles.css` stylesheet (located in the `assets` > `css` folder).
     * If you did it correctly, the background of your web page should turn dark blue.
     * Note that the files is named **style<u>s</u>.css** (plural).
 
-### 2. Semantic Structure
+### 2. [5pts] Semantic Structure
 1. Add three empty semantic tags inside the body tag:
     * a `header` tag
     * a `main` tag
     * a `footer` tag
 
-### 3. Header & Navigation Sections
-1. Inside the `header` tag, add an `img` tag that links to the `taco-temple-logo.webp` file (in the `images` folder).
-1. Next to the `img` tag (but still inside the `header` tag), add a `nav` tag.
-1. Inside the `nav` tag, add 3 hyperlinks:
+### 3. [10pts] Header & Navigation Sections
+1. [3pts] Inside the `header` tag, add an `img` tag that links to the `taco-temple-logo.webp` file (in the `images` folder).
+1. [2pts] Next to the `img` tag (but still inside the `header` tag), add a `nav` tag.
+1. [5pts] Inside the `nav` tag, add 3 hyperlinks:
     * One called **Menu** that links to `menu.html`
     * One called **Contact** that links to `contact.html` 
     * One called **Hours & Location** that links to `location-hours.html` 
@@ -82,17 +82,17 @@ Note that `menu.html`, `contact.html` , and `location-hours.html` are all locate
 
 <img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss01.png" />
 
-### 4. Main Section
-1. Give the `main` tag a class called `"landing"`.
-1. Inside the `main` tag, add two tags:
-1. An `img` tag that links to the `landing-image.webp` file (in the images folder).
-2. A `section` tag. Inside the section tag, add two tags:
-    * An `h1` that says: "Call 828-255-8098<br> for take-out or click below to order online!"
-    * A hyperlink that links to the Taco Temple order online page here: <a href="https://www.mamacitastacotemple.com/s/order" target="_blank">https://www.mamacitastacotemple.com/s/order</a>. The link text should say "Order now".
+### 4. [8pts] Main Section
+1. [2pts] Give the `main` tag a class called `"landing"`.
+1. Inside the `main` tag, add the following:
+    * [3pts] An `img` tag that links to the `landing-image.webp` file (in the images folder).
+    * [3pts] A `section` tag. <br>Inside the section tag, add two tags:
+        * An `h1` that says: "Call 828-255-8098<br> for take-out or click below to order online!"
+        * A hyperlink that links to the Taco Temple order online page here: <a href="https://www.mamacitastacotemple.com/s/order" target="_blank">https://www.mamacitastacotemple.com/s/order</a>. The link text should say "Order now".
 
 <img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss02.png" />
 
-### 5. Footer
+### 5. [2pts] Footer
 Within the `footer` tag, create a paragraph tag that says “Copyright 2023, Taco Temple.”
 
 <img class="preview" src="/fall2023/assets/images/quizzes/quiz01/ss03.png" />
@@ -101,7 +101,7 @@ Within the `footer` tag, create a paragraph tag that says “Copyright 2023, Tac
 {:#part2}
 ## Part 2: Styling tasks [30pts]
 
-### 1. Style the header 
+### 1. [3pts] Style the header 
 Create a ruleset for **`header` elements** that applies the following styles:
 
 ```css
@@ -111,10 +111,10 @@ align-items: center;
 justify-content: space-between;
 ```
 
-### 2. Style the image inside the header element
+### 2. [2pts] Style the image inside the header element
 Create a ruleset for **`img` elements <u>inside of</u> a `header` element** that sets the `width` property to `180px` 
 
-### 3. Style the hyperlinks inside the nav element
+### 3. [2pts] Style the hyperlinks inside the nav element
 Create a ruleset for **`a` elements <u>inside of</u> a `nav` element** that applies the following styles:
 
 ```css
@@ -124,7 +124,7 @@ margin: 10px;
 text-transform: uppercase;
 ```
 
-### 4. Style the main element
+### 4. [3pts] Style the main element
 Create a ruleset for **`main` elements** that applies the following styles:
 
 ```css
@@ -132,7 +132,7 @@ padding: 100px 25vw 50px 25vw;
 min-height: 55vh;
 ```
 
-### 5. Style the "landing" class
+### 5. [3pts] Style the "landing" class
 Create a ruleset for the **`landing` class** that applies the following styles:
 
 ```css
@@ -144,10 +144,10 @@ align-items: center;
 justify-content: center;
 ```
 
-### 6. Style the image inside of the "landing" class
+### 6. [4pts] Style the image inside of the "landing" class
 Create a ruleset for **`img` elements <u>inside of</u> a `landing` class element** that sets the `width` property to `100%`.
 
-### 7. Style the "h1" and "h2" elements
+### 7. [3pts] Style the "h1" and "h2" elements
 Apply the following style rules to **all `h1` and `h2`** elements:
 ```css
 font-family: Malamondo;
@@ -158,7 +158,7 @@ text-align: center;
 
 This should give your `h1` and `h2` tags tag a funky custom font (which you'll notice as you complete Part 3).
 
-### 8. Style the "h1" element inside of the "landing" class
+### 8. [3pts] Style the "h1" element inside of the "landing" class
 Apply the following style rules to **`h1` elements <u>inside of</u> a `landing` class element**:
 
 ```css
@@ -170,7 +170,7 @@ font-family: Malamondo-Alt;
 
 This should give your `h1` tag on the landing page a slightly different custom font.
 
-### 9. Style the link inside of the "landing" class to look like a button
+### 9. [3pts] Style the link inside of the "landing" class to look like a button
 Apply the following style rules to **`a` elements <u>inside of</u> a `landing` class element**:
 
 ```css
@@ -187,7 +187,7 @@ border-radius: 4px;
 text-decoration: none;
 ```
 
-### 10. Style the footer element
+### 10. [2pts] Style the footer element
 Create a ruleset for **`footer` elements** to:
 
 1. Give the footer `50px` of padding
@@ -195,7 +195,7 @@ Create a ruleset for **`footer` elements** to:
 {:.compact}
 
 
-### 11. Add rulesets to style the other pages
+### 11. [2pts] Add rulesets to style the other pages
 Below the styles you just created, add the following rulesets
 to style the other pages:
 
@@ -268,18 +268,18 @@ Please complete the following tasks for each of the three HTML files:
 2. `contact.html`
 3. `location-hours.html`
 
-### 1. Stylesheet Link
+### 1. [6pts] Stylesheet Link
 1. Add a `link` tag inside the `head` tag of each of the three HTML pages that links to `styles.css` (located in the `assets` folder). 
     * Note that the relative path will be different from what it was in `index.html`
 
-### 2. Header Section
+### 2. [18pts] Header Section
 1. Copy the entire `header` tag (and everything inside of it) from `index.html` and paste it into each of the HTML pages **above** the `main` tag, but still within the `body` tag.
 2. Adjust the file paths for the logo image and hyperlinks so that the relative paths don't break (now that you're editing a file in the `site-pages` folder).
 3. **[Optional -- 2pts Extra Credit]** Make the Taco Temple logo into a link by wrapping a hyperlink (`a` tag) around the `img` tag. This link should point to `index.html` in the parent directory.
 
 When you're done, `menu.html`, `contact.html`, and `location-hours.html` should all link to one another.
 
-### 3. Footer Section
+### 3. [6pts]  Footer Section
 1. Copy the entire `footer` tag  (and everything inside of it) from `index.html` and paste it **below** the `main` tag.
 
 
