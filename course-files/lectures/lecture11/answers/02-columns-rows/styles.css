@@ -6,16 +6,8 @@
     box-sizing: border-box;
 }
 
-ul {
-    padding-left: 1.5rem;
-}
-
 body {
     font-family: "Poppins", sans-serif;
-    color: #333;
-    background-color: snow;
-    margin: 0 auto;
-    max-width: 1000px;
 }
 
 .container>div {
@@ -27,26 +19,23 @@ body {
 }
 
 
+/* Task 2 */
 
-/* Task 3 */
+.container {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    column-gap: 10px;
+    row-gap: 10px;
+}
 
-.container {}
+.header {
+    grid-column: 1 / 3;
+}
 
-.header {}
+.navigation {
+    grid-column: 1 / 3;
+}
 
-.navigation {}
-
-.ads {}
-
-.sidebar {}
-
-.main {}
-
-.footer {}
-
-
-
-@media (max-width: 1020px) {}
-
-
-@media (max-width: 720px) {}
+.main {
+    min-height: 70vh;
+}

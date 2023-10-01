@@ -6,16 +6,8 @@
     box-sizing: border-box;
 }
 
-ul {
-    padding-left: 1.5rem;
-}
-
 body {
     font-family: "Poppins", sans-serif;
-    color: #333;
-    background-color: snow;
-    margin: 0 auto;
-    max-width: 1000px;
 }
 
 .container>div {
@@ -27,8 +19,7 @@ body {
 }
 
 
-
-/* Task 3 */
+/* Task 2 */
 
 .container {}
 
@@ -43,10 +34,3 @@ body {
 .main {}
 
 .footer {}
-
-
-
-@media (max-width: 1020px) {}
-
-
-@media (max-width: 720px) {}

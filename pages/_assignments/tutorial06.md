@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Style Your Homepage
 type: tutorial
 abbreviation: Tutorial 6
-draft: 1
+draft: 0
 points: 6
 num: 6
 start_date: 2023-10-06
@@ -15,7 +15,7 @@ due_date: 2023-10-11
 In [Tutorial 3](tutorial03), you created your homepage, and found 5-10 web pages, images, advertisements, banners, etc. that inspired you in some way. Today, you are going to use those sources of inspiration to style your homepage. Some questions to ask yourself:
 
 * How might you draw inspiration from the examples you found (e.g. alignment, contrast, proximity, color, typography, textures, images, etc.) to communicate *your* unique personality?
-* What tools that we've [learned over the past week](../lectures/topic07) can help you select colors, fonts, icons, and textures
+* What tools that we've learned over the past several weeks (e.g., [accessibility](../lectures/topic07), [visual design](../lectures/topic06), [advanced CSS](../lectures/topic09)) can help you select colors, fonts, icons, and interactive effects?
 * Are there any approaches that you want to copy or recreate? 
 * Copying isn't a bad thing when you're learning: sometimes you have to learn the "standard" technique before you try to do something new and original.
 
