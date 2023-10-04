@@ -255,9 +255,36 @@ table.schedule-simple {
         padding: 4px;
     }
 }
+
+div.schedule-simple {
+    margin: 20px 0;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    background-color: #F4F4F4;
+    column-gap: 30px;
+    padding: 10px;
+
+    .header {
+        grid-column: 1 / span 2;
+    }
+}
+
+@media screen and (max-width: 1000px) {
+    div.schedule-simple {
+        grid-template-columns: 1fr;
+        row-gap: 30px;
+
+        .header {
+            grid-column: 1 / span 1;
+        }
+    }
+}
+
+
 .schedule, .labs {
     ul { padding-left: 20px; }
 }
+
 
 .assignment, .lecture, .details, .two-column article, .syllabus, .schedule {
     .outline {
