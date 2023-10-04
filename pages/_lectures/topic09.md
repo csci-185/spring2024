@@ -29,18 +29,16 @@ To round out our HTML & CSS instruction, we'll be going over some advanced CSS t
 * <a href="https://thoughtbot.com/blog/css-animation-for-beginners" target="_blank">CSS animation for beginners</a> Thoughtbot
 
 ## Slides
-Slides will be posted before class.
+* Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
+* Lecture 13: Pseudo-Classes,  Transitions, & Keyframes (Wednesday, 10/11)
 
-<!-- * Lecture 12: <a href="https://docs.google.com/presentation/d/1D1ZxxXK169Lo8jeEaEQV6vL5e4aG6sKdz_tFp73eNFk/edit?usp=sharing" target="_blank">Image Backgrounds & HTML5 Media</a> (Wednesday, 02/22)
-* Lecture 13: <a href="https://docs.google.com/presentation/d/1wIrLmAS8ZXG0DpYrg0k8mhabKKmq2Xano-cSRJ0rLCE/edit?usp=sharing" target="_blank">L13: Pseudo-classes & transitions continued</a>
-* Lecture 14: <a href="https://docs.google.com/presentation/d/1QVVe19BuRSgqnzOt3cAsjMJ2NprHp3ijKGDAKpOyIU4/edit?usp=sharing" target="_blank">Keyframes</a> -->
+<!-- <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes,  Transitions, & Keyframes</a> (Wednesday, 10/11) -->
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Activities
-Activities will be posted before class.
-
-<!-- * Lecture 12: [Background Images & Media Activity](../activities/background-images)
-* Lecture 13: [Transitions Activity](../activities/transitions)
-* Lecture 14: [Keyframes](../activities/keyframes) -->
+* Lecture 12 (Wednesday, 10/04): [Background Images & Media Activity](../activities/background-images) 
+* Lecture 13 (Wednesday, 10/11): 
+    * Transitions Activity: [Starter Files](../course-files/activities/transitions.zip) &bull; [Instructions](../activities/transitions)
+    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes)

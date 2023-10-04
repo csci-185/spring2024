@@ -23,12 +23,29 @@
     </section>
 
     <section>
-        <h2>Option 2: using background images</h2>
-        <p>By using a background image, you can crop the image, position the image, and even apply filters.</p>
+        <h2>Option 2: using object-fit setting</h2>
+        <p>By using the object-fit CSS property, you can crop images w/o having to edit them.</p>
         <div class="images">
-            <div class="image img1"></div>
-            <div class="image img2"></div>
-            <div class="image img3"></div>
+            <img class="cover" src="images/img1.jpg" alt="first image" />
+            <img class="cover" src="images/img2.jpg" alt="second image" />
+            <img class="cover" src="images/img3.jpg" alt="third image" />
+        </div>
+    </section>
+
+    <section>
+        <h2>Option 3: using background images</h2>
+        <p>By using a background image, you can crop the image, position the image, apply filters, and include other
+            HTML elements inside of the image.</p>
+        <div class="images">
+            <div class="image img1">
+                <p>Label 1</p>
+            </div>
+            <div class="image img2">
+                <p>Label 2</p>
+            </div>
+            <div class="image img3">
+                <p>Label 3</p>
+            </div>
         </div>
     </section>
 </body>
