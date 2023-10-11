@@ -30,9 +30,7 @@ To round out our HTML & CSS instruction, we'll be going over some advanced CSS t
 
 ## Slides
 * Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
-* Lecture 13: Pseudo-Classes,  Transitions, & Keyframes (Wednesday, 10/11)
-
-<!-- <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes,  Transitions, & Keyframes</a> (Wednesday, 10/11) -->
+* Lecture 13: <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 10/11)
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
