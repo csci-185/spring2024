@@ -75,7 +75,7 @@ layout: default
                         
             {% if topic %}
                 {% assign rowClass = "section" %}
-                {% assign num = num | plus : 1 %}
+                {% assign num = topic.num %}
                 {% assign prefix = topic.abbreviation %}
                 {% if prefix == null %}
                     {% assign prefix = "Topic " | append: num %}
