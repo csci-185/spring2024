@@ -15,11 +15,11 @@ Today we will be going over the rules of functions in more detail, and learning 
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript" target="_blank">Understanding Events in JavaScript</a>. <em>Digital Ocean</em>
 
 ## Slides
-* Lecture 17: <a href="https://docs.google.com/presentation/d/17ARoBimxU4EOxLvCKGkzWgGU9qyo2No9YBnLOd365dE/edit?usp=sharing" target="_blank">Functions</a> (Part 1)
+* Lecture 16: <a href="#" target="_blank">Functions</a>
 
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Lecture Files
-* Lecture 17: <a href="/fall2023/course-files/lectures/lecture17.zip">Sample Files: Functions</a> (Monday, 03/20)
+* Lecture 16: <a href="/fall2023/course-files/lectures/lecture16.zip">Sample Files: Functions</a> (Monday, 10/23)
