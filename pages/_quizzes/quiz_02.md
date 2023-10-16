@@ -28,8 +28,7 @@ due_date: 2023-10-16
 </style>
 
 > ## Actual Quiz 2 Link
-> At the beginning of class on 10/16, the Quiz 2 link will be posted here.
-
+> [ACTUAL QUIZ 2](../activities/quiz02)
 
 ## 1. Guidelines (Please Read Carefully)
 * Quiz 2 will be completed **during class** on Monday, 10/16. It is due at the end of class.
