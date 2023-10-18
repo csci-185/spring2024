@@ -1,7 +1,7 @@
 function sayHello() {
-	document.querySelector('#message').innerHTML = '<p>Hello!</p>';
+    // your code here...
 }
 
 function sayGoodbye() {
-	document.querySelector('#message').innerHTML = '<p>Goodbye!</p>';
+    // your code here...
 }

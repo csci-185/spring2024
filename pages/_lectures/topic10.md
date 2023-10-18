@@ -25,11 +25,11 @@ This week, we're going to learn about some of the building blocks of programming
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em>
 
 ## Slides
-* Lecture 14: Intro to JavaScript (Wednesday, 10/18)
+* Lecture 14: <a href="https://docs.google.com/presentation/d/1kbOVL1f-8QJCpBbnljsNjigygHdSwnkAliA741sCzKE/edit?usp=sharing" target="_blank">Intro to JavaScript</a> (Wednesday, 10/18)
 * Lecture 15: The Building Blocks of Programming - Part 1 (Friday, 10/20)
 
 <!-- 
-* Lecture 14: <a href="#" target="_blank">Intro to JavaScript</a>
+
 * Lecture 15: <a href="#" target="_blank">The Building Blocks of Programming - Part 1</a> (Friday, 10/20) 
 -->
 
