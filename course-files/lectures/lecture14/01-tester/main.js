@@ -24,9 +24,16 @@ function updateScreen(ev) {
     const selector = document.querySelector("#selector").value;
     const prop = document.querySelector("#thing-to-change").value;
     const val = document.querySelector("#value").value;
-    const executionString = `document.querySelector("${selector}").${prop} = "${val}"`;
-    console.log(executionString);
-    document.querySelector("#code").innerHTML = executionString;
+    if (!selector || !prop || !val) {
+        return;
+    }
+    const executionString = `document.querySelector("${selector}").${prop} = "${val}";`;
+    document
+        .querySelector("#code")
+        .insertAdjacentHTML(
+            "beforeend",
+            `<div class="item">${executionString}</div>`
+        );
     try {
         eval(executionString);
     } catch (ex) {

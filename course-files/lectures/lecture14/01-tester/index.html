@@ -10,14 +10,16 @@
 <body>
     <h1>Tester</h1>
     <form onsubmit="updateScreen(event)">
-        <span>document.querySelector(</span>
-        <input id="selector" type="text" placeholder="selector" />
-        <span>).</span>
-        <input id="thing-to-change" type="text" placeholder="attribute or style property" />
-        <span> = </span>
-        <input id="value" type="text" placeholder="new value" />
-        <button>Update</button>
-        <pre id="code"></pre>
+        <section id="formula">
+            <span>document.querySelector("</span>
+            <input id="selector" type="text" placeholder="selector" />
+            <span>").</span>
+            <input id="thing-to-change" type="text" placeholder="attribute or style property" />
+            <span> = "</span><input id="value" type="text" placeholder="new value" />
+            <span>";</span>
+            <button>Add</button>
+        </section>
+        <section id="code"></section>
     </form>
 
     <aside>
