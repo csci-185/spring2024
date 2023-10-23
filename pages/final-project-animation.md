@@ -22,14 +22,6 @@ Most of these samples shown above have gone above and beyond the assignment spec
 {:.caption}
 Created by Rachel Smith (Berkeley City College)
 
-## Deliverable Deadlines
-
-|--|--|--|
-**04/17** | 15pts | By the midpoint deliverable, you must complete a rough draft of Parts 1-3 and have at least two distinct animations from Part 4 | 
-**04/19** | 5pts | Share your progress with a few of your classmates | 
-**05/02** | 30pts | By the final deliverable, you must complete all of the specifications listed. Please read the requirements very carefully. | 
-
-
 ## Your Tasks
 
 ### 1. Create a drawCreature function
@@ -116,7 +108,7 @@ Please create a short video (between 20 seconds and 1 minute...nothing too invol
 ## What to Submit
 **Please Read Carefully:** To submit each of your project deliverables, please follow the instructions below:
 
-### Midpoint Deliverable (Due 4/17)
+### Midpoint Deliverable
 On your homepage, create a section called "Projects". Underneath this section, include links to:
 * Your animation / game (midpoint)
 * Your presentation slides
@@ -128,7 +120,7 @@ When you've created these links, and committed / synced them to GitHub, please i
 3. If you worked with a partner, list your partner
 
 
-### Final Project Deliverable (Due 5/02)
+### Final Project Deliverable
 Inside of the "Projects" section of your homepage, include links to:
 * Your animation / game (final)
 {:.compact}

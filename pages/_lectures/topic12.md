@@ -11,7 +11,8 @@ due_date: 2023-10-30
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-javascript" target="_blank">How To Write Conditional Statements in JavaScript</a>. <em>Digital Ocean</em>  
 
 ## Slides
-* <a href="https://docs.google.com/presentation/d/1nkiv-uIhNlszbtgaoxRXeaLFi9rt2DDrhroM4Rl9tIk/edit?usp=sharing" target="_blank">Lecture 18: Conditional Logic</a>
+* <a href="#" target="_blank">Lecture 18: Conditional Logic</a>
+* <a href="#" target="_blank">Lecture 19: JavaScript Review</a>
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>

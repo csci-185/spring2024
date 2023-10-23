@@ -34,18 +34,10 @@ There were many different kinds of projects, and most students learned these tec
 * [North by Northwestern](https://sakkeo.github.io/cs130-coursework/CS130FinalProject/), by Sakke Overlund
 * [Personal Portfolio](https://kitrarazin.com/), by Kitra Razin
 * [Educational Game](https://vanmars.github.io/cs130-coursework/final_project/client/), by Vanessa Stuart
-* [Fixing the Starbucks Website](https://gtsai7.github.io/cs130-coursework/starbucks/main/coffee.html), by Gary Tsai & Ploenta (Ploen) Voraprukpisut
 * [Travel Blog](https://paris-yuqiu-wang.github.io/cs130-coursework/project03/), by Ashley Wei & Paris Wang
 
-## 3. Keep track of the deliverable deadlines
 
-|--|--|--|
-**04/17** | 15pts | By the midpoint deliverable, roughly half of your website should be completed (which you outlined in your project proposal) | 
-**04/19** | 5pts | Share your progress with a few of your classmates | 
-**05/02** | 30pts | By the final deliverable, you must deliver a finalized version of your website. | 
-
-
-## 4. Resources To Check Out
+## 3. Resources To Check Out
 Today we'll be taking a tour of some front-end techiques involving multimedia and animation. We'll just be glancing at a series of ideas. Some interesting links and resources I found online:
 
 ### Free Templates & Widgets
