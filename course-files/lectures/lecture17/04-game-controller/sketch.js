@@ -1,10 +1,10 @@
 let x = 100;
 let y = 200;
 let width = 50;
-let fillColor = 'white';
+let fillColor = "white";
 
 const canvasWidth = window.innerWidth;
-const canvasHeight = window.innerHeight; 
+const canvasHeight = window.innerHeight;
 
 function setup() {
     createCanvas(canvasWidth, canvasHeight);
@@ -16,7 +16,7 @@ function setup() {
     drawGrid(canvasWidth, canvasHeight);
 }
 
-const moveController = ev => {
+function moveController(ev) {
     console.log(ev.code);
     // left arrow moves circle left
     // right arrow moves circle right
@@ -30,6 +30,5 @@ const moveController = ev => {
     drawGrid(canvasWidth, canvasHeight);
 }
 
-
 // Add event listener on keydown
-document.addEventListener('keydown', moveController);
+document.addEventListener("keydown", moveController);

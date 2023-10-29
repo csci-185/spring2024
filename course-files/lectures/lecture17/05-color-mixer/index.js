@@ -3,7 +3,7 @@ const yellowElement = document.querySelector("#yellow");
 const blueElement = document.querySelector("#blue");
 
 function setBackgroundColor(color) {
-    document.querySelector('body').style.backgroundColor = color;
+    document.querySelector("body").style.backgroundColor = color;
 }
 
 function updateColor() {
@@ -17,12 +17,11 @@ function updateColor() {
     If yellow and blue are turned on, make the background green.
     If everything is turned on, then make the background black.
     */
-    if (redElement.value === 'on') {
-        setBackgroundColor('red');
-    } else if (yellowElement.value === 'on') {
-        setBackgroundColor('yellow');
+    if (redElement.value === "on") {
+        setBackgroundColor("red");
+    } else if (yellowElement.value === "on") {
+        setBackgroundColor("yellow");
     } else {
-        setBackgroundColor('white');
+        setBackgroundColor("white");
     }
-
-};
+}

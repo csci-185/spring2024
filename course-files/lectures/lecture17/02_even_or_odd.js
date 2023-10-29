@@ -4,6 +4,6 @@ function evenOrOdd(num) {
     // is even and "odd" if it is odd.
 }
 
-console.log('5:', evenOrOdd(5));
-console.log('18:', evenOrOdd(18));
-console.log('125:', evenOrOdd(125));
+console.log("5:", evenOrOdd(5));
+console.log("18:", evenOrOdd(18));
+console.log("125:", evenOrOdd(125));

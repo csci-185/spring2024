@@ -1,10 +1,10 @@
 let x = 100;
 let y = 200;
 let width = 50;
-let fillColor = 'white';
+let fillColor = "white";
 
 const canvasWidth = window.innerWidth;
-const canvasHeight = window.innerHeight; 
+const canvasHeight = window.innerHeight;
 
 function setup() {
     createCanvas(canvasWidth, canvasHeight);
@@ -18,21 +18,21 @@ function setup() {
 
 function moveController(ev) {
     console.log(ev.code);
-    if (ev.code == 'ArrowUp') {
-        console.log('up arrow!');
+    if (ev.code == "ArrowUp") {
+        console.log("up arrow!");
         y -= 2;
-    } else if (ev.code == 'ArrowDown') {
-        console.log('down arrow!');
+    } else if (ev.code == "ArrowDown") {
+        console.log("down arrow!");
         y += 2;
-    } else if (ev.code == 'ArrowLeft') {
-        console.log('left arrow!');
+    } else if (ev.code == "ArrowLeft") {
+        console.log("left arrow!");
         x -= 2;
-    } else if (ev.code == 'ArrowRight') {
-        console.log('right arrow!');
+    } else if (ev.code == "ArrowRight") {
+        console.log("right arrow!");
         x += 2;
-    } else if (ev.code == 'Space') {
+    } else if (ev.code == "Space") {
         width += 2;
-    } else if (ev.code == 'Escape') {
+    } else if (ev.code == "Escape") {
         width -= 2;
     }
 
@@ -43,6 +43,5 @@ function moveController(ev) {
     drawGrid(canvasWidth, canvasHeight);
 }
 
-
 // Add event listener on keydown
-document.addEventListener('keydown', moveController);
+document.addEventListener("keydown", moveController);

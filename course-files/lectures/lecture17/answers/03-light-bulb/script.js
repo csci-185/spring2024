@@ -8,4 +8,4 @@ function turnOn() {
     } else {
         elem.src = imgOn;
     }
-};
+}
