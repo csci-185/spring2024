@@ -10,6 +10,19 @@ start_date: 2023-11-03
 due_date: 2023-11-06
 ---
 
+<style>
+    .caption {
+        font-weight: 700;
+        margin: 0 0 20px 0;
+        text-align: left;
+    }
+
+    .medium.frame {
+        margin-bottom: 0;
+    }
+
+</style>
+
 ## Background Readings / References
 * <a href="https://www.digitalocean.com/community/tutorials/how-to-write-conditional-statements-in-javascript" target="_blank">How To Write Conditional Statements in JavaScript</a>. <em>Digital Ocean</em>  
 * <a href="https://www.w3schools.com/html/html5_canvas.asp" target="_blank">The canvas element</a>. <em>W3Schools</em>  
@@ -141,6 +154,21 @@ triangle(
 * Add a fourth shape that a user might choose
 * Add the ability for the user to specify the outline color of the shape (currently it defaults to black)
 {:.compact}
+
+### Gallery of Inspiration
+<div>
+    <img class="medium frame" src="/fall2023/assets/images/tutorials/tutorial08/drawing01.png"/>
+    <p class="caption">
+        Credit: Ko Dowling
+    </p>
+</div>
+<div>
+<img class="medium frame" src="/fall2023/assets/images/tutorials/tutorial08/drawing02.png"/>
+    <p class="caption">
+        Credit: Isabella Hernandez
+    </p>
+</div>
+
 
 ## What to Submit
 **Please Read Carefully:** To submit Tutorial 8, please paste the following links into the Moodle under the Tutorial 8 submission section:
