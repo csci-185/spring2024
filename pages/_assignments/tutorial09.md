@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Make some algorithmic art
 type: tutorial
 abbreviation: Tutorial 9
-draft: 1
+draft: 0
 points: 6
 num: 9
 start_date: 2023-11-10

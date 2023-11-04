@@ -12,7 +12,6 @@ due_date: 2023-10-30
 
 ## Slides
 * <a href="https://docs.google.com/presentation/d/1KurLBw0xSFToAmUyftaqv74MurX3N_qZWe1IY5tT0Lk/edit?usp=sharing" target="_blank">Lecture 17: Conditional Logic</a>
-* <a href="https://docs.google.com/presentation/d/1WmKszziI3m9WaY7CfWMIDb-oAMu5tnqjbvZzopDJwVg/edit?usp=sharing" target="_blank">Lecture 18: JavaScript Review</a>
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
