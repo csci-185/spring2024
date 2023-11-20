@@ -18,6 +18,7 @@ In this unit, we are going to be learning about data, and how websites use it to
 
 ## Slides
 * <a href="https://docs.google.com/presentation/d/1wq3Dlx7v7KDO74Pv5DcVwiymdwlHoaGwLie3ZNJ1198/edit?usp=sharing" target="_blank">Lecture 20: Intro to REST APIs</a>
+<!-- * <a href="https://docs.google.com/presentation/d/1AagOpkQAO8otvKt5u9RfQKTseoOU9UdvL1TyFH1zKP4/edit?usp=sharing" target="_blank">Lecture 21: JavaScript's Fetch API</a> -->
 
 
 ## Videos
