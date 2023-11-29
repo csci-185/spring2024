@@ -47,7 +47,7 @@ due_date: 2023-12-04
 </style>
 
 ## 1. Ground Rules (Please Read Carefully)
-Quiz 3 is a paper-based assessment that will be administered **during class** on Monday. You may use your notes, pen and paper, and any "cheat sheats" that you want to make. You may not use a computer. 
+Quiz 3 is a paper-based assessment that will be administered **during class** on Monday. You may use your notes, pen and paper, and any "cheat sheets" that you want to make. You may not use a computer. 
 
 ## 2. Study Resources
 To study for the quiz, please review the following:
