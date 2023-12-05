@@ -49,7 +49,11 @@ due_date: 2023-12-04
 
 > ## Actual Quiz 3 Link
 > * Paper based version of quiz will be handed out in class (60 points)
-> * [ACTUAL QUIZ 3](../activities/quiz03): Digital portion (40 points)
+>    * <a href="https://docs.google.com/document/d/1VgGvsZdaL-Ff3kx6QtrJZb-xEn6o_KFWRNAJMqj9qeo/edit?usp=sharing" target="_blank">Questions</a>
+>    * <a href="https://docs.google.com/document/d/1MeUoT3tzid7YMllRU3hsfZQu_ZbmEw_B2U5AfW9J3tE/edit?usp=sharing" target="_blank">Solutions</a>
+> * Digital portion (40 points)
+>    * [Questions](../activities/quiz03)
+>    * [Solutions](../course-files/activities/quiz03_answers.zip)
 
 ## 1. Ground Rules (Please Read Carefully)
 Quiz 3 is a paper-based assessment that will be administered **during class** on Monday. You may use your notes, pen and paper, and any "cheat sheets" that you want to make. You may not use a computer. 
