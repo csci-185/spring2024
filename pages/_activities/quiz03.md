@@ -14,7 +14,7 @@ due_date: 2023-12-04
 </style>
 
 
-<a href="/fall2023/course-files/activities/quiz03.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
+<a href="/fall2023/course-files/activities/quiz03.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a> <a href="/fall2023/course-files/activities/quiz03_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
 
 ## Required: DOM Manipulation
 Open the `quiz03` folder and add click event handlers to all of the div tags. When a div element is clicked, its background should change color (pick any color you like). When you’re done, your page should look like the demo shown below:
