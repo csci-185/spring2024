@@ -23,7 +23,7 @@ Before we start building websites, let's take some time to understand how the In
 
 
 ## Slides
-1. [Intro to the course](https://docs.google.com/presentation/d/1wPTU3q2CqEQEaF_hXgJwXYJnqNvreaV00GMR9fTRJFE/edit?usp=sharing)
+1. [Intro to the course](https://docs.google.com/presentation/d/1nNBKBt6S8w7vxmN8wshkp7DGRkNnqRyKDSQyo4vyuIs/edit?usp=sharing)
 2. [Intro to the Internet](https://docs.google.com/presentation/d/1OP418VchDy1yrgKsZ6rsxfQ1voTzgeFaL4uWao9iUCc/edit?usp=sharing)
 
 

@@ -3,12 +3,12 @@ layout: syllabus
 title: Syllabus
 permalink: /syllabus/
 course: "CSCI 185: Intro to Computer Programming for the Web"
-term: "Fall 2023"
+term: "Spring 2024"
 prerequisites: "None"
-office_hours: "MWF 5pm - 6pm (in person), Rhoades Robinson Hall, Rm. 220 or by appointment."
+office_hours: "MWF 1pm - 2pm (in person), Rhoades Robinson Hall, Rm. 220 or by appointment."
 professor: "Dr. Sarah Van Wart (she / her)"
 professor_email: svanwart@unca.edu
-time_location: "MWF 3:30-4:45PM, Zeis Hall, Rm. 203"
+time_location: "MWF 11:00-12:15PM, Zeis Hall, Rm. 203"
 notes: "Students may receive credit for ONLY ONE of the following courses: CSCI 182, 183 or 185."
 ---
 
@@ -134,15 +134,14 @@ Your course grade is calculated based on homework and projects, quizzes, tutoria
 
 {:.small}
 | **Homework and Projects** | 50% |
+| **Quizzes** | 25% |
 | **Tutorials** | 15% |
-| **Attendance & Participation** | 15% |
-| **Quizzes** | 10% |
-| **Final Exam** | 10% |
+| **Attendance & Participation** | 10% |
 
 Final grades are assigned on a fixed scale: 93-100 is 
 an A, 90-92.99 is an A-, 87-89.99 is a B+, etc. Some other logistics:
 
-1. Final course grades will not be rounded or curved.
+1. Final course grades will **not** be rounded or curved.
 1. There will not be a final exam, but final exam time will be used for the quiz.
 
 > ### NOTE: Leniency is built into the course
@@ -176,7 +175,7 @@ Tutorials will be graded according to the following scale (from 0-3 points):
 Tutorials are designed to be completed during class every Friday. That said, you may have until Sunday at 11:59PM to turn them in (i.e., an extra two days). I **do not accept late tutorials** because I post the solutions right away.
 
 ### Quizzes & Final Exam
-There will be 2 quizzes and one final exam over the course of the semester. The purpose of these assessments is to ensure that you understand the programming and design concepts that we have been studying.
+There will be 3-4 quizzes over the course of the semester. The purpose of these assessments is to ensure that you understand the programming and design concepts that we have been studying. You will have an opportunity to make up any of the quizzes during the final exam period to improve your grade.
 
 ### Regrading Policy
 I have been known to make the occasional grading error. If you have any grading questions/concerns, please email me within a week to resolve the issue.

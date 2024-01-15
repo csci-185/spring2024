@@ -3,6 +3,7 @@ layout: module
 title: Quiz 3 Q&A
 abbreviation: Review Session
 type: module
+is_review: 1
 draft: 0
 due_date: 2024-04-24
 ---

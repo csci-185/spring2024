@@ -1,4 +1,4 @@
-{% assign lectures = site.lectures | where: 'type', 'module' %}
+{% assign lectures = site.lectures | where: 'type', 'module' | where_exp: "lecture", "lecture.is_review != 1" %}
 {% assign tutorials = site.assignments | where: 'type', 'tutorial' %}
 
 
