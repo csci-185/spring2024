@@ -15,7 +15,7 @@ This in-class activity consists of 3 parts:
 
 Please download the exercise files (below).
 
-<a href="/fall2023/course-files/activities/transitions.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/activities/transitions.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
 
 
 {:#part1}

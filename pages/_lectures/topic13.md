@@ -7,7 +7,7 @@ num: 13
 due_date: 2024-04-01
 ---
 
-<img class="module-image" src="/fall2023/assets/images/lectures/loops.gif" /> In this lesson, we’re going to go over while loops and for loops -- ways of allowing your program to repeat code for a specified number of iterations. Being able to repeat code blocks (also know as "looping" or "iterating") is very powerful, and will allow you to easily perform repetitive tasks in a variety of different contexts: playing songs, drawing pictures, building animations, doing data processing, and so forth. Please do the assigned readings -- they will help you get a solid foundation of JavaScript loops.
+<img class="module-image" src="/spring2024/assets/images/lectures/loops.gif" /> In this lesson, we’re going to go over while loops and for loops -- ways of allowing your program to repeat code for a specified number of iterations. Being able to repeat code blocks (also know as "looping" or "iterating") is very powerful, and will allow you to easily perform repetitive tasks in a variety of different contexts: playing songs, drawing pictures, building animations, doing data processing, and so forth. Please do the assigned readings -- they will help you get a solid foundation of JavaScript loops.
 
 ## Readings
 * <a href="https://www.digitalocean.com/community/tutorials/using-while-loops-and-do-while-loops-in-javascript" target="_blank">Using While Loops and Do...While Loops in JavaScript</a>. <em>Digital Ocean</em>  
@@ -23,4 +23,4 @@ Videos will be published after class on <a href="https://drive.google.com/drive/
 
 ## Lecture Files
 
-* Lecture 18 & 19 (Loops): <a href="/fall2023/course-files/lectures/lecture18_19.zip">Sample Files</a>
+* Lecture 18 & 19 (Loops): <a href="/spring2024/course-files/lectures/lecture18_19.zip">Sample Files</a>

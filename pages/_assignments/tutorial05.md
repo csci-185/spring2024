@@ -38,7 +38,7 @@ To complete this tutorial, you will likely need to consult some CSS references (
 
 
 ## Your Tasks
-<a href="/fall2023/course-files/tutorials/tutorial05.zip" class="nu-button">Tutorial 5 Starter Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/tutorials/tutorial05.zip" class="nu-button">Tutorial 5 Starter Files <i class="fas fa-download"></i></a>
 
 Download the `tutorial05.zip` file, unzip it and move the unzipped `tutorial05` folder into the `csci185/tutorials` folder.
 
@@ -47,14 +47,14 @@ Download the `tutorial05.zip` file, unzip it and move the unzipped `tutorial05` 
 Please complete **levels 1-13** of <a href="https://flexboxfroggy.com/" target="_blank">Flexbox Froggy</a> and take a screenshot of your completed levels (like the screenshot shown below, but with the first thirteen levels completed). When you're done, save your screenshot in the `tutorial05/01-flexbox-froggy` folder. 
 * You can earn **2 points extra credit** if you complete all 24 levels.
 
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial05/exercise01.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial05/exercise01.png" />
 
 
 ### 2. Center-align elements within a container
 
 Open `02-flex` and create the layout shown below by editing the CSS file. You should not need to edit the HTML.
 
-<img src="/fall2023/assets/images/tutorials/tutorial05/exercise02.gif" />
+<img src="/spring2024/assets/images/tutorials/tutorial05/exercise02.gif" />
 
 Please ensure that the following criteria are met:
 
@@ -67,7 +67,7 @@ Please ensure that the following criteria are met:
 ### 3. Create a Navigation Bar
 Open `03-navbar`, and try to make the following layout using flex. The navigation bar should also be anchored to the top so when you scroll, the nav bar stays fixed.
 
-<img class="frame large" src="/fall2023/assets/images/tutorials/tutorial05/exercise03.png" />
+<img class="frame large" src="/spring2024/assets/images/tutorials/tutorial05/exercise03.png" />
 
 Hints:
 

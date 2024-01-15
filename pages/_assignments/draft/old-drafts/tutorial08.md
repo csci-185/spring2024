@@ -37,9 +37,9 @@ due_date: 2023-03-05
 > * <a href="https://drive.google.com/file/d/15QyJ7oUP00M4j4bCm7oxFvX8d_9MKXEL/view?usp=sharing" target="_blank">Recording Section 2</a> (3:30-4:45PM)
 
 
-<a class="nu-button" href="/fall2023/course-files/tutorials/tutorial08.zip" target="_blank">
+<a class="nu-button" href="/spring2024/course-files/tutorials/tutorial08.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
-</a> <a href="/fall2023/course-files/tutorials/tutorial08_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
+</a> <a href="/spring2024/course-files/tutorials/tutorial08_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
 
 > ## Due Monday at Midnight
 > We will begin working on this Tutorial in class on Friday. But, we may also work on it on Monday, and so it is due at midnight on Monday, 10/10.
@@ -77,7 +77,7 @@ Your job is to finish the game by implementing the following features:
 1. Open `circles` 
 2. See if you can use a while loop to recreate this functionality, where there is only one makeCircle function call that is repeated within a while loop.
 
-<img class="frame" style="width: 100px;" src="/fall2023/assets/images/tutorials/tutorial08/vertical_circles.png" />
+<img class="frame" style="width: 100px;" src="/spring2024/assets/images/tutorials/tutorial08/vertical_circles.png" />
 
 ### Hints
 
@@ -89,7 +89,7 @@ Your job is to finish the game by implementing the following features:
 ## Extra Challenges: Drawing with Loops
 Practice creating the following shapes using a while loop. The first two shapes are recommended for everyone. The last three (4 cones and spirograph) are optional. Feel free to Google around for ideas of how you might implement them.
 
-<img class="med-lg center frame" src="/fall2023/assets/images/tutorials/tutorial08/shapes.png" />
+<img class="med-lg center frame" src="/spring2024/assets/images/tutorials/tutorial08/shapes.png" />
 
 ## Hints
 **Q: What do you want to repeat?**<br>The circle function.

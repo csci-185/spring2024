@@ -9,8 +9,8 @@ num: 6
 due_date: 2023-02-17
 ---
 
-<a href="/fall2023/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
-<a href="/fall2023/course-files/tutorials/tutorial06_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/tutorials/tutorial06_answers.zip" class="button">Solutions <i class="fas fa-download"></i></a>
 ## Introduction 
 The goal of today's tutorial is to:
 1. Help you practice using JavaScript to target and modify HTML elements in your DOM Tree.
@@ -52,7 +52,7 @@ We have created a cheatsheet (below) with examples of different selector methods
 
 ## Your Tasks
 
-<a href="/fall2023/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial 5 <i class="fas fa-download"></i></a> 
+<a href="/spring2024/course-files/tutorials/tutorial06.zip" class="nu-button">Download Tutorial 5 <i class="fas fa-download"></i></a> 
 
 Please download the tutorial06.zip file, unzip it, and move the tutorials folder inside of your csci185 folder. Then complete the tasks below.
 
@@ -74,7 +74,7 @@ See the Lecture 9 and Lecture 10 exercise files if you need to see some examples
 
 Next, open `01-font-switcher/index.js` and, modify the body of the `makeBigger` and `makeSmaller` functions so that they update the font size of the `div.content` element and the `h1` element. There should be at least two statements within the body of each function (one to target and manipulate `div.content`, and one to target and manipulate `h1`). When you're done, your web page should look like this:
 
-<img class="large frame" src="/fall2023/assets/images/tutorials/tutorial06/font-switcher.gif" />
+<img class="large frame" src="/spring2024/assets/images/tutorials/tutorial06/font-switcher.gif" />
 
 
 ### 2. Theme Switcher
@@ -88,7 +88,7 @@ Another way to make your site more accessible is to create a "high-contrast" sty
 
 When you're done, your web page should look like this:
 
-<img class="large frame" src="/fall2023/assets/images/tutorials/tutorial06/theme-switcher.gif" />
+<img class="large frame" src="/spring2024/assets/images/tutorials/tutorial06/theme-switcher.gif" />
 
 ### 3. Dyslexia Mode (Recommended, but Optional)
 In part 3, you will use JavaScript to create a method for people with dyslexia to more easily read your web page. This technique is based on this artice: <a href="https://www.smashingmagazine.com/2021/11/dyslexia-friendly-mode-website/" target="_blank">Adding A Dyslexia-Friendly Mode To A Website</a>. Please complete the following tasks:
@@ -106,7 +106,7 @@ In part 3, you will use JavaScript to create a method for people with dyslexia t
 
 When you're done, your web page should look like this:
 
-<img class="large frame" src="/fall2023/assets/images/tutorials/tutorial06/dyslexia.gif" />
+<img class="large frame" src="/spring2024/assets/images/tutorials/tutorial06/dyslexia.gif" />
 
 
 ## Update your homepage to link to your tutorial06

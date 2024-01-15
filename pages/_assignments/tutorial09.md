@@ -45,7 +45,7 @@ due_date: 2024-04-08
     }
 </style>
 
-<a class="nu-button" href="/fall2023/course-files/tutorials/tutorial09.zip" target="_blank">
+<a class="nu-button" href="/spring2024/course-files/tutorials/tutorial09.zip" target="_blank">
     Tutorial 09 Starter Files <i class="fas fa-download"></i>
 </a> 
 
@@ -94,14 +94,14 @@ In `artwork/sketch.js`, take a look at lines 22-25 (which are responsible for cr
 I have included some sample drawings below to give you some ideas:
 
 <div class="grid">
-    <img class="span2" src="/fall2023/assets/images/tutorials/tutorial09/bubbles.png" /> 
-    <img class="span2" src="/fall2023/assets/images/tutorials/tutorial09/stars.png" /> 
-    <img src="/fall2023/assets/images/tutorials/tutorial09/lines.png" /> 
-    <img src="/fall2023/assets/images/tutorials/tutorial09/crosses.png" /> 
-    <img src="/fall2023/assets/images/tutorials/tutorial09/color-shapes.png" /> 
-    <img src="/fall2023/assets/images/tutorials/tutorial09/lines-rotating.gif" /> 
-    <img src="/fall2023/assets/images/tutorials/tutorial09/squares-rotating.gif" /> 
-    <img src="/fall2023/assets/images/tutorials/tutorial09/bubbles.gif" /> 
+    <img class="span2" src="/spring2024/assets/images/tutorials/tutorial09/bubbles.png" /> 
+    <img class="span2" src="/spring2024/assets/images/tutorials/tutorial09/stars.png" /> 
+    <img src="/spring2024/assets/images/tutorials/tutorial09/lines.png" /> 
+    <img src="/spring2024/assets/images/tutorials/tutorial09/crosses.png" /> 
+    <img src="/spring2024/assets/images/tutorials/tutorial09/color-shapes.png" /> 
+    <img src="/spring2024/assets/images/tutorials/tutorial09/lines-rotating.gif" /> 
+    <img src="/spring2024/assets/images/tutorials/tutorial09/squares-rotating.gif" /> 
+    <img src="/spring2024/assets/images/tutorials/tutorial09/bubbles.gif" /> 
 </div>
 
 
@@ -115,7 +115,7 @@ Open the `cars/sketch.js` file and examine the starter code. Some things to note
     * It also allows us to define an optional `draw()` function, which will be invoked in p5's built-in animation loop. Everything inside of `draw()` will be called over and over again as part of the animation loop.
 * Within the `draw()` loop, I have already started animating the pink car. Your job will involve enhancing this code so that it looks like the one in the animation below.
 
-<img class="cars" src="/fall2023/assets/images/tutorials/tutorial09/cars.gif" /> 
+<img class="cars" src="/spring2024/assets/images/tutorials/tutorial09/cars.gif" /> 
 
 
 ### Your Job

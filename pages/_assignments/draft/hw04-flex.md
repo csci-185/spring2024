@@ -43,7 +43,7 @@ To complete this homework, you will likely need to consult some CSS references (
 * <a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">W3 Schools Flexbox Guide</a>   
 
 ## Your Tasks
-<a href="/fall2023/course-files/homework/hw04.zip" class="nu-button">HW04 Starter Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/homework/hw04.zip" class="nu-button">HW04 Starter Files <i class="fas fa-download"></i></a>
 
 Download the `hw04.zip` file, unzip it and move the unzipped `hw04` folder into the `csci185/homework` folder.
 

@@ -24,14 +24,14 @@ A few notes:
 * To get credit for this tutorial, you must successfully complete **at least half of the exercises below**.
 * Please download the starter files and save them in your `csci185/tutorials` folder:
 
-<a href="/fall2023/course-files/tutorials/tutorial12.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> 
+<a href="/spring2024/course-files/tutorials/tutorial12.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a> 
 
 ## Code Writing Practice Questions
 
 ### 1. DOM Manipulation
 Open the `exercise01` folder and add event handlers to all of the buttons. When a button is clicked, the color of the box below it should change to the color of the box (see demo below).
 
-<img class="small frame" src="/fall2023/assets/images/tutorials/tutorial12/exercise01.gif" />
+<img class="small frame" src="/spring2024/assets/images/tutorials/tutorial12/exercise01.gif" />
 
 ### 2. Functions
 Open the `exercise02` folder and create a function called `drawShape` that draws two concentric circles of different colors (as shown below). The function should have the following parameters defined (in order):
@@ -53,18 +53,18 @@ drawShape(450, 200, 250, '#0bc9cd', '#db5461');
 
 ...the image pictured below should be drawn to the screen:
 
-<img class="small frame" src="/fall2023/assets/images/tutorials/tutorial12/exercise02.png" />
+<img class="small frame" src="/spring2024/assets/images/tutorials/tutorial12/exercise02.png" />
 
 ### 3. Loops
 Open the `exercise03` folder. Inside of `main.js`, write a program, using any kind of loop you want, to output all of the restaurant names to the `<main id="output"></main>` tag of the `index.html` file. If you are successful, your screen should look like this:
 
-<img class="small" src="/fall2023/assets/images/tutorials/tutorial12/exercise03.png" />
+<img class="small" src="/spring2024/assets/images/tutorials/tutorial12/exercise03.png" />
 
 ### 4. Loops + Conditionals
 
 Open the `exercise04` folder. Inside of `main.js`, write a program, using any kind of loop you want, to output only the names of **pizza restaurants** to the `<main id="output"></main>` tag of the `index.html` file. You will have to filter your list by the `category` property of each restaurant. If you are successful, your screen should look like this:
 
-<img class="small" src="/fall2023/assets/images/tutorials/tutorial12/exercise04.png" />
+<img class="small" src="/spring2024/assets/images/tutorials/tutorial12/exercise04.png" />
 
 ## What to Submit
 Please commit and push your changes. Then, paste a link to your code repository (e.g., [https://github.com/vanwars/csci185-coursework](https://github.com/vanwars/csci185-coursework)) to the course Moodle under **Tutorial 12**.

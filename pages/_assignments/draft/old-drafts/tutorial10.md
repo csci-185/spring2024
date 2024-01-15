@@ -9,7 +9,7 @@ num: 10
 due_date: 2023-03-17
 ---
 
-<a class="nu-button" href="/fall2023/course-files/tutorials/tutorial10.zip" target="_blank">
+<a class="nu-button" href="/spring2024/course-files/tutorials/tutorial10.zip" target="_blank">
     Tutorial Starter Files <i class="fas fa-download"></i>
 </a>
 
@@ -18,9 +18,9 @@ In preparation for your Project 1 submission, this week's tutorial will be dedic
 ## Your Tasks
 For this assignment, you are welcome to work in pairs. However, if you work together, you will both have to submit a link to your copy of the code (linked from your homepage).
 
-1. Browse the [interaction demos](/fall2023/course-files/tutorials/tutorial10/demos/) (also see the `demos` folder in the Tutorial 10 starter files) to get a sense of some available animations and interactions that you might incorporate into your project.
+1. Browse the [interaction demos](/spring2024/course-files/tutorials/tutorial10/demos/) (also see the `demos` folder in the Tutorial 10 starter files) to get a sense of some available animations and interactions that you might incorporate into your project.
 1. Copy the creature function you made in HW3 into `tutorial10/your-task/sketch.js` file (and delete the one that's in there now). If you're working in pairs, you will incorporate 2 creature functions (one for each person). You'll have to give the functions different names (e.g., `drawCreatureList` and `drawCreatureJames`).
-    * If you haven't submitted your HW3, use the `drawFace` function from the [Tutorial 7 solutions](/fall2023/course-files/tutorials/tutorial07_answers.zip), and rename it to `drawCreature`.
+    * If you haven't submitted your HW3, use the `drawFace` function from the [Tutorial 7 solutions](/spring2024/course-files/tutorials/tutorial07_answers.zip), and rename it to `drawCreature`.
 1. Select one of the interactions from the demo file.
 1. Use your imagination and think about how you might incorporate apply one of these interactions to your creature. Then, make it happen. Some ideas:
     * Add a click event that allows you to create new creatures wherever you click.

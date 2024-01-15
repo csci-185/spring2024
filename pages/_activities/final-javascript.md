@@ -22,12 +22,12 @@ due_date: 2023-12-08
 2. Then, complete the coding portion of the Exam (40 points) as described below. Note that **only the first question** is required.
 
 
-<a href="/fall2023/course-files/exams/javascript-final-exam.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/exams/javascript-final-exam.zip" class="nu-button">Download Starter Files <i class="fas fa-download"></i></a>
 
 ## 1. Required: DOM Manipulation
 Open the `exercise01` folder and complete the three tasks described in the picture below: 
 
-<img class="large" src="/fall2023/assets/images/final-exam/dom-manipulation.gif" />
+<img class="large" src="/spring2024/assets/images/final-exam/dom-manipulation.gif" />
 
 
 ## 2. Optional: Functions & Loops
@@ -47,7 +47,7 @@ Open the `exercise02` folder and examine all of the files. Inside of `main.js`, 
     * Days (i.e., which days does the course meet?)
 3. Location and Days may be `null`. That's OK for this exercise (though in real life, you'd probably want to output a friendlier message).
 
-<img class="large frame" src="/fall2023/assets/images/quizzes/quiz03/exercise03.png" />
+<img class="large frame" src="/spring2024/assets/images/quizzes/quiz03/exercise03.png" />
 
 **Hints**
 * Loop through the `courses` array.

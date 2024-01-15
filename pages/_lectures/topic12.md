@@ -17,4 +17,4 @@ due_date: 2024-03-25
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Lecture Files
-* Lecture 17: <a href="/fall2023/course-files/lectures/lecture17.zip">Sample Files: Conditional Statements</a> (Monday, 03/27)
+* Lecture 17: <a href="/spring2024/course-files/lectures/lecture17.zip">Sample Files: Conditional Statements</a> (Monday, 03/27)

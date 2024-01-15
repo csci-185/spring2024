@@ -11,7 +11,7 @@ due_date: 2024-01-28
 ---
 
 {:.blockquote-no-margin}
-> **Assumptions:** This tutorial assumes that you have reviewed the materials assigned in the [Intro to HTML lecture](/fall2023/lectures/topic03).
+> **Assumptions:** This tutorial assumes that you have reviewed the materials assigned in the [Intro to HTML lecture](/spring2024/lectures/topic03).
 
 ## Part 1. Setting Up Your Development Environment
 
@@ -20,7 +20,7 @@ Download and install Visual Studio Code: <a href="https://code.visualstudio.com/
 * This does not need to be done if you are working on the computer lab computers -- just if you're working on your laptop.
 
 ### 2. Organize your files
-<a href="/fall2023/course-files/tutorials/tutorial02.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/tutorials/tutorial02.zip" class="nu-button">Download Tutorial Files <i class="fas fa-download"></i></a>
 
 File management and organization are an essential part of programming and web development. As such, we suggest the following system:
 1. Create a course folder called **csci185** somewhere on your computer. Many people store theirs in Documents or on their Desktop.
@@ -81,7 +81,7 @@ Once you’ve taken a look at the code in VS Code, go to your file navigator (Wi
 
 It should look something like this:
 
-<img class="frame xsmall" src="/fall2023/assets/images/tutorials/tutorial02/a.png" />
+<img class="frame xsmall" src="/spring2024/assets/images/tutorials/tutorial02/a.png" />
 
 ## Part 2. Completing the Exercises
 Now that you're set up, please complete the 6 tasks below:
@@ -111,12 +111,12 @@ This "link tag" instructs the browser to style the `index.html` according to the
 
 Test your change by refreshing your web browser. Your page should now look like this:
 
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial02/b.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial02/b.png" />
 
 Next, add this same stylesheet link tag inside of the head tag of the `videos.html` and `music.html` files, and then preview both of these in your web browser. These pages should look like this:
 
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial02/c.png" />
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial02/d.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial02/c.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial02/d.png" />
 
 {:#step2}
 ### 2. Link your pages to one another in the navigation section
@@ -135,7 +135,7 @@ Next, modify the anchor tags within the navigation section (in each of your page
 
 Update all of your anchor tags on all three pages. When you're done, all of the pages should link together as shown below:
 
-<img class="frame small" src="/fall2023/assets/images/tutorials/tutorial02/e.gif" />
+<img class="frame small" src="/spring2024/assets/images/tutorials/tutorial02/e.gif" />
 
 {:#step3}
 ### 3. Add some images to the index.html file
@@ -148,28 +148,28 @@ Inside the `index.html` file:
 
 When you're done, your page should look like this:
 
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial02/f.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial02/f.png" />
 
 
 {:.blockquote-no-margin}
-> **Hint**: Please see the course resources on [images](/fall2023/html-reference/images/) for more detail.
+> **Hint**: Please see the course resources on [images](/spring2024/html-reference/images/) for more detail.
 
 {:#step4}
 ### 4. Add two videos to the videos.html file
 Inside the `videos.html` file, add two different YouTube or Vimeo videos inside of the `<section class="video-section"></section>` region of your page. To get the embed code of any YouTube video, (a) navigate to the video, (b) click "share", (c) then click "embed," and (d) then copy the embed code (iframe tag), as pictured below (note the pink squares):
 
-<img class="frame small" src="/fall2023/assets/images/tutorials/tutorial02/g.png" />
+<img class="frame small" src="/spring2024/assets/images/tutorials/tutorial02/g.png" />
 
-<img class="frame small" src="/fall2023/assets/images/tutorials/tutorial02/h.png" />
+<img class="frame small" src="/spring2024/assets/images/tutorials/tutorial02/h.png" />
 
-<img class="frame small" src="/fall2023/assets/images/tutorials/tutorial02/i.png" />
+<img class="frame small" src="/spring2024/assets/images/tutorials/tutorial02/i.png" />
 
 When you're done, your page should look like this (except with *your* videos):
 
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial02/j.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial02/j.png" />
 
 {:.blockquote-no-margin}
-> **More examples**: Please also see the course resources on [media tags](/fall2023/html-reference/media-tags/).
+> **More examples**: Please also see the course resources on [media tags](/spring2024/html-reference/media-tags/).
 
 {:#step5}
 ### 5. Add a Spotify player to music.html
@@ -177,7 +177,7 @@ Inside the `music.html` file, add one or more embedded music players inside of t
 
 When you're done, your page should look like this (except with *your* videos):
 
-<img class="frame medium" src="/fall2023/assets/images/tutorials/tutorial02/k.png" />
+<img class="frame medium" src="/spring2024/assets/images/tutorials/tutorial02/k.png" />
 
 
 {:#step6}
@@ -193,9 +193,9 @@ While we have not yet covered CSS, try editing style.css as follows:
 > #### CSS Reference
 > Please also see the course resources on CSS:
 >
-> * [fonts](/fall2023/css-reference/fonts/)
-> * [color](/fall2023/css-reference/color/)
-> * [selectors](/fall2023/css-reference/selectors/)
+> * [fonts](/spring2024/css-reference/fonts/)
+> * [color](/spring2024/css-reference/color/)
+> * [selectors](/spring2024/css-reference/selectors/)
 
 ## What to turn in
 Please zip your entire tutorial02 folder (ask if you don’t know how to do this), and submit it to Moodle under **Tutorial 2**.

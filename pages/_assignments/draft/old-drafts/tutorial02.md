@@ -124,15 +124,15 @@ It's OK if your lectures folder isn't set up yet, but make sure your tutorials f
 ### 3. Initialize a Git Repository
 After you've doublechecked your file structure, open your entire `csci185` folder in VS Code. Your file list should look like this (click on the icon that looks like two pieces of paper in the upper left-hand corner of your screen):
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss1.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss1.png" />
 
 Next, click on the icon that looks like a tree branch, and click the blue button that says "Initialize Repository":
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss2.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss2.png" />
 
 You have now created a git repository on your computer in the same folder as your `csci185` folder. Now, you will want to "stage" all of your changes. Click the button with the three dots, then select "Changes", and then "Stage All changes":
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss3.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss3.png" />
 
 After you "stage" your changes, you will note that the left-hand panel has changed. Specifically:
 
@@ -140,23 +140,23 @@ After you "stage" your changes, you will note that the left-hand panel has chang
 * The panel lists all of the files that are "staged" to be committed, with an "A" next to each file (indicating that you are adding the files for the first time). 
 * To commit these changes, type a message in the text box that says "My First Commit" and then click the check button to actually issue the commit:
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss4.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss4.png" />
 
 Afterwards, a button will appear that says "Publish Branch." Click this button. It may prompt you to install a GitHub plugin. Please agree that you are OK to install the GitHub plugin.
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss5.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss5.png" />
 
 You will now create a new GitHub repository called `csci185-coursework`. Please ensure that you create a PUBLIC repository:
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss6.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss6.png" />
 
 After VS code issues the "create repository" request to GitHub, it will give you a message indicating that your files are being sent up to GitHub. When the file transfer is complete, you will see a blue button that says "Open On GitHub". Click that button. 
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss7.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss7.png" />
 
 Clicking the button will open your newly created `csci185-coursework` repository and show you all of your files (which are now in the cloud):
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss8.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss8.png" />
 
 
 
@@ -172,11 +172,11 @@ GitHub also allows you to host pages. To enable GitHub pages:
 4. Select the "master" branch
 5. Click "Save"
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss9.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss9.png" />
 
 This will generate a link to your GitHub site. 
 
-<img class="large" src="/fall2023/assets/images/tutorials/tutorial02/ss10.png" />
+<img class="large" src="/spring2024/assets/images/tutorials/tutorial02/ss10.png" />
 
 > ### A note on GitHub Pages
 > * It make take a few minutes for your webpage to display

@@ -13,7 +13,7 @@ draft: 1
 
 Please download the exercise files (below).
 
-<a href="/fall2023/course-files/activities/background-media.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
+<a href="/spring2024/course-files/activities/background-media.zip" class="nu-button">Download Activity Files <i class="fas fa-download"></i></a>
 
 ## 1. Uncomment the relevant CSS properties
 Open `in-class-exercise` and take a look at the HTML and CSS files to get oriented with them. Then, before making any changes to the code, preview the `index.html` page in your web browser.

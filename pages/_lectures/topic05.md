@@ -14,7 +14,7 @@ due_date: 2024-02-05
 * [Selectors](../css-reference/selectors/)
     * [CSS Diner](https://flukeout.github.io/)
 * [Color](../css-reference/color/)
-* [CSS Units](/fall2023/css-reference/units/)
+* [CSS Units](/spring2024/css-reference/units/)
 * [Text &amp; Fonts](../css-reference/fonts/)
 * [The Box Model](../css-reference/box-model/) 
 
@@ -26,5 +26,5 @@ due_date: 2024-02-05
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Activities & Lecture Files
-1. Lecture 6: <a href="/fall2023/activities/intro-css">Photo Gallery Activity</a> (Monday, 09/11)
-1. Lecture 7: <a href="/fall2023/course-files/lectures/lecture07.zip">Demo Files</a> (Wednesday, 09/13)
+1. Lecture 6: <a href="/spring2024/activities/intro-css">Photo Gallery Activity</a> (Monday, 09/11)
+1. Lecture 7: <a href="/spring2024/course-files/lectures/lecture07.zip">Demo Files</a> (Wednesday, 09/13)

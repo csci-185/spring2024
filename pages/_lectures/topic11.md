@@ -21,4 +21,4 @@ Today we will be going over the rules of functions in more detail, and learning 
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
 
 ## Lecture Files
-* Lecture 16: <a href="/fall2023/course-files/lectures/lecture16.zip">Sample Files: Functions</a> (Monday, 10/23)
+* Lecture 16: <a href="/spring2024/course-files/lectures/lecture16.zip">Sample Files: Functions</a> (Monday, 10/23)
