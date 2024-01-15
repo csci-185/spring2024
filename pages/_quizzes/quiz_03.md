@@ -2,8 +2,9 @@
 layout: two-column
 title: "Quiz 3: Programming"
 type: quiz
-draft: 0
+draft: 1
 num: 3
+abbreviation: "Quiz 3"
 due_date: 2024-04-29
 ---
 

@@ -2,10 +2,9 @@
 layout: assignment-two-column
 title: Analyze an Internet Platform
 type: tutorial
-draft: 0
+draft: 1
 points: 6
 abbreviation: Tutorial 1
-show_schedule: 1
 num: 1
 start_date: 2024-01-22
 due_date: 2024-01-22

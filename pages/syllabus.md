@@ -59,10 +59,11 @@ Taking this course means committing – for 16 weeks – to practicing your emer
 ## Course Format
 The course includes a mix of lectures, in-class activities, tutorials, quizzes, homework, and projects. It is your responsibility to keep up-to-date on class material and announcements, as the schedule is subject to change. This includes material presented and announcements made in class, via email, or on Moodle.
 
-### Class Participation and In-Class Exercises (15%)
-We will use our scheduled class time to go over web design and development concepts, do practice problems together and make sure your questions get answered. Class meetings will be in person. Organizationally, most topics will span about a week (see the [course schedule](../)). Most class sessions have accompanying readings.
+### Homework & Projects (50%)
+You will be given regular homework assignments that are intended to give you additional practice with the course ideas beyond the tutorials. They are each designed to take between 4-6 hours to complete, so leave yourself enough time!
 
-* I will take attendance during every class session. You may miss three class sessions -- no questions asked -- without a grade penalty. Any additional absences (beyond the three "freebies") will impact your participation grade (and more to the point, your capacity to productively engage with the class).
+### Quizzes (25%)
+There will be 3-4 quizzes, which are intended to ensure that you understand the web design and programming and concepts relevant to the course. You will have the opportunity to retake any of your quizzes during the scheduled final exam time slot.
 
 ### Tutorials (15%)
 Most Fridays, we will complete a coding / design "tutorial." Tutorials are intended to help you:
@@ -70,14 +71,10 @@ Most Fridays, we will complete a coding / design "tutorial." Tutorials are inten
 1. Get comfortable writing lots of programs (practice makes perfect!)
 1. Assess what you know and don't know, so that you can make a plan to review various ideas and/or attend office hours.
 
-### Homework & Projects (50%)
-You will be given regular homework assignments that are intended to give you additional practice with the course ideas beyond the tutorials. They are each designed to take between 4-6 hours to complete, so leave yourself enough time!
+### Class Participation and In-Class Exercises (10%)
+We will use our scheduled class time to go over web design and development concepts, do practice problems together and make sure your questions get answered. Class meetings will be in person. Organizationally, most topics will span about a week (see the [course schedule](../)). Most class sessions have accompanying readings.
 
-### Quizzes (10%)
-There will be 3 quizzes, which are intended to ensure that you understand the web design and programming and concepts relevant to the course. Your final exam score can replace one of your quiz scores if you did poorly on a quiz.
-
-### Final Exam (10%)
-There will be a cumulative final exam that will be administered during your regularly scheduled final exam slot.
+* I will take attendance during every class session. You may miss three class sessions -- no questions asked -- without a grade penalty. Any additional absences (beyond the three "freebies") will impact your participation grade (and more to the point, your capacity to productively engage with the class).
 
 ## Expectations
 * You will come to class prepared and ready to engage in an intellectual discussion about the readings.

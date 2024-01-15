@@ -4,8 +4,8 @@ title: Quiz 2 Q&A
 abbreviation: Review Session
 type: module
 is_review: 1
-draft: 0
-due_date: 2024-03-04
+draft: 1
+due_date: 2024-03-06
 ---
 
 ## Overview

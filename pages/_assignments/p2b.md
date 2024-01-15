@@ -1,12 +1,12 @@
 ---
 layout: assignment-two-column
 title: Mid-Point Project Deliverable
-abbreviation: Project 1b
+abbreviation: Project 2b
 type: project
 due_date: 2024-04-15
 ordering: 2
 points: 15
-draft: 0
+draft: 1
 ---
 
 

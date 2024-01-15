@@ -1,9 +1,9 @@
 ---
 layout: assignment-two-column
-title: CSS Flexbox Practice
+title: CSS Layout Practice
 type: tutorial
 abbreviation: Tutorial 5
-draft: 0
+draft: 1
 points: 6
 num: 5
 start_date: 2024-02-23

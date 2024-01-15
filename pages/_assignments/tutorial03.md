@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Create a Homepage
 type: tutorial
 abbreviation: Tutorial 3
-draft: 0
+draft: 1
 points: 6
 num: 3
 start_date: 2024-02-02

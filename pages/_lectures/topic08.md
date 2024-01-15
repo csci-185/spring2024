@@ -3,7 +3,7 @@ layout: module
 title: "CSS Layouts"
 type: module
 num: 8
-draft: 0
+draft: 1
 due_date: 2024-02-21
 ---
 

@@ -3,7 +3,7 @@ layout: module
 title: Intro to GitHub
 type: module
 num: 4
-draft: 0
+draft: 1
 due_date: 2024-01-31
 ---
 

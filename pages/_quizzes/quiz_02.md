@@ -2,9 +2,10 @@
 layout: two-column
 title: "Quiz 2: CSS Techniques"
 type: quiz
-draft: 0
+draft: 1
 num: 2
-due_date: 2024-03-06
+abbreviation: "Quiz 2"
+due_date: 2024-03-08
 ---
 
 <style>

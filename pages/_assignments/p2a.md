@@ -1,12 +1,12 @@
 ---
 layout: assignment-two-column
 title: Project Proposal
-abbreviation: Project 1a
+abbreviation: Project 2a
 type: project
 due_date: 2024-04-01
 ordering: 1
 points: 10
-draft: 0
+draft: 1
 ---
 
 During the last few weeks of the course, you will be designing and implementing a final project of your choosing.

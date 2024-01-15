@@ -1,22 +1,20 @@
 ---
 layout: two-column
-title: "Final Exam"
+title: "Final Exam (Optional)"
 type: exam
-draft: 0
+draft: 1
 due_date: 2024-05-03
 ---
 
+The scheduled final exam time for this class is on May 3<sup>rd<sup> from 11:30AM to 2PM.
+
 ## Do I need to take the final exam?
-The final exam is a mixture of in-class and take-home activities. If you are already satified with your quiz score, **you do not need to take the final exam.**
+The final exam is an opportunity for you to retake any of the quizzes for which you did not do as well as you hoped.
 
 ## Quiz 1 or Quiz 2 Grade Replacement
 
-<!-- Instructions will be posted on the day of the exam -->
-
-* Please follow [these instructions](../activities/final-html-css).
+Instructions will be posted on the day of the exam
 
 ## Quiz 3 Grade Replacement
 
-<!-- Instructions will be posted on the day of the exam -->
-
-* Please follow [these instructions](../activities/final-javascript).
+Instructions will be posted on the day of the exam

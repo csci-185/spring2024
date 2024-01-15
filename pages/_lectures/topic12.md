@@ -2,9 +2,9 @@
 layout: module
 title: "Conditional Logic"
 type: module
-draft: 0
+draft: 1
 num: 12
-due_date: 2024-03-25
+due_date: 2024-03-27
 ---
 
 ## Readings

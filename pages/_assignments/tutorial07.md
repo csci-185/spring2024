@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: DOM manipulation
 type: tutorial
 abbreviation: Tutorial 7
-draft: 0
+draft: 1
 points: 6
 num: 7
 start_date: 2024-03-22

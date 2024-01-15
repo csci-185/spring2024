@@ -1,12 +1,12 @@
 ---
 layout: assignment-two-column
 title: Final Project Deliverable
-abbreviation: Project 1c
+abbreviation: Project 2c
 type: project
 due_date: 2024-05-07
 ordering: 3
 points: 30
-draft: 0
+draft: 1
 ---
 
 ## What to turn in

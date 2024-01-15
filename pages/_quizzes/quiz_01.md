@@ -3,7 +3,8 @@ layout: two-column
 show_schedule: 1
 title: "Quiz 1: HTML & CSS Introduction"
 type: quiz
-draft: 0
+abbreviation: "Quiz 1"
+draft: 1
 num: 1
 due_date: 2024-02-19
 ---
