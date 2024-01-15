@@ -4,7 +4,7 @@ title: "Functions & Events"
 type: module
 draft: 0
 num: 11
-due_date: 2023-10-23
+due_date: 2024-03-18
 ---
 
 Today we will be going over the rules of functions in more detail, and learning about some different techniques for creating functions.

@@ -5,7 +5,7 @@ title: "Quiz 1: HTML & CSS Introduction"
 type: quiz
 draft: 0
 num: 1
-due_date: 2023-09-25
+due_date: 2024-02-19
 ---
 
 

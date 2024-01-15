@@ -4,7 +4,7 @@ title: "CSS Layouts"
 type: module
 num: 8
 draft: 0
-due_date: 2023-09-27
+due_date: 2024-02-21
 ---
 
 ## Readings

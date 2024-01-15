@@ -4,7 +4,7 @@ title: Intro to the Internet
 type: module
 num: 1
 draft: 0
-due_date: 2023-08-21
+due_date: 2024-01-17
 ---
 
 Before we start building websites, let's take some time to understand how the Internet works -- including relevant technical concepts and their societal impacts and implications. 

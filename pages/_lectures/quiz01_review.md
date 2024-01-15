@@ -4,7 +4,7 @@ title: Quiz 1 Q&A
 abbreviation: Review Session
 type: module
 draft: 0
-due_date: 2023-09-22
+due_date: 2024-02-16
 ---
 
 ## Overview

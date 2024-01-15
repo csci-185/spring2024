@@ -4,7 +4,7 @@ title: "Quiz 3: Programming"
 type: quiz
 draft: 0
 num: 3
-due_date: 2023-12-04
+due_date: 2024-04-29
 ---
 
 

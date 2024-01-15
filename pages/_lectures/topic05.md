@@ -4,7 +4,7 @@ title: Intro to CSS
 type: module
 num: 5
 draft: 0
-due_date: 2023-09-11
+due_date: 2024-02-05
 ---
 
 ## Readings

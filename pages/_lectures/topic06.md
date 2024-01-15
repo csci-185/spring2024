@@ -4,7 +4,7 @@ title: "Principles of Design"
 type: module
 num: 6
 draft: 0
-due_date: 2023-09-18
+due_date: 2024-02-12
 ---
 
 ## Readings

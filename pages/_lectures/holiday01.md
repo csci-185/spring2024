@@ -1,7 +1,7 @@
 ---
 layout: module
-title: Labor Day
+title: MLK Jr. Day - No class
 type: holiday
 draft: 1
-due_date: 2023-09-04
+due_date: 2024-01-15
 ---

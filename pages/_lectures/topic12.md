@@ -4,7 +4,7 @@ title: "Conditional Logic"
 type: module
 draft: 0
 num: 12
-due_date: 2023-10-30
+due_date: 2024-03-25
 ---
 
 ## Readings

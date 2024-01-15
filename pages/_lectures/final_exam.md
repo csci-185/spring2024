@@ -3,7 +3,7 @@ layout: two-column
 title: "Final Exam"
 type: exam
 draft: 0
-due_date: 2023-12-08
+due_date: 2024-05-03
 ---
 
 ## Do I need to take the final exam?

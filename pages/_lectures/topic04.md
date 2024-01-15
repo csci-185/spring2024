@@ -4,7 +4,7 @@ title: Intro to GitHub
 type: module
 num: 4
 draft: 0
-due_date: 2023-09-06
+due_date: 2024-01-31
 ---
 
 Today we're going to learn to copy our files to a server using GitHub. Please complete the following readings before class. You will need to have git and GitHub successfully configured in order to successfully complete Tutorial 3 and Homework 2.
