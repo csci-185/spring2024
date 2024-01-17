@@ -28,5 +28,5 @@ Before we start building websites, let's take some time to understand how the In
 
 
 ## Activities
+* Introductions (pairs)
 * <a href="https://t.ly/jDfdr" target="_blank">Pre-Course Questionnaire</a>
-* Human Bingo (together in class)

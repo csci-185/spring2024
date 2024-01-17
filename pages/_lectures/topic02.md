@@ -16,7 +16,7 @@ due_date: 2024-01-19
 ## Assigned Readings
 1. By Friday (before class), watch: Black Mirror. <a href="https://www.netflix.com/watch/80195733" target="_blank">Joan is Awful</a> (2023), Season 6, Episode 1. Netflix.
     * If you don't have Netflix, you can purchase the episode for $1.99 on Amazon.
-    * **Content warning:** some profanity, nudity, and irreverent scenes. But the broader point of the piece is thought-provoking.
+    * **Content warning:** some profanity, nudity, and irreverent scenes. That said, the broader point of the piece surfaces many important socio-technical themes that are worth thinking about.
 2. By Monday (before class), read: Pew Research Center <a href="https://www.pewresearch.org/internet/2023/06/21/as-ai-spreads-experts-predict-the-best-and-worst-changes-in-digital-life-by-2035/">As AI Spreads, Experts Predict the Best and Worst Changes in Digital Life by 2035
 </a>. By Janna Anderson and Lee Rainie. June, 2023.
     * Read the entire first page (though you're welcome to read the entire report!)
