@@ -7,8 +7,9 @@ draft: 0
 due_date: 2024-01-19
 ---
 
-* What did the world look like before the Internet? 
-    * How did people find information? Shop? Read the news? Connect with friends?
+## Overview
+Today we're going to discuss the Black Mirror Episode <em>Joan Is Awful</em> as a way to consider how technological and society shape one another. Some questions to consider:
+* What did the world look like before the Internet? How did people find information? Shop? Read the news? Connect with friends?
 * How has the Internet changed over time?
 * How are existing and emerging AI systems and algorithms shaping the current Internet?
 * Why are so many people concerned about privacy on the Internet? Is it really that big a deal? 
@@ -22,20 +23,7 @@ due_date: 2024-01-19
     * Read the entire first page (though you're welcome to read the entire report!)
 
 ## Slides
-Slides will be posted before class.
+* <a href="https://docs.google.com/presentation/d/151t-Vq2voXQUrauw9iwl1HF2zp-FLDwkyaeLE35XG5s/edit?usp=sharing" target="_blank">The Internet & Society</a>
 
-<!-- * <a href="https://docs.google.com/presentation/d/1OP418VchDy1yrgKsZ6rsxfQ1voTzgeFaL4uWao9iUCc/edit">Intro to the Internet Continued</a>
-* <a href="https://docs.google.com/presentation/d/1LTErG90_n7DHuwjnVR0qMAADv18rzqjfvwzbkvIKY1g/edit?usp=sharing" target="_blank">The Internet & Society</a> -->
-
-<!-- ## Discussion Questions
-
-### Joan is Awful
-* Were any of the scenes in this show relatable?
-* Who has the power in this world?
-* Could this system exist in our current world? What protections are in place?
-
-### Other Societal Questions
-* Does the Internet amplify / represent all voices equally?
-    * Can you think of content that is overrepresented? Underrepresented?
-* Why is privacy such a huge concern for the Web / Internet?
-* Think of some examples of how life online shapes life offline (and vice versa)?  -->
+## Activities
+* <a href="https://docs.google.com/document/d/12AsXkBiOYYZxqYZMInS9iF_EmTTed0DkPws9zm-dkk0/edit" target="_blank">Discussion Questions</a>
