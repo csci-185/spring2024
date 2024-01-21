@@ -22,7 +22,7 @@ In this unit, we are going to be learning about data, and how websites use it to
 
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Lecture Files
 * Lecture 20: <a href="/spring2024/course-files/lectures/lecture20.zip">Sample Files: Course Lookup</a>

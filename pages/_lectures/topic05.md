@@ -23,7 +23,7 @@ due_date: 2024-02-05
 * Lecture 7: <a href="https://docs.google.com/presentation/d/1tySTEgJ41wZanIiB6oTFVlek-ahPUgWIcD42dX56kpM/edit?usp=sharing" target="_blank">Pseudo-classes, transitions, external fonts, and HTML Forms</a> (Wednesday, 09/13)
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Activities & Lecture Files
 1. Lecture 6: <a href="/spring2024/activities/intro-css">Photo Gallery Activity</a> (Monday, 09/11)

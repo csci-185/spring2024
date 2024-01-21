@@ -19,7 +19,7 @@ due_date: 2024-04-03
 * Lecture 19: <a href="https://docs.google.com/presentation/d/1TPQNcfHX_4SrLPzsGykmEU9OCZrKzKQJjVerYtgC-MY/edit?usp=sharing" target="_blank">For Loops</a> (next week)
 
 ## Videos
-Videos will be published after class on <a href="https://drive.google.com/drive/folders/1CxPSqGbbNUjc9OntwNqdoHvfSvchCpxE?usp=sharing" target="_blank">Google Drive</a>
+Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Lecture Files
 
