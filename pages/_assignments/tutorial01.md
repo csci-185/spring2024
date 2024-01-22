@@ -14,9 +14,7 @@ In today's tutorial, we will examine how platforms and ad networks store, analyz
 
 
 ## Slides
-Slides will be posted before class.
-
-<!-- * <a href="https://docs.google.com/presentation/d/1ZJ-DD1bpOe8KFd6iiCa0DVDNwcHavm3-usFEG2xWDsg/edit?usp=sharing" target="_blank">Tutorial 1: Background Information</a> -->
+* <a href="https://docs.google.com/presentation/d/1mhcQxxaKOmJVkbwh8TZiAPUoWXls19QQEcGkdNxNCGo/edit?usp=sharing" target="_blank">Tutorial 1: Background Information</a>
 
 ## Activities 
 1. <a href="https://docs.google.com/document/d/1v2a9n52Mp4_xLErfbHPO5yXrGprEUXbj0awSSKO4eFk/edit?usp=sharing" target="_blank">Tutorial 1 Worksheet</a>: Exploring Internet Data Collection
