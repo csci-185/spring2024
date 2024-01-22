@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Get Started on Project 1
 type: tutorial
 abbreviation: Tutorial 6
-draft: 0
+draft: 1
 points: 6
 num: 6
 start_date: 2024-03-01
