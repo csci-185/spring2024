@@ -7,7 +7,7 @@ points: 6
 abbreviation: Tutorial 1
 num: 1
 start_date: 2024-01-22
-due_date: 2024-01-24
+due_date: 2024-01-26
 ---
 
 In today's tutorial, we will examine how platforms and ad networks store, analyze and act on the data they collect about their users, and specifically how this works on a Web Browser. To do this, we will first define some technical concepts and terms (e.g., HTTP requests, cookies, and third-party cookies, etc.), and then complete a hands-on activity.

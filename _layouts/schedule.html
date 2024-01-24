@@ -87,7 +87,9 @@ layout: default
             <tr class="{{rowClass}}">
                 <th>
                 {% assign mod = diffDays | modulo: 7 %}
-
+                {% if mod == 0 %}
+                    Week {{week}}
+                {% endif %}
                 {% if mod == 1 %}
                     Week {{week}}
                 {% endif %}
