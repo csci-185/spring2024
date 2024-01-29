@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Intro to CSS
+title: Intro to CSS + HW1 presentations
 type: module
 num: 5
 draft: 1
