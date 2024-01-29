@@ -44,10 +44,8 @@ readings:
 
 ## Slides
 * Lecture 3: <a href="https://docs.google.com/presentation/d/1fGkmp8c8jUbbST23HGjrTJbVNg_GVRq-5I1baOy4pQg/edit?usp=sharing" target="_blank">Intro to HTML</a>
-<!-- * Lecture 4: <a href="https://docs.google.com/presentation/d/15ihGMJuGYghFK70Wl1DiUoX33CXuAekQp9pJGlrhziA/edit?usp=sharing" target="_blank">Semantic tags and relative links</a> 
+* Lecture 4: <a href="https://docs.google.com/presentation/d/15ihGMJuGYghFK70Wl1DiUoX33CXuAekQp9pJGlrhziA/edit?usp=sharing" target="_blank">Semantic tags and relative links</a>
 
-TODO: Time to share paper topics???
--->
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
