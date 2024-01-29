@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Create a Homepage
 type: tutorial
 abbreviation: Tutorial 3
-draft: 1
+draft: 0
 points: 6
 num: 3
 start_date: 2024-02-02
@@ -64,7 +64,7 @@ Create a brand new file called `index.html` **directly inside** of your `csci185
             <section id="inspiration">
                 <h2>Design Inspiration</h2>
                 <!-- 
-                    Links to 5-10 websites that inspire you
+                    Links to at least 5 websites that inspire you
                 -->
             </section>
             <section id="class-exercises">
@@ -147,7 +147,7 @@ To get some additional linking practice, please create an unordered list inside 
 ## Step 3: Plan your homepage design
 Eventually, you'll want to style your homepage to give it your own unique aesthetic. We'll start digging into some of the CSS principles needed to effectively style web pages next week. That said, it's never to early to start thinking about the look-and-feel of your website, and coming up with good ideas often starts by examining websites that inspire you. 
 
-To gather inspiration, you are going to go out to the Internet and find 5-10 web pages, images, advertisements, banners, etc. that you think look great! You can look at the [Design Resources page](/spring2024/design-reference/) to find some inspiring websites, or revisit websites that you already like.
+To gather inspiration, you are going to go out to the Internet and find at least **5** web pages, images, advertisements, banners, etc. that you think look great! You can look at the [Design Resources page](/spring2024/design-reference/) to find some inspiring websites, or revisit websites that you already like.
 
 When you have your list of websites, create an unordered list to the "inspiration" section of your homepage (like Sarah's <a href="https://vanwars.github.io/csci185-coursework" target="_blank">example</a>). Each list item should contain a link to one of the websites you found.
 
