@@ -15,9 +15,7 @@ Please complete the following readings / videos:
 2. [Using GitHub with Visual Studio Code](https://youtu.be/i_23KUAEtUM). How we will be using GitHub in this class.
 
 ## Slides
-Slides will be posted before class.
-
-<!-- * Lecture 5: <a href="#" target="_blank">Intro to git & GitHub</a> -->
+* Lecture 5: <a href="https://docs.google.com/presentation/d/18XJPSdOs3nn_a3LwVAk7gpSkMYM31zQxetRUcZ3hAfs/edit?usp=sharing" target="_blank">Intro to git & GitHub</a>
 
 
 ## Videos
