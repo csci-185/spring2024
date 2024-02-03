@@ -23,8 +23,6 @@ permalink: /css-reference/selectors/
 | element, element | div, p | Selects all &lt;div&gt; elements and all &lt;p&gt; elements|
 |element element | div p| Selects all &lt;p&gt; elements inside &lt;div&gt; elements |
 | element > element | div > p | Selects all &lt;p&gt; elements where the parent is a &lt;div&gt; element |
-| element + element | div + p | Selects all &lt;p&gt; elements that are placed immediately after &lt;div&gt; elements |
-| element~element | p ~ ul | Selects every &lt;ul&gt; element that is preceded by a &lt;p&gt; element |
 
 There is an excellent [selector tester](http://www.w3schools.com/cssref/trysel.asp) available on the W3Schools website that does a deeper dive into some of the more complex selectors.
 
