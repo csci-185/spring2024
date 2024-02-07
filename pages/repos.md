@@ -20,23 +20,23 @@ permalink: /repos-hidden/
 {:.repos}
 | | Name | Links | Notes |
 |--|--|--|--|
-| 1 | Alistair | <a href="https://github.com/Thistlecrux/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://thistlecrux.github.io/csci185-coursework/" target="_blank">website</a> | |
-| 2 | Arthur | <a href="https://github.com/ArthursTable/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://arthurstable.github.io/csci185-coursework" target="_blank">website</a> | |
-| 3 | Beth | <a href="https://github.com/Bpowell55/csci185" target="_blank">repo</a> &bull; <a href="https://bpowell55.github.io/csci185/" target="_blank">website</a> | |
-| 4 | Carson | <a href="https://github.com/carson5269/csci185" target="_blank">repo</a> &bull; <a href="https://carson5269.github.io/csci185/" target="_blank">website</a> | |
-| 5 | Cody | <a href="https://github.com/cwoods1/csci185" target="_blank">repo</a> &bull; <a href="https://cwoods1.github.io/csci185/" target="_blank">website</a> | |
-| 6 | Colton | <a href="https://github.com/Colt32905/csci185" target="_blank">repo</a> &bull; <a href="https://colt32905.github.io/csci185/" target="_blank">website</a> | |
-| 7 | Diana | <a href="https://github.com/Diaguiro22/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://diaguiro22.github.io/csci185-coursework/" target="_blank">website</a> | |
-| 8 | Ellie | <a href="https://github.com/KailaBtw/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://kailabtw.github.io/csci185-coursework/" target="_blank">website</a> | |
-| 9 | Emily | <a href="https://github.com/impish-wyvern/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://impish-wyvern.github.io/csci185-coursework/" target="_blank">website</a> | |
-| 10 | Ethan | <a href="https://github.com/fridays118/csci185" target="_blank">repo</a> &bull; <a href="https://fridays118.github.io/csci185/" target="_blank">website</a> |  |
-| 11 | Evren | <a href="https://github.com/EvrenUNCA/csci185" target="_blank">repo</a> &bull; <a href="https://evrenunca.github.io/csci185/" target="_blank">website</a> | |
-| 12 | Gabe | <a href="https://github.com/gjackson96/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://gjackson96.github.io/csci185-coursework/" target="_blank">website</a> | |
-| 13 | Isabella | <a href="https://github.com/Hypoluxe/csci185" target="_blank">repo</a> &bull; <a href="https://hypoluxe.github.io/csci185/" target="_blank">website</a> | |
-| 14 | Jaden | <a href="https://github.com/jfergus77/csci185" target="_blank">repo</a> &bull; <a href="https://jfergus77.github.io/csci185/" target="_blank">website</a> | |
-| 15 | Jesse | <a href="https://github.com/JesseRayCrouse/csci185" target="_blank">repo</a> &bull; <a href="https://jesseraycrouse.github.io/csci185/" target="_blank">website</a> | |
-| 16 | Katie | <a href="https://github.com/kdenten/csci185" target="_blank">repo</a> &bull; <a href="https://kdenten.github.io/csci185/" target="_blank">website</a> |  |
-| 17 | Ko | <a href="https://github.com/komacora996/csci185/" target="_blank">repo</a> &bull; <a href="https://komacora996.github.io/csci185/" target="_blank">website</a> | |
-| 18 | Laiza | <a href="https://github.com/HLaiK/csci185.git" target="_blank">repo</a> &bull; <a href="https://hlaik.github.io/csci185/" target="_blank">website</a> | |
-| 19 | Leigha | <a href="https://github.com/leighatravis/csci185" target="_blank">repo</a> &bull; <a href="https://leighatravis.github.io/csci185/" target="_blank">website</a> | |
-| 20 | Sumner | <a href="https://github.com/sstremmi/csci185" target="_blank">repo</a> &bull; <a href="https://sstremmi.github.io/csci185/" target="_blank">website</a> | |
+| 1 | Atlas Clark | <a href="https://github.com/AtlasMarsNico/csci185" target="_blank">repo</a> &bull; <a href="https://atlasmarsnico.github.io/csci185/" target="_blank">website</a> | |
+| 2 | Avery Schlicher | <a href="https://github.com/ASchlicher/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://aschlicher.github.io/csci185-coursework/" target="_blank">website</a> | |
+| 3 | Cali Dzury | <a href="" target="_blank">repo</a> &bull; <a href="" target="_blank">website</a> | TBD |
+| 4 | Cameron Frue | <a href="https://github.com/cambroony/csci185" target="_blank">repo</a> &bull; <a href="https://cambroony.github.io/csci185/" target="_blank">website</a> | See if added inspiration later.|
+| 5 | Carol Barton | <a href="" target="_blank">repo</a> &bull; <a href="" target="_blank">website</a> | TBD |
+| 6 | Destiny Whittenton | <a href="https://github.com/dwhit7905/csci185-coursework " target="_blank">repo</a> &bull; <a href="https://dwhit7905.github.io/csci185-coursework/" target="_blank">website</a> | |
+| 7 | Dylan Mayo | <a href="https://github.com/dgwmayo/csci185" target="_blank">repo</a> &bull; <a href="https://dgwmayo.github.io/csci185/" target="_blank">website</a> | |
+| 8 | Heather Fisher | <a href="https://github.com/WildflowerH/csci185" target="_blank">repo</a> &bull; <a href="https://wildflowerh.github.io/csci185" target="_blank">website</a> | |
+| 9 | Jack Neal | <a href="https://github.com/jneal2003/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://jneal2003.github.io/csci185-coursework/" target="_blank">website</a> | |
+| 10 | Joe Honorate | <a href="" target="_blank">repo</a> &bull; <a href="" target="_blank">website</a> | TBD |
+| 11 | Keiran Jensen | <a href="https://github.com/kjensen4/csci185" target="_blank">repo</a> &bull; <a href="https://kjensen4.github.io/csci185/" target="_blank">website</a> | |
+| 12 | Kelly Medlock | <a href="https://github.com/KellyMedlock/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://kellymedlock.github.io/csci185-coursework" target="_blank">website</a> | |
+| 13 | Maria Haddon | <a href="https://github.com/Tangerinedream13/csci185" target="_blank">repo</a> &bull; <a href="https://tangerinedream13.github.io/csci185/" target="_blank">website</a> | |
+| 14 | Merlin Diaz Nieto | <a href="https://github.com/MerlinDN2/csci185" target="_blank">repo</a> &bull; <a href="https://merlindn2.github.io/csci185/" target="_blank">website</a> | |
+| 15 | Natasha Earley | <a href="https://github.com/natashaearley/csci185" target="_blank">repo</a> &bull; <a href="https://natashaearley.github.io/csci185/" target="_blank">website</a> | |
+| 16 | Nicholas Neufelder | <a href="" target="_blank">repo</a> &bull; <a href="" target="_blank">website</a> | TBD |
+| 17 | Olivia White | <a href="https://github.com/owhite1/csci185" target="_blank">repo</a> &bull; <a href="https://owhite1.github.io/csci185/" target="_blank">website</a> | Missing homepage. |
+| 18 | Rinta Takagi | <a href="https://github.com/takarin13/csci185" target="_blank">repo</a> &bull; <a href="https://takarin13.github.io/csci185/" target="_blank">website</a> | |
+| 19 | Timothy (Dean) Gabrelcik | <a href="" target="_blank">repo</a> &bull; <a href="" target="_blank">website</a> | TBD |
+| 20 | Trey Lawrence | <a href="" target="_blank">repo</a> &bull; <a href="" target="_blank">website</a> | TBD |
