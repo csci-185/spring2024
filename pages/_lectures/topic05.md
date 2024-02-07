@@ -1,6 +1,6 @@
 ---
 layout: module
-title: Intro to CSS + HW1 presentations
+title: Intro to CSS
 type: module
 num: 5
 draft: 0
@@ -22,8 +22,7 @@ This week we will be transitioning to a new topic: CSS! You will also be present
 
 ## Slides
 * Lecture 6: <a href="https://docs.google.com/presentation/d/1bxIDeTqmD1sf7g6C831SzyiMAwL0R-coKltYswlewQU/edit?usp=sharing" target="_blank">Intro to CSS</a> (Monday, 02/05)
-
-<!-- * Lecture 7: <a href="#" target="_blank">Pseudo-classes, transitions, external fonts, and HTML Forms</a> (Wednesday, 09/13) -->
+* Lecture 7: <a href="https://docs.google.com/presentation/d/1CFQKmQEh6D6wldtTSVCDMnEGby109DGTODqB3oMIR0c/edit?usp=sharing" target="_blank">Pseudo-classes, transitions, external fonts, and HTML Forms</a> (Wednesday & Friday, 02/07)
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
