@@ -1,42 +1,36 @@
 ---
 layout: module
-title: "Advanced CSS Techniques"
+title: "Introduction to JavaScript"
 type: module
 num: 9
 draft: 1
-due_date: 2024-02-28
+due_date: 2024-03-18
 ---
 
-To round out our HTML & CSS instruction, we'll be going over some advanced CSS techniques -- to further enhance your visual designs. 
+This week, we're going to learn about some of the building blocks of programming (data and data types, expressions, operators, and templates).
 
-## References
+## Readings
 
-### Image Filters
-* [Image Background Walkthrough](https://www.freecodecamp.org/news/css-background-image-with-html-example-code/) (Free Code Camp)<br>Really nice walkthrough of the various CSS properties
-* [Image Backgrounds: Examples](https://www.w3schools.com/css/css3_backgrounds.asp) (W3Schools)
-* [background-image property](https://www.w3schools.com/cssref/pr_background-image.php) (W3Schools)
-* [background-attachment property](https://www.w3schools.com/cssref/pr_background-attachment.php) (W3Schools)
-* [Image filters](https://www.w3schools.com/cssref/css3_pr_filter.asp) (W3Schools)
+### Wednesday's Readings
+* <a href="https://www.digitalocean.com/community/tutorials/introduction-to-the-dom" target="_blank">Intro to the DOM</a>. <em>Digital Ocean</em> 
+* <a href="https://www.digitalocean.com/community/tutorials/understanding-the-dom-tree-and-nodes" target="_blank">Understanding the DOM Tree and Nodes</a>. <em>Digital Ocean</em> 
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-access-elements-in-the-dom" target="_blank">How To Access Elements in the DOM</a>. <em>Digital Ocean</em>
 
-### Transitions & Pseudoclasses
-* <a href="https://css-tricks.com/pseudo-class-selectors/" target="_blank">What are pseudoclasses?</a>
-* <a href="https://css-tricks.com/css-link-hover-effects/" target="_blank">CSS link hover effects</a> + <a href="https://codepen.io/vanwars/pen/ExeNEWN?editors=0100" target="_blank">CodePen</a>
-* <a href="https://css-tricks.com/4-ways-to-animate-the-color-of-a-text-link-on-hover/" target="_blank">CSS link hover effects: animated underline</a>
-* <a href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/" target="_blank">CSS link hover effects: getting creative with text shadows</a> + <a href="https://codepen.io/vanwars/pen/rNZWdGM?editors=0100" target="_blank">CodePen</a>
-* <a href="https://css-tricks.com/almanac/properties/t/transform/" target="_blank">The transform property</a>
 
-### Keyframes
-* <a href="https://thoughtbot.com/blog/css-animation-for-beginners" target="_blank">CSS animation for beginners</a> Thoughtbot
+### Friday's Readings
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-traverse-the-dom" target="_blank">How to Traverse the DOM</a>. <em>Digital Ocean</em>
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-make-changes-to-the-dom" target="_blank">How to Make Changes to the DOM</a>. <em>Digital Ocean</em>
+* <a href="https://www.digitalocean.com/community/tutorials/how-to-modify-attributes-classes-and-styles-in-the-dom" target="_blank">How to Modify Attributes, Classes, and Styles in the DOM</a>.<em>Digital Ocean</em>
+* <a href="https://www.digitalocean.com/community/tutorials/understanding-events-in-javascript" target="_blank">Understanding Events in JavaScript</a>.
+* <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em>
 
 ## Slides
-* Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
-* Lecture 13: <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 10/11)
+* Lecture 14: <a href="https://docs.google.com/presentation/d/1kbOVL1f-8QJCpBbnljsNjigygHdSwnkAliA741sCzKE/edit?usp=sharing" target="_blank">Intro to JavaScript</a> (Wednesday, 10/18)
+* Lecture 15: <a href="https://docs.google.com/presentation/d/1tgJvhp53Kwjf1Bv01hbJc7qv4PFDxo8tjvufQoS0jss/edit?usp=sharing" target="_blank">The Building Blocks of Programming - Part 1</a> (Friday, 10/20)
 
-## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
-## Activities
-* Lecture 12 (Wednesday, 10/04): [Background Images & Media Activity](../activities/background-images) 
-* Lecture 13 (Wednesday, 10/11): 
-    * Transitions Activity: [Starter Files](../course-files/activities/transitions.zip) &bull; [Instructions](../activities/transitions)
-    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes)
+## Lecture Files
+* Lecture 14: <a href="/spring2024/course-files/lectures/lecture14.zip">Sample Files: Intro to JavaScript</a> (Wednesday, 10/18)
+* Lecture 15: <a href="/spring2024/course-files/lectures/lecture15.zip">Sample Files: Building Blocks of Programming</a> (Friday, 10/20)
+

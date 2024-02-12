@@ -1,44 +1,42 @@
 ---
 layout: module
-title: "CSS Layouts"
+title: "Advanced CSS Techniques"
 type: module
 num: 8
 draft: 1
-due_date: 2024-02-21
+due_date: 2024-02-28
 ---
 
-## Readings
-In this unit, we will explore three different techniques for creating responsive layouts: CSS Grid, Flex, and Media Queries. As you complete the in-class activities and tutorials that accompany this topic, please refer to these readings.
+To round out our HTML & CSS instruction, we'll be going over some advanced CSS techniques -- to further enhance your visual designs. 
 
-### 1. CSS Grid
+## References
 
-{:.compact}
-* [CSS Grid](../css-reference/css-grid/)  
-* <a href="https://cssgridgarden.com/" target="_blank">CSS Grid Garden</a> <br>Please try to complete at least the first 10 levels 
-* <a href="https://css-tricks.com/snippets/css/complete-guide-grid/" target="_blank">CSS Tricks: A Complete Guide to Grid</a>
-* <a href="https://www.freecodecamp.org/news/learn-css-grid-by-building-5-layouts/" target="_blank">Learn CSS Grid by Building 5 Layouts in 17 minutes</a>
+### Image Filters
+* [Image Background Walkthrough](https://www.freecodecamp.org/news/css-background-image-with-html-example-code/) (Free Code Camp)<br>Really nice walkthrough of the various CSS properties
+* [Image Backgrounds: Examples](https://www.w3schools.com/css/css3_backgrounds.asp) (W3Schools)
+* [background-image property](https://www.w3schools.com/cssref/pr_background-image.php) (W3Schools)
+* [background-attachment property](https://www.w3schools.com/cssref/pr_background-attachment.php) (W3Schools)
+* [Image filters](https://www.w3schools.com/cssref/css3_pr_filter.asp) (W3Schools)
 
-### 2. Flex
+### Transitions & Pseudoclasses
+* <a href="https://css-tricks.com/pseudo-class-selectors/" target="_blank">What are pseudoclasses?</a>
+* <a href="https://css-tricks.com/css-link-hover-effects/" target="_blank">CSS link hover effects</a> + <a href="https://codepen.io/vanwars/pen/ExeNEWN?editors=0100" target="_blank">CodePen</a>
+* <a href="https://css-tricks.com/4-ways-to-animate-the-color-of-a-text-link-on-hover/" target="_blank">CSS link hover effects: animated underline</a>
+* <a href="https://css-tricks.com/cool-hover-effects-that-use-css-text-shadow/" target="_blank">CSS link hover effects: getting creative with text shadows</a> + <a href="https://codepen.io/vanwars/pen/rNZWdGM?editors=0100" target="_blank">CodePen</a>
+* <a href="https://css-tricks.com/almanac/properties/t/transform/" target="_blank">The transform property</a>
 
-{:.compact}
-* <a href="https://flexboxfroggy.com/" target="_blank">Flexbox Froggy</a>.<br>Please try to complete at least the first 10 levels
-* <a href="https://university.webflow.com/lesson/flexbox-vs-grid" target="_blank">When to use Flex versus CSS Grid?</a>      
-* <a href="https://css-tricks.com/snippets/css/a-guide-to-flexbox/" target="_blank">CSS Tricks: A Complete Guide to Flexbox</a>
-* <a href="https://www.w3schools.com/css/css3_flexbox.asp" target="_blank">W3 Schools Flexbox Guide</a>   
-
-
-### 3. Media Queries
-* [Media Queries](../css-reference/media-queries/) 
+### Keyframes
+* <a href="https://thoughtbot.com/blog/css-animation-for-beginners" target="_blank">CSS animation for beginners</a> Thoughtbot
 
 ## Slides
-{:.compact}
-* Lecture 10: <a href="https://docs.google.com/presentation/d/16o4ZmWwn3Mjfh2t-af98FUgQ5hbhn8zzzg3sjFHPrQY/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Flexbox</a> (Wednesday, 09/27)
-* Lecture 11: <a href="https://docs.google.com/presentation/d/1pX0PTiYeb4LSZCa1Ao_uolHCxKT4VO5JxFkKLvmZQ-I/edit?usp=sharing" target="_blank">Creating Page Layouts w CSS Grid</a> (Monday, 10/02)
-
+* Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
+* Lecture 13: <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 10/11)
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Activities
-* Lecture 10: <a href="/spring2024/course-files/lectures/lecture10.zip">Sample Files: Creating Page Layouts w CSS Flexbox</a> (Wednesday, 09/27)
-* Lecture 11: <a href="/spring2024/course-files/lectures/lecture11.zip">Sample Files: Creating Page Layouts w CSS Grid</a> (Monday, 10/02)
+* Lecture 12 (Wednesday, 10/04): [Background Images & Media Activity](../activities/background-images) 
+* Lecture 13 (Wednesday, 10/11): 
+    * Transitions Activity: [Starter Files](../course-files/activities/transitions.zip) &bull; [Instructions](../activities/transitions)
+    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes)

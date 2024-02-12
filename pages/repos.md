@@ -33,7 +33,7 @@ permalink: /repos-hidden/
 | 11 | Keiran Jensen | <a href="https://github.com/kjensen4/csci185" target="_blank">repo</a> &bull; <a href="https://kjensen4.github.io/csci185/" target="_blank">website</a> | |
 | 12 | Kelly Medlock | <a href="https://github.com/KellyMedlock/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://kellymedlock.github.io/csci185-coursework" target="_blank">website</a> | |
 | 13 | Maria Haddon | <a href="https://github.com/Tangerinedream13/csci185" target="_blank">repo</a> &bull; <a href="https://tangerinedream13.github.io/csci185/" target="_blank">website</a> | |
-| 14 | Merlin Diaz Nieto | <a href="https://github.com/MerlinDN2/csci185" target="_blank">repo</a> &bull; <a href="https://merlindn2.github.io/csci185/" target="_blank">website</a> | |
+| 14 | Merlin Diaz Nieto | <a href="https://github.com/MerlinDN2/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://merlindn2.github.io/csci185-coursework/" target="_blank">website</a> | |
 | 15 | Natasha Earley | <a href="https://github.com/natashaearley/csci185" target="_blank">repo</a> &bull; <a href="https://natashaearley.github.io/csci185/" target="_blank">website</a> | |
 | 16 | Nicholas Neufelder | <a href="https://github.com/nneufeldunca/csci185" target="_blank">repo</a> &bull; <a href="https://nneufeldunca.github.io/csci185/" target="_blank">website</a> |  |
 | 17 | Olivia White | <a href="https://github.com/owhite1/csci185" target="_blank">repo</a> &bull; <a href="https://owhite1.github.io/csci185/" target="_blank">website</a> | Missing homepage. |
