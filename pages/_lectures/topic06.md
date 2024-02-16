@@ -32,8 +32,8 @@ Today we will be discussing visual design, usability, and accessibility principl
 * Ladner, Richard (Mar-Apr, 2015). <a href="https://www.nixdell.com/classes/HCI-and-Design-Spring-2017/p24-ladner.pdf" target="_blank">Design for User Empowerment</a>. Interactions (ACM)
 
 ## Slides
-* Lecture 8: <a href="https://docs.google.com/presentation/d/1jqXiRvtzN67mzEACNZ884Oj33BKJilzWa95WLjHlCyU/edit?usp=sharing" target="_blank">Visual Design & Composition</a> (Wed, 02/14)
-* Lecture 9: <a href="https://docs.google.com/presentation/d/1GdxLG9dcmXOEIBS3Cwdaa0DNT6PysTBbnk0PfSudEeI/edit?usp=sharing" target="_blank">Design with Accessibility in Mind</a> (Fri, 02/16)
+* Lecture 8: <a href="https://docs.google.com/presentation/d/1JpCMCvj4hJtJ_gsVXRd-5IQDOzFz4-fUYp_3fJg6VsM/edit?usp=sharing" target="_blank">Visual Design & Composition</a> (Wed, 02/14)
+* Lecture 9: <a href="https://docs.google.com/presentation/d/1GdxLG9dcmXOEIBS3Cwdaa0DNT6PysTBbnk0PfSudEeI/edit" target="_blank">Design with Accessibility in Mind</a> (Fri, 02/16)
 
 
 ## Videos

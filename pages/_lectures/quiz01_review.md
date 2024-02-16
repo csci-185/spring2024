@@ -4,7 +4,7 @@ title: Quiz 1 Q&A
 abbreviation: Review Session
 type: module
 is_review: 1
-draft: 1
+draft: 0
 due_date: 2024-02-16
 ---
 
@@ -16,7 +16,7 @@ Today we will be doing a  Quiz review to make sure you understand the format of 
 2. Take the [practice quiz](../activities/practice-quiz01) <br>(and ask any questions that you have about it during class time or in office hours).
 
 ## Slides
-* <a href="https://docs.google.com/presentation/d/1QoyF24ZOek-oH0cFlkKyDr5v_6BfVfC5_PDQcJ_TARI/edit?usp=sharing" target="_blank">Quiz 1 Practice</a>
+* <a href="https://docs.google.com/presentation/d/11sBl8WmdE0v5IG3wpiBC0E7pZYS0dSZh3xW7zyDkdog/edit?usp=sharing" target="_blank">Quiz 1 Practice</a>
 
 ## Preparation
 I strongly recommend that you come to class on Friday having:
