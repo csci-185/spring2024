@@ -96,27 +96,38 @@ practice-quix01
 
 Edit your `index.html` file by adding a link to your stylesheet. Then, complete the following tasks within `styles.css`:
 
-1. Create a rule for the `body` element that sets the background color to a light gray (`#F0F4EF`).
-1. Create some style rules for the `header` element (and any relevant child elements) to:
-    * Set the background color to `#b4cded`
-    * Center the text horizontally
-    * Set the font family to `Impact`
-    * Set the height to `150px`
-    * Give the container `40px` of padding
-1. Create some style rules for the `nav` element (and any relevant child elements) to:
-    * Center-align the hyperlinks (text-align: center)
-    * Turn the background color to `black`
-    * Add `20px` of padding
-1. Create some style rules for all of the `a` tags inside of the `nav` element:
-    * Set the link color to white.
-    * Turn off the underlines (text-decoration)
-    * Make the text bold (font-weight)
-    * Hint: anchor (a) tags have multiple pseudo-classes that you'll want to set the style for (a, a:link, a:hover, a:visited, a:active). See <a href="https://www.w3schools.com/css/css_link.asp" target="_blank">this site</a> for more information.
+### 3.1. Body
+Create a rule for the `body` element that sets the background color to a light gray (`#F0F4EF`) and the margin to `0px`.
+
+### 3.2. Header
+Create some style rules for the `header` element (and any relevant child elements) to:
+* Set the background color to `#b4cded`
+* Center the text horizontally
+* Set the font family to `Impact`
+* Set the height to `100px`
+* Give the container `30px` of padding
+
+### 3.3 Navigation
+Create some style rules for the `nav` element (and any relevant child elements) to:
+* Center-align the hyperlinks (text-align: center)
+* Turn the background color to `black`
+* Add `20px` of padding
+
+### 3.4. Navigation Links
+Create some style rules for all of the `a` tags inside of the `nav` element:
+* Set the link color to white.
+* Turn off the underlines (text-decoration)
+* Make the text bold (font-weight)
+* Hint: anchor (a) tags have multiple pseudo-classes that you'll want to set the style for (a, a:link, a:hover, a:visited, a:active). See <a href="https://www.w3schools.com/css/css_link.asp" target="_blank">this site</a> for more information.
+
+### 3.5. Main
 1. Create some style rules for the `main` tag:
     * Add some padding
     * center align the images (text-align: center)
 1. Create a style rule for the `img` tag that adds a left margin of 30px to each image.
-1. Create some style rules to set the footer’s background color to `#344966`, and the footer’s text color to white.
+
+### 3.6. Footer
+Create some style rules to set the footer’s background color to `#344966`, and the footer’s text color to white.
 
 
 ## What to Submit (if this were a real quiz)
