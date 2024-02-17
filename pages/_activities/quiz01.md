@@ -1,11 +1,7 @@
 ---
 layout: two-column
 title: Quiz 1
-type: tutorial
-draft: 1
-points: 6
-num: 4
-due_date: 2024-02-19
+draft: 0
 ---
 
 <style>
