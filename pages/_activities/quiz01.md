@@ -5,13 +5,17 @@ draft: 0
 ---
 
 <style>
+    .center {
+        margin: auto;
+        display:block;
+    }
     img.preview {
         max-width: 60%;
         min-width: 500px;
     }
 
     img.preview-sm {
-        max-width: 400px;
+        max-width: 500px;
     }
 </style>
 
@@ -55,9 +59,16 @@ When you're done with that, complete the Parts 1-4 as described below:
 
 {:#part1}
 ## Part 1. HTML Tasks (index.html) [30pts]
-For this section, you will be editing the `index.html` file in order to create the HTML structure shown below inside of your `body` tag. 
+For this section, you will be editing the `index.html` file in order to create the HTML structure shown below. 
 
-<img class="preview" style="margin: auto;display:block;" src="/spring2024/assets/images/quizzes/quiz01/tree.png" />
+{:.center}
+### Tree View
+<img class="preview center" src="/spring2024/assets/images/quizzes/quiz01/tree.png" />
+
+{:.center}
+### Box View
+
+<img class="preview center" src="/spring2024/assets/images/quizzes/quiz01/schematic.png" />
 
 Please add only the tags shown **exactly how they are shown** (i.e. don't add extra tags or omit tags):
 
@@ -112,7 +123,7 @@ Within the `footer` tag, create a paragraph tag that says “Copyright 2024, Tac
 
 {:#part2}
 ## Part 2: Styling tasks [30pts]
-The purpose of this section is to ensure that you understand selectors. Feel free to refer to the <a href="/spring2024/assets/images/quizzes/quiz01/selector-cheatsheet.png" target="_blank">selector cheatsheet</a>.
+The purpose of this section is to ensure that you understand selectors. Feel free to refer to the <a href="/spring2024/assets/images/quizzes/quiz01/selector-cheatsheet.png" target="_blank">selector cheatsheet</a>. Be sure to add all of your style rules to the `assets/css/styles.css` file.
 
 ### 1. [3pts] Style the header 
 Create a ruleset that targets all **`header`** elements and applies the following styles:
@@ -125,12 +136,12 @@ justify-content: space-between;
 ```
 
 ### 2. [2pts] Style the image inside the header element
-Create a ruleset that targets the **`img`** element that is a ***descendent*** of the **`header`** element. Set its `width` property to `180px`.
+Create a ruleset that targets **`img`** elements that are a ***descendents*** of **`header`** elements. Set the `width` property of these images to `180px`.
 
 <img class="preview-sm" src="/spring2024/assets/images/quizzes/quiz01/header-image.png" />
 
 ### 3. [2pts] Style the hyperlinks inside the nav element
-Create a ruleset that targets **`a`** elements that are ***direct children*** of the **`nav`** element. Apply the following styles:
+Create a ruleset that targets **`a`** elements that are ***direct children*** of **`nav`** elements. Apply the following styles:
 
 ```css
 color: white;
@@ -142,7 +153,7 @@ text-transform: uppercase;
 <img class="preview-sm" src="/spring2024/assets/images/quizzes/quiz01/header-links.png" />
 
 ### 4. [3pts] Style the main element
-Create a ruleset for the **`main`** element that applies the following styles:
+Create a ruleset for **`main`** elements that applies the following styles:
 
 ```css
 padding: 100px 25vw 50px 25vw;
@@ -150,7 +161,7 @@ min-height: 55vh;
 ```
 
 ### 5. [3pts] Style the "landing" class
-Create a ruleset for the element with the **landing** class that applies the following styles:
+Create a ruleset for the **landing** class that applies the following styles:
 
 ```css
 background: white;
@@ -162,7 +173,7 @@ justify-content: center;
 ```
 
 ### 6. [4pts] Style the image inside of the "landing" class
-Create a ruleset that target the **`img`** element that is a ***direct child*** of the element that has a **landing** class. Set its `width` property to `100%`.
+Create a ruleset that target **`img`** elements that are ***direct children*** of elements with a **landing** class.  Set the `width` property of these images to `100%`.
 
 <img class="preview-sm" src="/spring2024/assets/images/quizzes/quiz01/main-image.png" />
 
@@ -179,7 +190,7 @@ text-align: center;
 This should give your `h1` and `h2` tags tag a funky custom font (which you'll notice as you complete Part 3).
 
 ### 8. [3pts] Style the "h1" element inside of the "landing" class
-Create a ruleset that target the **`h1`** element that is a ***descendent*** of the element that has a **landing** class. Apply the following style rules:
+Create a ruleset that target **`h1`** elements that are ***descendent*** of elements with a **landing** class. Apply the following style rules:
 
 ```css
 color: black;
@@ -190,8 +201,11 @@ font-family: Malamondo-Alt;
 
 This should give your `h1` tag on the landing page a slightly different custom font.
 
+<img class="preview-sm" src="/spring2024/assets/images/quizzes/quiz01/main-h1.png" />
+
+
 ### 9. [3pts] Style the link inside of the "landing" class to look like a button
-Create a ruleset that targets **`a`** elements that are ***descendents*** of element that has a **landing** class. Apply the following style rules:
+Create a ruleset that targets **`a`** elements that are ***descendents*** of elements with a **landing** class. Apply the following style rules:
 
 ```css
 text-align: center;
@@ -207,11 +221,14 @@ border-radius: 4px;
 text-decoration: none;
 ```
 
+<img class="preview-sm" src="/spring2024/assets/images/quizzes/quiz01/main-link.png" />
+
+
 ### 10. [2pts] Style the footer element
 Create a ruleset for **`footer` elements** to:
 
 1. Give the footer `50px` of padding
-2. center the text inside of the footer
+2. Center the text inside of the footer (using the `text-align` property)
 {:.compact}
 
 
@@ -316,7 +333,7 @@ When you're done with the exercise:
 When you're done with Parts 1-4, double-check that you're done:
 
 #### A. HTML structure
-All 4 of the HTML pages you just edited should have the  semantic structure (pictured below)
+All 4 of the HTML pages you just edited should have a structure and layout similar to the one pictured below (except the hyperlink around the img tag in the header is extra credit):
 <img class="preview" src="/spring2024/assets/images/quizzes/quiz01/ss05.png" />
 
 #### B. Links all work
