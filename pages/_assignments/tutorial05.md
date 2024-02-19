@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: CSS Layout Practice
 type: tutorial
 abbreviation: Tutorial 5
-draft: 1
+draft: 0
 points: 6
 num: 5
 start_date: 2024-02-23
