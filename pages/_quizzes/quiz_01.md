@@ -9,6 +9,8 @@ num: 1
 due_date: 2024-02-19
 ---
 
+> ## Actual Quiz Link
+> [Link to Quiz 1](../activities/quiz01)
 
 ## 1. Guidelines (Please Read Carefully)
 * Quiz 1 will be completed during class on Monday, 2/19. It is due at the end of class.
