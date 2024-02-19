@@ -9,6 +9,7 @@ office_hours: "MWF 1pm - 2pm (in person), Rhoades Robinson Hall, Rm. 220 or by a
 professor: "Dr. Sarah Van Wart (she / her)"
 professor_email: svanwart@unca.edu
 time_location: "MWF 11:00-12:15PM, Zeis Hall, Rm. 203"
+peer_tutoring: "Monday 4-6PM and Friday 11AM-1PM in the Math Lab with Audrey Johnson."
 notes: "Students may receive credit for ONLY ONE of the following courses: CSCI 182, 183 or 185."
 ---
 
