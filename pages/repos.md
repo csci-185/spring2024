@@ -39,4 +39,4 @@ permalink: /repos-hidden/
 | 17 | Olivia White | <a href="https://github.com/owhite1/csci185" target="_blank">repo</a> &bull; <a href="https://owhite1.github.io/csci185/" target="_blank">website</a> | Missing homepage. |
 | 18 | Rinta Takagi | <a href="https://github.com/takarin13/csci185" target="_blank">repo</a> &bull; <a href="https://takarin13.github.io/csci185/" target="_blank">website</a> | |
 | 19 | Timothy (Dean) Gabrelcik | -- | Missing |
-| 20 | Trey Lawrence | <a href="https://github.com/Shyguy3341/TestF" target="_blank">repo</a> &bull; <a href="https://shyguy3341.github.io/TestF/index.html" target="_blank">website</a> | Needs help. |
+| 20 | Trey Lawrence | <a href="https://github.com/Shyguy3341/csci185" target="_blank">repo</a> &bull; <a href="https://shyguy3341.github.io/csci185" target="_blank">website</a> | Needs help. |
