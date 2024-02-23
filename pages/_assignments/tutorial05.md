@@ -60,9 +60,11 @@ Please ensure that the following criteria are met:
 
 {:.compact}
 * The height of each `section` should be the same as the height of the browser window.
+    * Hint: try using `100vh` (vh = "viewport height").
 * The content inside of each `section` tag should be centered horizontally and vertically.
 * Each `section` should have a different background color.
 * The content in each `section` should be stacked vertically
+    * Hint: use the `flex-wrap` property.
 
 ### 3. Create a Navigation Bar
 Open `03-navbar`, and try to make the following layout using flex. The navigation bar should also be anchored to the top so when you scroll, the nav bar stays fixed.
@@ -72,9 +74,10 @@ Open `03-navbar`, and try to make the following layout using flex. The navigatio
 Hints:
 
 {:.compact}
+* Turn on the borders of all the elements using the `*` selector.
 * Both the `nav` and `ul` elements will need to be put into flex mode.
 * Use the Chrome inspector to adjust the alignment properties.
-* To turn the bullets off, set the `list-style-type` property to `none`.
+* To turn the bullets off, set the `list-style-type` property of the `ul` tag to `none`.
 * To create a fixed menu, see <a href="https://codepen.io/vanwars/pen/LYBdyzJ?editors=0100" target="_blank">this code sample</a>: 
 
 
@@ -82,7 +85,4 @@ Hints:
 Please read carefully: To turn in Tutorial 5, please link to all 3 tasks on your homepage. See Sarah's homepage to see an example of what your homepage should look like:
 * <a href="https://vanwars.github.io/csci185-coursework/" target="_blank">https://vanwars.github.io/csci185-coursework/</a>
 
-When you're done, paste the following links into the Moodle under the Tutorial 5 submission section:
-
-1. A link to your **homepage** on GitHub pages, which should link to all 3 parts of this tutorial.
-2. A link to your GitHub **code repository** (where your code files are stored).
+When you're done, paste a link to your **homepage** on GitHub pages into the Moodle under the Tutorial 5 submission section.
