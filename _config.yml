@@ -15,8 +15,9 @@ theme: minima
 plugins:
   - jekyll-feed
 exclude: 
-  - _lectures/draft
-  - _assignments/draft
+  - _lectures/drafts
+  - _assignments/drafts
+  - _quizzes/drafts
   - course-files/administrative
   - course-files/build
   - course-files/homework/drafts

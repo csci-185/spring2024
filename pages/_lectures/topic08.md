@@ -3,8 +3,8 @@ layout: module
 title: "Advanced CSS Techniques"
 type: module
 num: 8
-draft: 1
-due_date: 2024-02-28
+draft: 0
+due_date: 2024-03-01
 ---
 
 To round out our HTML & CSS instruction, we'll be going over some advanced CSS techniques -- to further enhance your visual designs. 
@@ -29,14 +29,18 @@ To round out our HTML & CSS instruction, we'll be going over some advanced CSS t
 * <a href="https://thoughtbot.com/blog/css-animation-for-beginners" target="_blank">CSS animation for beginners</a> Thoughtbot
 
 ## Slides
-* Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
-* Lecture 13: <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 10/11)
+Slides will be posted before class.
+
+<!-- * Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
+* Lecture 13: <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 10/11) -->
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Activities
-* Lecture 12 (Wednesday, 10/04): [Background Images & Media Activity](../activities/background-images) 
+Activities will be posted before class.
+
+<!-- * Lecture 12 (Wednesday, 10/04): [Background Images & Media Activity](../activities/background-images) 
 * Lecture 13 (Wednesday, 10/11): 
     * Transitions Activity: [Starter Files](../course-files/activities/transitions.zip) &bull; [Instructions](../activities/transitions)
-    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes)
+    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes) -->

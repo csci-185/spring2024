@@ -1,56 +1,85 @@
 ---
 layout: assignment-two-column
-title: Mid-Point Project Deliverable
+title: Final Project Deliverable
 abbreviation: Project 2b
 type: project
-due_date: 2024-04-15
-ordering: 2
-points: 15
+due_date: 2024-05-07
+ordering: 3
+points: 30
 draft: 1
 ---
 
+## What to turn in
+For your final deliverable, you will be submitting your final project and a project write-up:
 
-## Overview
-Your submission for this week’s deliverable should consist of three parts:
+### 1. Final Project (20 Points)
+To submit your final project, create a link from your homepage to your final project (like we have been doing all semester).
 
-1. [6pts] [Sharing some design / code](#code) of what you have accomplished (Q1).
-2. [4pts] Answering the [4 reflective questions below](#reflection) (Q2-Q5).
-3. [5pts] Sharing [what you have accomplished](#accomplishments) with your classmates (you are welcome to use slides, but you don't have to).
-
-This is an opportunity for you to reflect on your accomplishments, and consider how you can best use the remaining time that you have to come to a reasonable stopping point for your project.
-
-{:#code}
-## 1. Code & Designs [6pts]
-Please share something that best represents your progress thus far. This could be a link to your your GitHub repository, a screenshot of your code (or some attachments), drawings of your screens, a mockup, etc. The code / designs you share should reflect 4-6 hours of work.
-
-{:.blockquote-no-margin}
-> ### Side note
-> We’re all still learning how all of these technologies work, so no need to feel hesitant to share your progress…even if you hoped to be further along! The point is to put in a good faith effort and to get some feedback.
-
-{:#reflection}
-## 2. Reflection [4pts]
-### 1. Reflecting on your accomplishments [1pt]
-What did you accomplish this week (i.e. how’d it go)?
-
-### 2. Reflecting on challenges [1pt]
-What took the most time / was the most challenging part of what you did? Do you feel stuck? How can you get unstuck? Is there any specific feedback that you would like from Sarah?
-
-### 3. Next steps [1pt]
-What will you turn in for your final deliverable. Please describe what you plan to accomplish.
-
-### 4. Scope revision? [1pt]
-Given your experience this week, are you on track to deliver on what you proposed last week? If not, what adjustments to the scope of your project are you planning to make?
+### 2. Project Write-Up (10 Points)
+Write a reflection / self assessment (1-2 pages) that includes the following:
+1. A link to your code repository (GitHub)
+1. A link to your live website (GitHub Pages)
+1. A summary of your project and your process of making the website (feel free to draw from earlier text that you wrote). Please be sure to describe:
+  * The overall goal of your project and intended audience.
+  * The web technologies / libraries / techniques you used.
+  * 1-2 things you learned in the process of completing your project.
+  * How you believe you should be evaluated (list your accomplishments and how they relate to the themes of the class). Bullets fine.
+  * How you think you did on this project given the evaluation criteria you selected.
+  * What your next steps would be if you had more time.
 
 
-{:#accomplishments}
-## 3. Sharing Your Accomplishments [5pts]
-One of the great things about being in a class with other people who are also learning web technologies is that you can learn with one another. Given this, you will be sharing your ideas and your progress so far with some of your classmates during class on Monday, 11/20. This is a very low-pressure check-in, and is intended for you each to help each other explore different ideas and approaches and get some feedback and encouragement from your peers.
+## Rubric
 
-## What to Turn In
-Please upload a file (either a text document or a zip file) that includes:
+In evaluating your final project, I will take the following into account (note that different criteria apply differently, depending on the direction of your project):
 
-1. [6pts] Your code and/or design progress. Please share / upload something that represents your progress. This will probably include links to your repo / website, but it could also include drawings, etc. 
-1. [4pts] Your answers to the reflective questions.
+* The time/effort you put into your project, and your intellectual curiosity
+* Your reflection of your own learning and possible next steps
+* Your instantiation of the design & coding principles
+* The coding and design elements that you used to bring your idea to life
 
-Note that your "Sharing your accomplishments" grade will be based on your participation in class during Tutorial 10 (Friday, 11/17).
-
+<table>
+    <thead>
+        <tr>
+            <th>Category</th>
+            <th>Points</th>
+            <th>Evaluation Criteria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Scope of the Project</td>
+            <td>10</td>
+            <td>
+                <ul>
+                    <li>Was the scope of your project commensurate with your level of experience?</li>
+                    <li>Did everyone on your team substantively contribute to the project?</li>
+                    <li>Did you take into account all of the project feedback that was given to you (if applicable)?</li>
+                    <li>Did you go out and research new technologies and figure out how to instantiate your ideas?</li>
+                    <li>Did you push yourself to really engage with the ideas presented in the course on your own terms? </li>
+                    <li>Did you take any risks (e.g. try to learn something you didn’t initially know how to do)?</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Execution of the project</td>
+            <td>10</td>
+            <td>
+                <ul>
+                    <li>Did you arrive at a reasonable stopping point by the end?</li>
+                    <li>Does your code works as intended?</li>
+                    <li>Did you meet the evaluation criteria that you set for yourself in the reflection document?</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td>Reflection</td>
+            <td>10</td>
+            <td>
+                <ul>
+                    <li>Did you write a thoughtful reflection of the intent of the project and any lessons learned?</li>
+                    <li>Did you address all of the prompts (specified above)?</li>
+                </ul>
+            </td>
+        </tr>
+    </tbody>
+</table>

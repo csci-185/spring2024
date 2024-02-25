@@ -1,12 +1,12 @@
 ---
 layout: assignment-two-column
-title: "Project 1: Final Deliverable"
+title: "Second Deliverable"
 abbreviation: Project 1b
 type: project
-due_date: 2024-03-20
+due_date: 2024-03-27
 ordering: 5
-points: 20
-draft: 1
+points: 30
+draft: 0
 ---
 
 <style>
@@ -19,4 +19,4 @@ draft: 1
     }
 </style>
 
-TBD: Replicate a website.
+I will be posting these instructions shortly.

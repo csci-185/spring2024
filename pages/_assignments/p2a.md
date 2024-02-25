@@ -1,32 +1,56 @@
 ---
 layout: assignment-two-column
-title: Project Proposal
+title: Mid-Point Project Deliverable
 abbreviation: Project 2a
 type: project
-due_date: 2024-04-01
-ordering: 1
-points: 10
+due_date: 2024-04-15
+ordering: 2
+points: 15
 draft: 1
 ---
 
-During the last few weeks of the course, you will be designing and implementing a final project of your choosing.
 
-## Your task
-1. Carefully read the [final project guidelines](../final-project) page.
-2. Fill out this <a href="https://docs.google.com/document/d/172O_OF31KVvIrBHsAHEk7XTl76q6ilByHpoQ6amogYc/edit?usp=sharing" target="_blank">project proposal worksheet</a>. 
+## Overview
+Your submission for this week’s deliverable should consist of three parts:
+
+1. [6pts] [Sharing some design / code](#code) of what you have accomplished (Q1).
+2. [4pts] Answering the [4 reflective questions below](#reflection) (Q2-Q5).
+3. [5pts] Sharing [what you have accomplished](#accomplishments) with your classmates (you are welcome to use slides, but you don't have to).
+
+This is an opportunity for you to reflect on your accomplishments, and consider how you can best use the remaining time that you have to come to a reasonable stopping point for your project.
+
+{:#code}
+## 1. Code & Designs [6pts]
+Please share something that best represents your progress thus far. This could be a link to your your GitHub repository, a screenshot of your code (or some attachments), drawings of your screens, a mockup, etc. The code / designs you share should reflect 4-6 hours of work.
+
+{:.blockquote-no-margin}
+> ### Side note
+> We’re all still learning how all of these technologies work, so no need to feel hesitant to share your progress…even if you hoped to be further along! The point is to put in a good faith effort and to get some feedback.
+
+{:#reflection}
+## 2. Reflection [4pts]
+### 1. Reflecting on your accomplishments [1pt]
+What did you accomplish this week (i.e. how’d it go)?
+
+### 2. Reflecting on challenges [1pt]
+What took the most time / was the most challenging part of what you did? Do you feel stuck? How can you get unstuck? Is there any specific feedback that you would like from Sarah?
+
+### 3. Next steps [1pt]
+What will you turn in for your final deliverable. Please describe what you plan to accomplish.
+
+### 4. Scope revision? [1pt]
+Given your experience this week, are you on track to deliver on what you proposed last week? If not, what adjustments to the scope of your project are you planning to make?
 
 
-Take a look at the appendix (in the Google Doc) for some examples of how to fill the worksheet out, but try not to be too constrained by these examples. Feel free to make this project work for you and your goals.
+{:#accomplishments}
+## 3. Sharing Your Accomplishments [5pts]
+One of the great things about being in a class with other people who are also learning web technologies is that you can learn with one another. Given this, you will be sharing your ideas and your progress so far with some of your classmates during class on Monday, 11/20. This is a very low-pressure check-in, and is intended for you each to help each other explore different ideas and approaches and get some feedback and encouragement from your peers.
 
+## What to Turn In
+Please upload a file (either a text document or a zip file) that includes:
 
-## Rubric
-Really, I just want to see that you put some time and effort into thinking about what you want to accomplish and what it might take to make it happen. Along these lines, I will be grading you on:
+1. [6pts] Your code and/or design progress. Please share / upload something that represents your progress. This will probably include links to your repo / website, but it could also include drawings, etc. 
+1. [4pts] Your answers to the reflective questions.
 
-1. Completeness: did you answer the questions with enough detail?
-2. Demonstrated attention and thought to the scope, nature, and breakdown of the tasks.
-3. Evidence that you did some legwork to explore what kinds of examples, tutorials, and web resouces are out there.
+Note that your "Sharing your accomplishments" grade will be based on your participation in class during Tutorial 10 (Friday, 11/17).
 
-## What to turn in
-{:.checkbox-list}
-* Please copy the project proposal and answer the 8 questions. When you're done, upload your responses to the Moodle.
-* Only one proposal submission per team needed (if you're working on a team).
