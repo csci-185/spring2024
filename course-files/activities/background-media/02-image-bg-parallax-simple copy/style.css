@@ -10,6 +10,19 @@ section {
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
+
+    /* use flex to center the children horizontally and vertically */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+h2 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    color: white;
+    text-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
 }
 
 .image-1 {

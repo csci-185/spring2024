@@ -29,18 +29,14 @@ To round out our HTML & CSS instruction, we'll be going over some advanced CSS t
 * <a href="https://thoughtbot.com/blog/css-animation-for-beginners" target="_blank">CSS animation for beginners</a> Thoughtbot
 
 ## Slides
-Slides will be posted before class.
-
-<!-- * Lecture 12: <a href="https://docs.google.com/presentation/d/1NdlUEE0ev00UnExP-HXCCemv9x50wJrrQB47C84jFTg/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Wednesday, 10/04)
-* Lecture 13: <a href="https://docs.google.com/presentation/d/1xHMsMJFu6b_oosGlMVTPePKTw5h9mm4MVrlaq3Chudw/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 10/11) -->
+* Lecture 12: <a href="https://docs.google.com/presentation/d/1dnn0r9gm01Piih45TOG_pp2HSTOf0W0jce3xhGDkBTQ/edit?usp=sharing" target="_blank">Image Effects & HTML5</a> (Friday, 3/01)
+* Lecture 13: <a href="https://docs.google.com/presentation/d/1nwUnpIhOmlLRdd3KMHEotTdEPaVP6_ZjHEMTJmNOW30/edit?usp=sharing" target="_blank">Pseudo-Classes, Transitions, & Keyframes</a> (Wednesday, 3/04)
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Activities
-Activities will be posted before class.
-
-<!-- * Lecture 12 (Wednesday, 10/04): [Background Images & Media Activity](../activities/background-images) 
-* Lecture 13 (Wednesday, 10/11): 
+* Lecture 12 (Friday, 3/01): [Background Images & Media Activity](../activities/background-images) 
+* Lecture 13 (Monday, 3/14): 
     * Transitions Activity: [Starter Files](../course-files/activities/transitions.zip) &bull; [Instructions](../activities/transitions)
-    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes) -->
+    * Keyframes Activity: [Starter Files](../course-files/activities/keyframes.zip) &bull; [Instructions](../activities/keyframes)

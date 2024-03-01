@@ -75,6 +75,6 @@ Hint: try adding `filter: invert(180);` to the `header` style block in your CSS 
 
 
 ## 4. Try adding a video background
-* Take a look at the video background sample files and see if you can add a section somewhere on the page that has a video background.
-* Both <a href="https://www.pexels.com/search/videos/background%20videos/" target="_blank">pexels.com</a> has some free video backgrounds that you can download.
+* Take a look at the video background sample files and see if you can add a section somewhere on the page that has a video background. Refer to the `05-video-background` folder to see if you can figure out how to do it.
+* <a href="https://www.pexels.com/search/videos/background%20videos/" target="_blank">pexels.com</a> has some free video backgrounds that you can download.
 

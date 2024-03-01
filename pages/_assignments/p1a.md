@@ -88,33 +88,8 @@ You must cite your sources:
 Not including where various coding ideas came from is a serious academic integrity violation. It is important to give credit to the people (or bots) that helped us to create our website.
 
 
-> ## 2. Useful Tools / Websites
-> 
-> ### Images and Videos
-> For stock, uncopyrighted images and videos, try:
-> * <a href="https://unsplash.com/" target="_blank">Unsplash</a>
-> * <a href="https://www.pexels.com/" target="_blank">Pexels</a>
-> * <a href="https://pixabay.com/" target="_blank">Pixabay</a>
-> * <a href="https://www.freepik.com/" target="_blank">Freepik</a>
-> {:.compact}
-> 
-> ### Color Tools
-> To find colors for your site, try these websites: 
-> * <a href="https://color.adobe.com" target="_blank">Adobe</a>
-> * <a href="https://color.adobe.com/create/image" target="_blank">Palette from Image</a>
-> * <a href="https://uigradients.com" target="_blank">UI Gradients</a>
-> * <a href="https://www.colourlovers.com/" target="_blank">Colour lovers</a>
-> * <a href="https://coolors.co/" target="_blank">Coolors</a>
-> * <a href="https://colorbrewer2.org" target="_blank">Color Brewer</a>
-> {:.compact}
->
-> ### Fonts & Icons
-> * <a href="https://fontawesome.com/icons" target="_blank">Font Awesome</a>
-> * <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>
-> {:.compact}
 
-
-## 3. Your First Deliverable (due Friday, March 8)
+## 2. Your First Deliverable (due Friday, March 8)
 For deliverabe 1, you will need to submit the following:
 1. A wireframe
 1. A desktop and mobile layout, implemented using HTML & CSS
@@ -142,7 +117,7 @@ Please follow the folder naming conventions exactly as they are described here:
 #### HTML Tasks
 Implement your HTML page:
 1. Start by adding all of your semantic tags (e.g., `header`, `nav`, `main`, `section`, `article`). Note that everyone's structure will be different, and you may not need to use all of the semantic tags -- just some of them. If you don't remember how to do this, refer to the <a href="https://htmlandcssguidebook.com/html/html5-semantic/" target="_blank"> reading from Homework 2</a>.
-2. When you're done adding the semantic tags, add additional HTML to fill in the actual content (e.g., images, headings and subheadings, links, videos, etc.). Recall that this was the process you used in Quiz 1 (see the image below), except that your structure will be different, depending on how you want to lay your page out.<br><img class="medium" src="/spring2024/assets/images/quizzes/quiz01/tree.png">.
+2. When you're done adding the semantic tags, add additional HTML to fill in the actual content (e.g., images, headings and subheadings, links, videos, etc.). Recall that this was the process you used in Quiz 1 (see the image below), except that your structure will be different, depending on your particular page layout.<br><img class="medium" src="/spring2024/assets/images/quizzes/quiz01/tree.png">.
 
 When you're done with this part, there should only be content (no styling yet).
 
@@ -152,9 +127,11 @@ When you're done with this part, there should only be content (no styling yet).
 Link your `index.html` file to your `styles.css` stylesheet using a `link` tag (like we've been practicing all semester). Then, add the following style rules to your `styles.css` page:
 
 1. Add borders (or background colors) to all of the semantic tags of your webpage. This will allow you to visually inspect the various regions of your website. If you're confused about what I mean by this, take a look at the screenshots below, where Sarah has decided to replicate the Spotify website.
-2. Use CSS Grid to create a page layout. Feel free to refer to your HW4 solutions to get a sense of how you might do this.
-3. Add additional borders, styling, margins, padding, etc. to any additional elements (see screenshot below for an example).
-4. Add a media query to the end of your CSS file that styles the content differently for the mobile version of the website.
+2. Use CSS Grid to create your page layout.
+    * Think about the overall grid structure (columns and rows), and then how to assign child elements to various grid regions.
+    * Feel free to refer to your HW4 solutions to get a sense of how you might do this.
+3. Add additional borders, styling, margins, padding, etc. to any additional elements (see screenshot below for an example) to further refine your layout.
+4. Add a media query to the end of your CSS file that adjusts your grid to create a mobile-friendly version of your web page.
 
 In the sample layouts below, note that only style rules for the CSS Grid (overarching layout), borders, and padding have been applied. All other styling will happen in your second deliverable.
 
@@ -187,6 +164,6 @@ When you're done with everything:
 
 
 
-## 4. Your Second Deliverable: Due Wednesday, March 27
+## 3. Your Second Deliverable: Due Wednesday, March 27
 
 See the [deliverable 2](p1b) page.
