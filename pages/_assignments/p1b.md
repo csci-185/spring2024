@@ -17,6 +17,7 @@ draft: 0
     img.large {
         width: 100%;
     }
+    
 </style>
 
 In your second deliverable, you will be converting your web page from a wireframe to a fully designed website in a style of your choice. Please read the following guidelines carefully. I have also included a list of useful tools / websites that can help you below:
