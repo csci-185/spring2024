@@ -27,12 +27,19 @@ div {
     border: solid 1px #000;
 }
 
-#div1,
-#div3 {
+#div1 {
     transform: rotate(var(--rotation));
 }
 
-#div2,
+#div2 {
+    transform: rotate(calc(var(--rotation) * -2));
+}
+
+#div3 {
+    transform: rotate(calc(var(--rotation) * 0.5));
+}
+
+
 #div4 {
-    transform: rotate(calc(var(--rotation) * -1));
+    transform: rotate(calc(var(--rotation) * -1.5));
 }
