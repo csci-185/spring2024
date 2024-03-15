@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: DOM manipulation
 type: tutorial
 abbreviation: Tutorial 7
-draft: 1
+draft: 0
 points: 6
 num: 7
 start_date: 2024-03-22
@@ -129,8 +129,4 @@ Please make sure that you have completed the following:
 * Everything committed to GitHub (stage, commit, and sync).
 
 ## What to Submit
-**Please Read Carefully:** To submit Tutorial 6, please paste the following links into the Moodle under the Tutorial 6 submission section:
-
-1. A link to your **homepage** on GitHub pages, which should link to the "font size adjuster" and "theme switcher" tasks you completed (using relative paths). See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.
-    * Note that your homepage should also link to previous tutorials and classwork you have done.
-2. A link to your GitHub **code repository** (where your code files are stored).
+**Please Read Carefully:** To submit Tutorial 7 on the Moodle, please paste a link to your **homepage** on GitHub pages, which should link to the "font size adjuster" and "theme switcher" tasks you completed (using relative paths). See <a href="https://vanwars.github.io/csci185-coursework" target="_blank">Sarah's Homepage</a> for an example.

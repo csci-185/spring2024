@@ -1,10 +1,10 @@
 ---
 layout: two-column
-title: "Quiz 3: Programming"
+title: "Quiz 2: Programming"
 type: quiz
 draft: 1
 num: 3
-abbreviation: "Quiz 3"
+abbreviation: "Quiz 2"
 due_date: 2024-04-29
 ---
 
