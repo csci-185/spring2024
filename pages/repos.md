@@ -36,7 +36,7 @@ permalink: /repos-hidden/
 | 14 | Merlin Diaz Nieto | <a href="https://github.com/MerlinDN2/csci185-coursework" target="_blank">repo</a> &bull; <a href="https://merlindn2.github.io/csci185-coursework/" target="_blank">website</a> | |
 | 15 | Natasha Earley | <a href="https://github.com/natashaearley/csci185" target="_blank">repo</a> &bull; <a href="https://natashaearley.github.io/csci185/" target="_blank">website</a> | |
 | 16 | Nicholas Neufelder | <a href="https://github.com/nneufeldunca/csci185" target="_blank">repo</a> &bull; <a href="https://nneufeldunca.github.io/csci185/" target="_blank">website</a> |  |
-| 17 | Olivia White | <a href="https://github.com/owhite1/csci185" target="_blank">repo</a> &bull; <a href="https://owhite1.github.io/csci185/" target="_blank">website</a> | Missing homepage. |
+| 17 | Olivia White | <a href="https://github.com/owhite1/csci185" target="_blank">repo</a> &bull; <a href="https://owhite1.github.io/csci185/" target="_blank">website</a> | |
 | 18 | Rinta Takagi | <a href="https://github.com/takarin13/csci185" target="_blank">repo</a> &bull; <a href="https://takarin13.github.io/csci185/" target="_blank">website</a> | |
-| 19 | Timothy (Dean) Gabrelcik | -- | Missing |
-| 20 | Trey Lawrence | <a href="https://github.com/Shyguy3341/csci185" target="_blank">repo</a> &bull; <a href="https://shyguy3341.github.io/csci185" target="_blank">website</a> | Needs help. |
+| 19 | Timothy (Dean) Gabrelcik | <a href="https://github.com/deangabrelcik/csci185" target="_blank">repo</a> &bull; website | Needs help with GitHub Pages + no homepage. |
+| 20 | Trey Lawrence | <a href="https://github.com/Shyguy3341/csci185" target="_blank">repo</a> &bull; <a href="https://shyguy3341.github.io/csci185" target="_blank">website</a> | |
