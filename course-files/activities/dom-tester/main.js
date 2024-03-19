@@ -9,7 +9,7 @@ function updateScreen(ev) {
     const elem = document.querySelector("#js");
     let prefix = "";
     if (elem.innerHTML.trim() === "") {
-        prefix = "const ";
+        prefix = "let ";
     }
     const executionString = `${prefix}myElement = document.querySelector("${selector}");myElement.${prop} = "${val}";`;
     elem.insertAdjacentHTML(

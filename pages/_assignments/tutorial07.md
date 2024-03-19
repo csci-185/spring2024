@@ -25,15 +25,12 @@ The goal of today's tutorial is to:
 
 I have created a cheatsheet (below) with examples of different selector methods and approaches to updating the DOM.
 
-### Selector Methods 
+### Selector Functions 
 
 | Method | Example |
 |--|--|
-| getElementById() | document.getElementById("my_element") |
 | querySelector() | document.querySelector("#my_element")<br>document.querySelector("p")<br>document.querySelector(“.my-announcements") |
-| querySelectorAll() | document.querySelectorAll("p") |
-| getElementsByTagName() | document.getElementsByTagName("div") |
-| getElementsByClassName() | document.getElementsByClassName(".panel") |
+
 
 ### Some examples of HTML attributes you can modify
 
