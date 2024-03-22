@@ -70,12 +70,12 @@ The keyword `defer` means that the script won't run until your entire web page i
 
 
 Open `01-font-switcher/index.html`:
-1. Attach the `makeBigger()` event handler to the `#bigger` button.
-2. Attach the `makeSmaller()` event handler to the `#smaller` button.
+1. Attach a `makeBigger()` click event handler to the button where `id="bigger"`.
+2. Attach a `makeSmaller()` click event handler to to the button where `id="smaller"`.
 
-See the Lecture 9 and Lecture 10 exercise files if you need to see some examples of how you might do this. 
+See the Lecture 14 exercise files if you need to see some examples of how you might do this. 
 
-Next, open `01-font-switcher/index.js` and, modify the body of the `makeBigger` and `makeSmaller` functions so that they update the font size of the `div.content` element and the `h1` element. There should be at least two statements within the body of each function (one to target and manipulate `div.content`, and one to target and manipulate `h1`). When you're done, your web page should look like this:
+Next, open `01-font-switcher/index.js` and, modify the body of the `makeBigger` and `makeSmaller` functions so that they update the font size of the `div` element and the `h1` element. There should be at least two statements within the body of each function (one to target and manipulate the `div`, and one to target and manipulate `h1`). When you're done, your web page should look like this:
 
 <img class="large frame" src="/spring2024/assets/images/tutorials/tutorial07/font-switcher.gif" />
 
