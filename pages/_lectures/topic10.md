@@ -16,14 +16,10 @@ Today we will be going over the rules of functions in more detail, and learning 
 * <a href="https://www.digitalocean.com/community/tutorials/understanding-template-literals-in-javascript" target="_blank">Understanding Template Literals in JavaScript</a>. <em>Digital Ocean</em>
 
 ## Slides
-Slides will be posted before class.
-
-<!-- * Lecture 16: <a href="#" target="_blank">Functions</a> (3/20 & 3/22) -->
+* Lecture 16: <a href="https://docs.google.com/presentation/d/1OidKCrwsSJGKmUA6F_jlYW6RhKm0l4WGQJkiW-VVbXY/edit?usp=sharing" target="_blank">Functions</a> (3/25)
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Lecture Files
-Lecture files will be posted before class.
-
-<!-- * Lecture 16: <a href="/spring2024/course-files/lectures/lecture16.zip">Sample Files: Functions</a> (Monday, 3/20) -->
+* Lecture 16: <a href="/spring2024/course-files/lectures/lecture16.zip">Sample Files: Functions</a> (Monday, 3/25)
