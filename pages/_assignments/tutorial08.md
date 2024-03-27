@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Make an online drawing program
 type: tutorial
 abbreviation: Tutorial 8
-draft: 1
+draft: 0
 points: 6
 num: 8
 start_date: 2024-03-29
