@@ -2,7 +2,7 @@
 layout: module
 title: "Loops"
 type: module
-draft: 1
+draft: 0
 num: 12
 due_date: 2024-04-03
 ---
@@ -14,13 +14,16 @@ due_date: 2024-04-03
 * <a href="https://www.digitalocean.com/community/tutorials/for-loops-for-of-loops-and-for-in-loops-in-javascript" target="_blank">For Loops, For...Of Loops and For...In Loops in JavaScript</a>. <em>Digital Ocean</em>  
 
 ## Slides
-* Lecture 18a: <a href="https://docs.google.com/presentation/d/1WmKszziI3m9WaY7CfWMIDb-oAMu5tnqjbvZzopDJwVg/edit?usp=sharing" target="_blank">JavaScript So Far</a> (Monday, 11/05)
-* Lecture 18b: <a href="https://docs.google.com/presentation/d/1hbBBdHhTG1wU_ggjrAahYvA8hG6hHPM-KoXGAjpVMnU/edit#slide=id.g4da5ebe7aa_0_198" target="_blank">While Loops & Lists</a>
-* Lecture 19: <a href="https://docs.google.com/presentation/d/1TPQNcfHX_4SrLPzsGykmEU9OCZrKzKQJjVerYtgC-MY/edit?usp=sharing" target="_blank">For Loops</a> (next week)
+Slides will be posted before class.
+
+<!-- * Lecture 18a: <a href="https://docs.google.com/presentation/d/1NUDEQ0KC3n4zoK-WByhWvgtJLY20NbqftZSLRgNWSwM/edit?usp=sharing" target="_blank">JavaScript So Far</a> (Wed, 04/05)
+* Lecture 18b: <a href="https://docs.google.com/presentation/d/1JXJ9L9U_4NDxM9qwnYVfIc_39QbyltJOhRNr29RD_BY/edit?usp=sharing" target="_blank">While Loops & Lists</a> (Wed, 04/05)
+* Lecture 19: <a href="https://docs.google.com/presentation/d/1FVWdDg4exyov1Z_UDMXlz7dI3yODEVwot1Ux3C7FArA/edit?usp=sharing" target="_blank">For Loops</a> (next week) -->
 
 ## Videos
 Videos will be published after class on <a href="https://drive.google.com/drive/folders/1Ym8GBef1YiuwanRfXkqdD55_EpgE7c4E" target="_blank">Google Drive</a>
 
 ## Lecture Files
+Lecture files will be posted before class.
 
-* Lecture 18 & 19 (Loops): <a href="/spring2024/course-files/lectures/lecture18_19.zip">Sample Files</a>
+<!-- * Lecture 18 & 19 (Loops): <a href="/spring2024/course-files/lectures/lecture18_19.zip">Sample Files</a> -->

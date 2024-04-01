@@ -3,7 +3,7 @@ layout: assignment-two-column
 title: Make some algorithmic art
 type: tutorial
 abbreviation: Tutorial 9
-draft: 1
+draft: 0
 points: 6
 num: 9
 start_date: 2024-04-05
@@ -85,11 +85,35 @@ function randomInt(min, max) {
 ```
 
 ### Your Job
-In `artwork/sketch.js`, take a look at lines 22-25 (which are responsible for creating the randomly sized and positioned circle). Then, using any kind of loop you want, try making 1,000 randomly generated circles. When you're done, experiment with the following techniques to make some algorithmic, abstract art: 
+In `artwork/art.js`, take a look at lines 22-25 (which are responsible for creating the randomly sized and positioned circle). Then, using any kind of loop you want, try making 1,000 randomly generated circles. When you're done, experiment with the following techniques to make some algorithmic, abstract art: 
 
-* Try creating other random shapes (squares, lines, triangles, etc.) within your loop. There is some sample code (commented out) at the bottom of `sketch.js` that you can experiment with (but note that you have to move the relevant function invocations *inside* of the setup function for them to work).
-* Try making each shape a different color. Consider picking a random color from the `colors` palette (and feel free to change the colors / add more colors).
-* See if you can animate some of the shapes by moving some of your code into the `draw()` function. 
+(1) Try creating other random shapes (squares, lines, triangles, etc.) within your loop. Here is some sample code for the various shapes you might make:
+
+```js
+
+// draw a random square:
+square(x, y, size);
+
+// draw a random triangle:
+triangle(
+    x,
+    y - size / 2,
+    x - size / 2.25,
+    y + size / 4.3,
+    x + size / 2.25,
+    y + size / 4.3
+);
+
+// draw a random line:
+let coefX = randomFloat(-3, 3);
+let coefY = randomFloat(-3, 3);
+line(x, y, x + size * coefX, y + size * coefY);
+```
+
+
+(2) Try making each shape a different color. Consider picking a random color from the `colors` palette (and feel free to change the colors / add more colors).
+
+(3) See if you can animate some of the shapes by moving some of your code into the `draw()` function and uncommenting it.
 
 I have included some sample drawings below to give you some ideas:
 
@@ -103,7 +127,6 @@ I have included some sample drawings below to give you some ideas:
     <img src="/spring2024/assets/images/tutorials/tutorial09/squares-rotating.gif" /> 
     <img src="/spring2024/assets/images/tutorials/tutorial09/bubbles.gif" /> 
 </div>
-
 
 
 ## Part 2: Animation

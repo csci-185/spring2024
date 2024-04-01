@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: In-Class Presentations + Practice JavaScript Quiz
+title: Practice JavaScript Quiz
 type: tutorial
 abbreviation: Tutorial 10
 draft: 1
