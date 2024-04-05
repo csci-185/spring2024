@@ -45,6 +45,9 @@ due_date: 2024-04-08
     }
 </style>
 
+> ## Introductory Concepts
+> * <a href="https://docs.google.com/presentation/d/1EGlHg55_1SzKq1n_H2e-sVcG87_77fNF7UpV4uEryks/edit?usp=sharing" target="_blank">Introductory Slides</a>
+
 <a class="nu-button" href="/spring2024/course-files/tutorials/tutorial09.zip" target="_blank">
     Tutorial 09 Starter Files <i class="fas fa-download"></i>
 </a> 
