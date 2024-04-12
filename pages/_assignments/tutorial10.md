@@ -21,27 +21,27 @@ The goal of this tutorial is to get you more comfortable working with loops and 
 
 ## Your Job
 Please complete the 5 tasks described in the starter files (preview each of the `index.html` files to read the instructions). Specifically, you will create small programs that do the following:
-1. Draw 50 of the same image to the screen (completed for you)
-2. Draw 50 different images to the screen
-3. Output the names of all of the students in the class to the screen
-4. Output "data cards" of all of the students in the class to the screen
-5. Query Spotify and display / play a song to the screen 
+* **Task 1:** Draw 50 of the same image to the screen (completed for you)
+* **Task 2:** Draw 50 different images to the screen
+* **Task 3:** Output the names of all of the students in the class to the screen
+* **Task 4:** Output "data cards" of all of the students in the class to the screen
+* **Task 5:** Query Spotify and display / play a song to the screen 
 
 When you're done, you should have programs that look like this:
 
-### Task 2
+### Task 2: Draw 50 different images to the screen
 <img src="/spring2024/assets/images/tutorials/tutorial10/task02.gif" />
 
 
-### Task 3
+### Task 3:  Output the names of all of the students in the class to the screen
 <img src="/spring2024/assets/images/tutorials/tutorial10/task03.gif" />
 
 
-### Task 4
+### Task 4: Output "data cards" of all of the students in the class to the screen
 <img src="/spring2024/assets/images/tutorials/tutorial10/task04.gif" />
 
 
-### Task 5
+### Task 5: Query Spotify and display / play a song to the screen 
 <img src="/spring2024/assets/images/tutorials/tutorial10/task05.gif" />
 
 
