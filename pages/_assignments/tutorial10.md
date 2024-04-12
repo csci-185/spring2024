@@ -30,15 +30,19 @@ Please complete the 5 tasks described in the starter files (preview each of the 
 When you're done, you should have programs that look like this:
 
 ### Task 2
+<img src="/spring2024/assets/images/tutorials/tutorial10/task02.gif" />
 
 
 ### Task 3
+<img src="/spring2024/assets/images/tutorials/tutorial10/task03.gif" />
 
 
 ### Task 4
+<img src="/spring2024/assets/images/tutorials/tutorial10/task04.gif" />
 
 
 ### Task 5
+<img src="/spring2024/assets/images/tutorials/tutorial10/task05.gif" />
 
 
 ## What to Submit
