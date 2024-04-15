@@ -1,6 +1,6 @@
 ---
 layout: two-column
-title: "Final Exam (Optional)"
+title: "Final Exam (Quiz Makeup) - Optional"
 type: exam
 draft: 1
 due_date: 2024-05-03

@@ -1,6 +1,6 @@
 ---
 layout: assignment-two-column
-title: Practice with Loops & Template
+title: Practice with Loops & Templates
 type: tutorial
 abbreviation: Tutorial 10
 draft: 0

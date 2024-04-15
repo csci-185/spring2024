@@ -54,14 +54,15 @@ Quiz 2 will be both a paper-based and coding assessment that will be administere
 ## 2. Study Resources
 To study for the quiz, please review the following:
 * Course slides, videos, readings, and sample code.
-* Study Guide (will be posted soon)
+* <a href="https://docs.google.com/document/d/1WXTRU9LDCVL4qLm2s2tZG93O5-EOCCtc2WvtAl8AVN8/edit?usp=sharing" target="_blank">Study Guide</a>
 
 
 <!-- * <a href="https://docs.google.com/document/d/1zqusHdnVevqoDcIOi_riF-GQjudisOmq_KsDJVpVt8s/edit?usp=sharing" target="_blank">Study Guide</a> -->
 
 ### Written Portion
 Practice Problems (for the in-class, written portion of the quiz):
-* <a href="https://docs.google.com/document/d/1RRfqyYzMtnKOFAHzgYgAkEcKVYWmqY4YjzlmsFgF0q4/edit?usp=sharing" target="_blank">Sample Problems</a>
-* <a href="https://docs.google.com/document/d/1r6HiSX0BpORhXnAs4g3LGRDjDrZpkKkj_pgKmNK6SIg/edit?usp=sharing" target="_blank">Sample Quiz 1</a>
-* <a href="https://docs.google.com/document/d/1Dpk3C1VeIQlxLpO_qPb9BEr2QWOKKv1SvEoyhqdBcDU/edit?usp=sharing" target="_blank">Sample Quiz 2</a>
-* <a href="https://docs.google.com/document/d/1JODzhDwsp-_FQT_CuJ0QA9FOCyZWRo9FJTthcEuBovE/edit?usp=sharing" target="_blank">Sample Quiz 3</a>
+* <a href="https://docs.google.com/document/d/1RRfqyYzMtnKOFAHzgYgAkEcKVYWmqY4YjzlmsFgF0q4/edit?usp=sharing" target="_blank">Practice Problems</a>
+* <a href="https://docs.google.com/document/d/198j_9tdMpIbxxJAQpjCyqMnGOCzHRAoXweIDtiZ9sjI/edit?usp=sharing" target="_blank">Sample Quiz #1</a>
+* <a href="https://docs.google.com/document/d/1_yyQGM1doOB1Y8Q1hrHZV4yHoGKqioNQfzxvp8HUt18/edit?usp=sharing" target="_blank">Sample Quiz #2</a>
+* <a href="https://docs.google.com/document/d/1SpW9r8IW0VyiU4Fxlz2DpH3EsYNiFmIMdjlDu_rsByU/edit?usp=sharing" target="_blank">Sample Quiz #3</a>
+* <a href="https://docs.google.com/document/d/1QBQRQx20wPIPvBb6Q4F0GhY-GXsiXBbZgnKH0m_2yP4/edit?usp=sharing" target="_blank">Sample Quiz #4</a>
