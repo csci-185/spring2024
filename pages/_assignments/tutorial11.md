@@ -64,4 +64,4 @@ Open the `exercise04` folder. Inside of `main.js`, write a program, using any ki
 <img class="small" src="/spring2024/assets/images/tutorials/tutorial11/exercise04.png" />
 
 ## What to Submit
-Please commit and push your changes. Then, paste a link to your code repository (e.g., [https://github.com/vanwars/csci185-coursework](https://github.com/vanwars/csci185-coursework)) to the course Moodle under **Tutorial 11**.
+Please commit and push your changes. Then, paste a link to your code repository (e.g., [https://vanwars.github.io/csci185-coursework](https://vanwars.github.io/csci185-coursework)) to the course Moodle under **Tutorial 11**.
