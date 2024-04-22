@@ -12,10 +12,11 @@ draft: 0
 {:.blockquote-no-margin}
 > ## Project Guidelines
 > * [Project 2 Guidelines](/spring2024/project02)
+> * **Note that May 7 is a HARD DEADLINE** (because grades are due). No late submissions will be accepted.
 
 ## What to turn in
 For your final deliverable, you will be submitting a reflection / self assessment document (<1 page) that includes the following:
-1. A link to your hopepage website (GitHub Pages)
+1. A link to your homepage website (GitHub Pages)
 1. A summary of your project (feel free to draw from earlier text that you wrote). Please be sure to describe:
   * The overall goal of your project.
   * The web technologies / libraries / techniques you used.
