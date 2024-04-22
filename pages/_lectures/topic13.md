@@ -21,9 +21,7 @@ Slides will be posted before class.
 
 * <a href="https://docs.google.com/presentation/d/1-qgi3wDjfDs8S3vqIZurNZRI4aKuZWeaK35s9k8L4SM/edit?usp=sharing" target="_blank">Quiz Practice Problems</a>: Loops and Arrays
 * <a href="https://docs.google.com/presentation/d/1oh-pFJL-HrsfBIgXryrJD_eRlNqBbFQd7sApVCW2OwM/edit?usp=sharing" target="_blank">Lecture 20: Intro to REST APIs</a>
-
-<!-- 
-* <a href="https://docs.google.com/presentation/d/19oFIdp3NxM2pv-2penA8tdvJHVKPiwLNLVOSvb2WQWQ/edit?usp=sharing" target="_blank">Lecture 21: JavaScript's Fetch API</a> -- Ready to go sans announcements -->
+* <a href="https://docs.google.com/presentation/d/19oFIdp3NxM2pv-2penA8tdvJHVKPiwLNLVOSvb2WQWQ/edit?usp=sharing" target="_blank">Lecture 21: JavaScript's Fetch API</a>
 
 
 ## Videos
