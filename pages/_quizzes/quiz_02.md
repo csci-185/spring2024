@@ -48,6 +48,11 @@ due_date: 2024-04-29
 </style>
 
 
+<!-- {:.blockquote-no-margin}
+> ## Actual Quiz Link
+> [Link to Actual Quiz 2](../activities/quiz02) -->
+
+
 ## 1. Ground Rules (Please Read Carefully)
 Quiz 2 will be both a paper-based and coding assessment that will be administered **during class** on Monday. You may use your notes, pen and paper, and any "cheat sheets" that you want to make. You may not use a computer for the paper-based portion of the exam
 
@@ -56,8 +61,6 @@ To study for the quiz, please review the following:
 * Course slides, videos, readings, and sample code.
 * <a href="https://docs.google.com/document/d/1WXTRU9LDCVL4qLm2s2tZG93O5-EOCCtc2WvtAl8AVN8/edit?usp=sharing" target="_blank">Study Guide</a>
 
-
-<!-- * <a href="https://docs.google.com/document/d/1zqusHdnVevqoDcIOi_riF-GQjudisOmq_KsDJVpVt8s/edit?usp=sharing" target="_blank">Study Guide</a> -->
 
 ### Written Portion
 Practice Problems (for the in-class, written portion of the quiz):
