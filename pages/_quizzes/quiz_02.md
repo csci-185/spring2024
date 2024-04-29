@@ -48,9 +48,9 @@ due_date: 2024-04-29
 </style>
 
 
-<!-- {:.blockquote-no-margin}
+{:.blockquote-no-margin}
 > ## Actual Quiz Link
-> [Link to Actual Quiz 2](../activities/quiz02) -->
+> [Link to Actual Quiz 2](../activities/quiz02)
 
 
 ## 1. Ground Rules (Please Read Carefully)
