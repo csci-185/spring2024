@@ -24,7 +24,7 @@ I will be hosting an optional (but recommended) review session **tomorrow (Wedne
 
 ## 2. Homework 6 Hints & Tips
 * You may have until **Friday, 5/3 at 11:59PM** to submit [Homework 6](../assignments/hw06)
-* Here is a <a href="https://drive.google.com/drive/folders/15GSnz7zUq6FWY-vTojihUAyMBvRkxa39" target="_blank">video walkthrough of the entire assignment</a> (from last semester). Please don't just blindly code, but make sure you understand how it works!
+* Here is a <a href="https://drive.google.com/file/d/1F_OyCbaNr57q0oDQavbz-1qhJtMRUifT/view" target="_blank">video walkthrough of the entire assignment</a> (from last semester). Please don't just blindly code, but make sure you understand how it works!
 
 ## 3. Final Exam
 * The final exam is optional, and is an [opportunity to retake one or both of your quizzes](../lectures/final-exam) if you would like to improve your score.
