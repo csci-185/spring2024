@@ -341,6 +341,7 @@ nav {
             border-bottom: solid 3px transparent;
             list-style: none;
             padding: 10px 5px;
+            transition-property: all;
 
             &.active {
                 border-bottom: solid 3px $primary;
@@ -359,5 +360,48 @@ nav {
                 border-bottom: solid 3px $clay;
             }
         }
+
+        li.nav-highlight {
+            background-color: #dc4a1ac9;
+            color: white !important;
+            font-weight: bold;
+
+            a, a:visited, a:active, a:hover, a:active {
+                color: #FFF;
+                // border-bottom: solid 3px $clay;
+                animation: pulseText 3s infinite;
+            }
+
+            animation: pulseBg 3s infinite;
+        }
+    }
+}
+
+
+@keyframes pulseBg {
+    0% {
+        background-color: #dc4a1ac9;
+    }
+  
+    50% {
+        background-color: #dc4a1a00;
+    }
+
+    100% {
+        background-color: #dc4a1ac9;
+    }
+}
+
+@keyframes pulseText {
+    0% {
+        color: white;
+    }
+  
+    50% {
+        color: #dc4a1a;
+    }
+
+    100% {
+        color: white;
     }
 }
