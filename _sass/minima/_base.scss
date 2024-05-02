@@ -363,9 +363,9 @@ nav {
 
         li.nav-highlight {
             a, a:visited, a:active, a:hover, a:active {
-                animation: pulseText 1s 3;
+                animation: pulseText 1s 2;
             }
-            animation: pulseBg 1s 3;
+            animation: pulseBg 1s 2;
         }
     }
 }
