@@ -12,9 +12,15 @@ The scheduled final exam time for this class is on **May 3<sup>rd</sup> from 11:
 The final exam is an opportunity for you to retake any of the quizzes for which you did not do as well as you hoped.
 
 ## Quiz 1 Replacement
+* Instructions will be posted at 11AM on Friday, 5/3.
 
-Instructions will be posted on the day of the exam
+<!-- * [Retake Quiz 1 here](../activities/final-html-css) -->
+
 
 ## Quiz 2 Grade Replacement
+* Instructions will be posted at 11AM on Friday, 5/3.
 
-Instructions will be posted on the day of the exam
+<!-- * First, take the paper exam
+* Then, [Retake the Quiz 2 digital portion](../activities/final-javascript) -->
+
+

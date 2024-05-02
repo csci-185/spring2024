@@ -362,17 +362,10 @@ nav {
         }
 
         li.nav-highlight {
-            background-color: #dc4a1ac9;
-            color: white !important;
-            font-weight: bold;
-
             a, a:visited, a:active, a:hover, a:active {
-                color: #FFF;
-                // border-bottom: solid 3px $clay;
-                animation: pulseText 3s infinite;
+                animation: pulseText 1s 3;
             }
-
-            animation: pulseBg 3s infinite;
+            animation: pulseBg 1s 3;
         }
     }
 }
@@ -380,28 +373,34 @@ nav {
 
 @keyframes pulseBg {
     0% {
-        background-color: #dc4a1ac9;
+        // transform: scale(1);
+        background-color: #F9F9F9;
     }
   
     50% {
-        background-color: #dc4a1a00;
+        // transform: scale(1.1);
+        background-color: #dc4a1ac9;
     }
 
     100% {
-        background-color: #dc4a1ac9;
+        // transform: scale(1);
+        background-color: #F9F9F9;
     }
 }
 
 @keyframes pulseText {
     0% {
-        color: white;
+        font-weight: bold;
+        color: #dc4a1a;
     }
   
     50% {
-        color: #dc4a1a;
+        font-weight: bold;
+        color: #F9F9F9;
     }
 
     100% {
-        color: white;
+        font-weight: bold;
+        color: #dc4a1a;
     }
 }
