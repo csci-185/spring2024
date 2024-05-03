@@ -75,6 +75,6 @@ Open the `exercise04` folder and examine all of the files. Inside of `main.js`, 
 ```
 
 ## What to Submit
-**Please read carefully:** Doublecheck your work to make sure you've completed at least two of the 4 tasks. Then, update your homepage by adding a linking to the exercises you completed. After committing and syncing your changes to GitHub, paste a link to your **homepage** on GitHub pages.
+**Please read carefully:** Doublecheck your work to make sure you've completed at least two of the 4 tasks. Then, update your homepage by adding a linking to the exercises you completed. After committing and syncing your changes to GitHub, paste a link to your **homepage** on GitHub pages into the Moddle.
 
 * If your GitHub is not working for whatever reason, just zip your **COMPLETED** `javascript-final-exam` folder and upload it to the Moodle.

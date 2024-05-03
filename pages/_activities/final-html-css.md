@@ -222,11 +222,6 @@ Run the WAVE extension and make sure there are no accessibility issues. Correct 
 
 
 ## What to Submit
-**Please read carefully:** Doublecheck your work to make sure you've completed all of the tasks. Then, update your homepage by adding a link to `html-css-final-exam`. Sarah's final exam looks like this: <a href="https://vanwars.github.io/csci185-coursework/" target="_blank">https://vanwars.github.io/csci185-coursework/</a>
+**Please read carefully:** Doublecheck your work to make sure you've completed all of the tasks. Then, update your homepage by adding a linking to the index.html page you just completed. After committing and syncing your changes to GitHub, paste a link to your **homepage** on GitHub pages into the Moodle.
 
-After committing and syncing your changes to GitHub, paste the following links into the Moodle under the Final Exam submission section:
-
-1. A link to your **homepage** on GitHub pages.
-2. A link to your GitHub **code repository** (where your code files are stored).
-
-If your GitHub is not working for whatever reason, just zip your **COMPLETED** `final-exam` folder and upload it to the Moodle.
+* If your GitHub is not working for whatever reason, just zip your **COMPLETED** `javascript-final-exam` folder and upload it to the Moodle.
